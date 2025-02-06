@@ -22,20 +22,19 @@ By compiling well-structured benchmark cases, this repository aims to:
 Each system is organized into a separate folder, containing:
 
 ```
-Uni-FEP-Benchmarks/
+scripts/
+└── gen_figure.py       # Script for generating dG comparison plots based on result_dG.csv
+
+uni_fep_benchmarks/
 │── system_1/  
 │   ├── README.md        # Brief description of the system  
 │   ├── result_dG.png    # Visualization of FEP-calculated dG  
-│   ├── result_ddG.png   # Visualization of FEP-calculated ddG  
 │   ├── result_dG.csv    # Numerical results of dG comparisons  
-│   ├── result_ddG.csv   # Numerical results of ddG comparisons  
 │  
 │── system_2/  
 │   ├── README.md  
 │   ├── result_dG.png  
-│   ├── result_ddG.png  
 │   ├── result_dG.csv  
-│   ├── result_ddG.csv  
 │  
 └── ...
 ```
@@ -43,22 +42,14 @@ Uni-FEP-Benchmarks/
 ## File Descriptions
 
 - **`README.md`**: Contains a brief summary of the system, including error statistics (e.g., RMSE of dG and ddG).
-- **`result_dG.png`**: Graphical representation of **FEP-derived absolute binding free energies (dG)** compared to experimental values.
-- **`result_ddG.png`**: Graphical representation of **FEP-calculated relative binding free energy differences (ddG)** vs. experimental data.
-- **`result_dG.csv`**: A table containing RBFE-predicted absolute binding free energies (`FEP_dG`) and experimental measurements (`Exp_dG`).
-- **`result_ddG.csv`**: A table comparing RBFE-derived relative binding free energies (`FEP_ddG`) with experimental data (`Exp_ddG`).
+- **`result_dG.png`**: Graphical representation of **FEP-derived binding free energies (dG)** compared to experimental values.
+- **`result_dG.csv`**: A table containing RBFE-predicted binding free energies (`fep_dG`) and experimental measurements (`exp_dG`).
 
 #### `result_dG.csv` Example (RBFE-calculated dG values)
-| Ligand_SMILES | Ligand_Name | Exp_dG (kcal/mol) | FEP_dG (kcal/mol) |
-|----------------|--------------|-----------------|-----------------|
-| 'Ligand_SMILES' | 'Ligand_Name' | -7.5 | -7.2 |
-| 'Ligand_SMILES' | 'Ligand_Name' | -8.1 | -7.9 |
-
-#### `result_ddG.csv` Example (RBFE-calculated ddG values)
-| Ligand_A_SMILES | Ligand_A_Name | Ligand_B_SMILES | Ligand_B_Name | Exp_ddG (kcal/mol) | FEP_ddG (kcal/mol) |
-|----------------|--------------|--------------|----------------|-----------------|-----------------|
-| 'Ligand_A_SMILES' | 'Ligand_A_Name' | 'Ligand_B_SMILES' | 'Ligand_B_Name' | 0.6 | 0.5 |
-
+| ligand_smiles | ligand_name | exp_dG (kcal/mol) | fep_dG (kcal/mol) | fep_dG_std (kcal/mol) |
+|----------------|--------------|-----------------|-----------------|-----------------|
+| 'Ligand_SMILES' | 'Ligand_Name' | -7.5 | -7.2 | 0.15 |
+| 'Ligand_SMILES' | 'Ligand_Name' | -8.1 | -7.9 | 0.08 |
 
 ## Data Update Guidelines
 
