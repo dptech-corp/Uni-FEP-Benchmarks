@@ -1,0 +1,11 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]C([H])=C([H])n1c([H])nc2c(N([H])c3c([H])c([H])c(P(=O)(C([H])([H])[H])C([H])([H])[H])c([H])c3[H])nc([H])nc21,CHEMBL2036013_1000.0_nM,-8.1814,-5.5931,0.2545
+[H]c1c([H])c(P(=O)(C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H])c([H])c([H])c1N([H])c1nc(C([H])(C([H])([H])[H])C([H])([H])[H])nc2c1nc([H])n2C([H])([H])C([H])([H])[H],CHEMBL2036006_8.8_nM,-10.9842,-13.0492,0.2626
+[H]Oc1c([H])c([H])c([H])c(C([H])([H])C([H])([H])n2c([H])nc3c(N([H])c4c([H])c([H])c(P(=O)(C([H])([H])[H])C([H])([H])[H])c([H])c4[H])nc(C4([H])C([H])([H])C([H])([H])C([H])([H])C4([H])[H])nc32)c1[H],CHEMBL1089405_0.9_nM,-12.3344,-14.313,0.2529
+[H]OC([H])([H])C1([H])C([H])([H])C([H])([H])N(c2nc(N([H])c3c([H])c([H])c(P(=O)(C([H])([H])[H])C([H])([H])[H])c([H])c3[H])c3nc([H])n(C([H])=C([H])[H])c3n2)C([H])([H])C1([H])[H],CHEMBL2036010_155.0_nM,-9.2854,-8.211,0.26
+[H]C([H])=C([H])n1c([H])nc2c(N([H])c3c([H])c([H])c(P(=O)(C([H])([H])[H])C([H])([H])[H])c([H])c3[H])nc(O[C@]3([H])C([H])([H])OC([H])([H])C3([H])[H])nc21,CHEMBL2036011_188.0_nM,-9.1711,-8.1894,0.2589
+[H]c1c([H])c(P(=O)(C([H])([H])C([H])([H])C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])[H])c([H])c([H])c1N([H])c1nc(C([H])(C([H])([H])[H])C([H])([H])[H])nc2c1nc([H])n2C([H])([H])C([H])([H])[H],CHEMBL2036005_3.9_nM,-11.4661,-12.3591,0.2527
+[H]c1c([H])c(P(=O)(C([H])([H])[H])C([H])([H])[H])c([H])c([H])c1N([H])c1nc(C([H])(C([H])([H])[H])C([H])([H])[H])nc2c1nc([H])n2C([H])([H])C([H])([H])[H],CHEMBL2036007_25.1_nM,-10.3635,-9.6644,0.1728
+[H]/C(=C(/[H])n1c([H])nc2c(N([H])c3c([H])c([H])c(P(=O)(C([H])([H])[H])C([H])([H])[H])c([H])c3[H])nc(-c3nc([H])c([H])c([H])c3[H])nc21)c1c(C([H])([H])[H])c([H])c([H])c([H])c1C([H])([H])[H],CHEMBL2036009_43.1_nM,-10.0433,-10.4358,0.2795
+[H]c1c([H])c(C([H])(C([H])([H])[H])C([H])([H])[H])c([H])c([H])c1N([H])c1nc(C([H])(C([H])([H])[H])C([H])([H])[H])nc2c1nc([H])n2C([H])([H])C([H])([H])[H],CHEMBL2036012_385.0_nM,-8.7466,-9.0634,0.1838
+[H]c1c([H])c(P(=O)(C([H])([H])[H])C([H])([H])[H])c([H])c([H])c1N([H])c1nc(N([H])C2([H])C([H])([H])C([H])([H])OC([H])([H])C2([H])[H])nc2c1nc([H])n2C([H])([H])C([H])([H])[H],CHEMBL2036008_41.2_nM,-10.07,-9.7676,0.1829
