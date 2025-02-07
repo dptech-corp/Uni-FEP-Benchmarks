@@ -57,6 +57,10 @@ When submitting new benchmark data via a **Merge Request**, please include the f
 
 1. **Uni-FEP version** used for this dataset  
 2. **Simulation parameters** (e.g., lambda windows, simulation time, force field)  
+3. **Ensure that the benchmark summary table is updated** by running:
+   ```cmd
+   python scripts/update_summary_table.py
+   ```
 
 This metadata should be included in the **Merge Request description**.
 
