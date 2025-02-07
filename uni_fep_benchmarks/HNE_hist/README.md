@@ -1,0 +1,2 @@
+## Reference
+> von Nussbaum F, Li VM, Allerheiligen S, Anlauf S, Bärfacker L, Bechem M, Delbeck M, Fitzgerald MF, Gerisch M, Gielen‐Haertwig H, Haning H. Freezing the bioactive conformation to boost potency: The identification of BAY 85‐8501, a Selective and Potent Inhibitor of Human Neutrophil Elastase for Pulmonary Diseases. ChemMedChem. 2015 Jul;10(7):1163-73.

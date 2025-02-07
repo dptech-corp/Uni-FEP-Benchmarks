@@ -1,0 +1,2 @@
+## Reference
+> Zetterberg FR, MacKinnon A, Brimert T, Gravelle L, Johnsson RE, Kahl-Knutson B, Leffler H, Nilsson UJ, Pedersen A, Peterson K, Roper JA. Discovery and optimization of the first highly effective and orally available galectin-3 inhibitors for treatment of fibrotic disease. Journal of Medicinal Chemistry. 2022 Sep 26;65(19):12626-38.

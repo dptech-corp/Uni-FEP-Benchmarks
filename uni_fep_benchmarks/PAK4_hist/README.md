@@ -1,0 +1,2 @@
+## Reference 
+> Hao C, Zhao F, Song H, Guo J, Li X, Jiang X, Huan R, Song S, Zhang Q, Wang R, Wang K. Structure-based design of 6-chloro-4-aminoquinazoline-2-carboxamide derivatives as potent and selective p21-activated kinase 4 (PAK4) inhibitors. Journal of medicinal chemistry. 2018 Jan 11;61(1):265-85.
