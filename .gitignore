@@ -2,4 +2,5 @@ prepare/
 stat.txt
 draw_mol.py
 stat.py
+edit_doc.py
 temp/
