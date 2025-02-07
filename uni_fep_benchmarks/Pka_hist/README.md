@@ -1,2 +1,0 @@
-## Reference
-> Davie RL, Edwards HJ, Evans DM, Hodgson ST, Stocks MJ, Smith AJ, Rushbrooke LJ, Pethen SJ, Roe MB, Clark DE, McEwan PA. Sebetralstat (KVD900): A potent and selective small molecule plasma kallikrein inhibitor featuring a novel P1 group as a potential oral on-demand treatment for hereditary angioedema. Journal of Medicinal Chemistry. 2022 Oct 17;65(20):13629-44.

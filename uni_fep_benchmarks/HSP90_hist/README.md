@@ -1,2 +1,0 @@
-## Reference 
-> Cappel D, Jerome S, Hessler G, Matter H. Impact of different automated binding pose generation approaches on relative binding free energy simulations. Journal of Chemical Information and Modeling. 2020 Jan 28;60(3):1432-44.

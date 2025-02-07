@@ -1,2 +1,0 @@
-## Reference 
-> Wang X, Allen S, Blake JF, Bowcut V, Briere DM, Calinisan A, Dahlke JR, Fell JB, Fischer JP, Gunn RJ, Hallin J. Identification of MRTX1133, a noncovalent, potent, and selective KRASG12D inhibitor. Journal of medicinal chemistry. 2021 Dec 10;65(4):3123-33.

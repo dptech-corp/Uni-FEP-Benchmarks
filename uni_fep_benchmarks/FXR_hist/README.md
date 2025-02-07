@@ -1,2 +1,0 @@
-## Reference 
-> Athanasiou C, Vasilakaki S, Dellis D, Cournia Z. Using physics-based pose predictions and free energy perturbation calculations to predict binding poses and relative binding affinities for FXR ligands in the D3R Grand Challenge 2. Journal of computer-aided molecular design. 2018 Jan;32(1):21-44.

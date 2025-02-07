@@ -1,2 +1,0 @@
-## Reference
-> Jiao X, Kopecky DJ, Liu J, Liu J, Jaen JC, Cardozo MG, Sharma R, Walker N, Wesche H, Li S, Farrelly E. Synthesis and optimization of substituted furo [2, 3-d]-pyrimidin-4-amines and 7H-pyrrolo [2, 3-d] pyrimidin-4-amines as ACK1 inhibitors. Bioorganic & medicinal chemistry letters. 2012; 22(19):6212-7.
