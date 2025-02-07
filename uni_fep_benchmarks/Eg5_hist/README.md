@@ -1,0 +1,2 @@
+## Reference 
+> Talapatra SK, Tham CL, Guglielmi P, Cirilli R, Chandrasekaran B, Karpoormath R, Carradori S, Kozielski F. Crystal structure of the Eg5-K858 complex and implications for structure-based design of thiadiazole-containing inhibitors. European Journal of Medicinal Chemistry. 2018 Aug 5;156:641-51.

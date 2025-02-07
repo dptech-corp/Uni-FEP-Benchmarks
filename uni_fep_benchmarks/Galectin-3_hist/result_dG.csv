@@ -1,0 +1,9 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol)
+[H]OC([H])([H])[C@@]1([H])O[C@]([H])(Sc2c([H])c([H])c(N([H])C(=O)C([H])([H])[H])c([H])c2[H])[C@]([H])(O[H])[C@@]([H])(n2nnc(-c3c([H])c(F)c(F)c(F)c3[H])c2[H])[C@@]1([H])O[H],11a,-8.758,-9.28
+[H]OC([H])([H])[C@@]1([H])O[C@@]([H])(S[C@]2([H])O[C@]([H])(C([H])([H])OC([H])([H])[H])[C@]([H])(OC([H])([H])[H])[C@]([H])(n3nnc(-c4c([H])c([H])c([H])c(F)c4[H])c3[H])[C@@]2([H])OC([H])([H])[H])[C@]([H])(OC([H])([H])[H])[C@@]([H])(n2nnc(-c3c([H])c([H])c([H])c(F)c3[H])c2[H])[C@@]1([H])OC([H])([H])[H],5b,-5.457,-3.36
+[H]OC([H])([H])[C@@]1([H])O[C@@]([H])(Sc2c([H])c([H])c(C([H])([H])[H])c([H])c2[H])[C@]([H])(O[H])[C@@]([H])(n2nnc(-c3c([H])c(F)c(F)c(F)c3[H])c2[H])[C@@]1([H])O[H],8c,-7.208,-7.75
+[H]OC([H])([H])[C@@]1([H])O[C@]([H])(Sc2c([H])nc([H])c(Br)c2[H])[C@]([H])(O[H])[C@@]([H])(n2nnc(-c3c([H])c(F)c(F)c(F)c3[H])c2[H])[C@@]1([H])O[H],11d,-10.371,-9.85
+[H]OC([H])([H])[C@@]1([H])O[C@@]([H])(Sc2c([H])c([H])c([H])c(OC([H])([H])[H])c2[H])[C@]([H])(O[H])[C@@]([H])(n2nnc(-c3c([H])c(F)c(F)c(F)c3[H])c2[H])[C@@]1([H])O[H],8b,-7.871,-8.4
+[H]OC([H])([H])[C@@]1([H])O[C@@]([H])(S[C@]2([H])O[C@]([H])(C([H])([H])O[H])[C@]([H])(O[H])C([H])([H])[C@@]2([H])O[H])[C@]([H])(O[H])[C@@]([H])(n2nnc(-c3c([H])c([H])c([H])c(F)c3[H])c2[H])[C@@]1([H])O[H],mediate,-9.83,-9.83
+[H]OC([H])([H])[C@@]1([H])O[C@@]([H])(S[C@]2([H])O[C@]([H])(C([H])([H])O[H])[C@]([H])(O[H])[C@]([H])(n3nnc(-c4c([H])c([H])c([H])c(F)c4[H])c3[H])[C@@]2([H])O[H])[C@]([H])(O[H])[C@@]([H])(n2nnc(-c3c([H])c([H])c([H])c(F)c3[H])c2[H])[C@@]1([H])O[H],1b,-11.784,-11.82
+[H]OC([H])([H])[C@@]1([H])O[C@@]([H])(S[C@]2([H])O[C@]([H])(C([H])([H])SC([H])([H])C([H])([H])C([H])([H])C([H])([H])[H])[C@]([H])(O[H])[C@]([H])(n3nnc(-c4c([H])c([H])c([H])c(F)c4[H])c3[H])[C@@]2([H])O[H])[C@]([H])(O[H])[C@@]([H])(n2nnc(-c3c([H])c([H])c([H])c(F)c3[H])c2[H])[C@@]1([H])O[H],3,-9.893,-10.89

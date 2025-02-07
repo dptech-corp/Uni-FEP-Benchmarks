@@ -1,0 +1,2 @@
+## Reference
+> Davis OA, Cheung KM, Brennan A, Lloyd MG, Rodrigues MJ, Pierrat OA, Collie GW, Le Bihan YV, Huckvale R, Harnden AC, Varela A. Optimizing shape complementarity enables the discovery of potent tricyclic BCL6 inhibitors. Journal of Medicinal Chemistry. 2022 Jun 3;65(12):8169-90.
