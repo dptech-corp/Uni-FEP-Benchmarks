@@ -18,7 +18,7 @@ By compiling well-structured benchmark cases, this repository aims to:
    - This repository is designed as a long-term project. Over time, as more benchmark cases are added, users may directly request pre-constructed systems from this dataset, allowing them to focus solely on predicting new compounds without having to reconstruct the entire system.
 
 ## Summary of Benchmark Results
-| System | NLigands | RMSE (kcal/mol) | R² | Kendall's tau |
+| System | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau |
 |---|---|---|---|---|
 | 3CLPro_hist | 5 | 0.83 | 0.69 | 0.80 |
 | ACK1_hist | 6 | 1.10 | 0.71 | 0.60 |
@@ -60,6 +60,7 @@ By compiling well-structured benchmark cases, this repository aims to:
 | KIF11_CHEMBL1037992 | 14 | 0.70 | 0.61 | 0.59 |
 | KIF11_CHEMBL1694081 | 22 | 1.10 | 0.58 | 0.62 |
 | KLK3_CHEMBL4844448 | 26 | 1.01 | 0.61 | 0.64 |
+| KRAS-G12D_hist | 10 | 0.76 | 0.91 | 0.87 |
 | LCK_CHEMBL903614 | 11 | 0.59 | 0.74 | 0.64 |
 | MAOB_CHEMBL3588480 | 7 | 1.67 | 0.61 | 0.43 |
 | MAP4K4_CHEMBL3755426 | 15 | 0.53 | 0.75 | 0.62 |
