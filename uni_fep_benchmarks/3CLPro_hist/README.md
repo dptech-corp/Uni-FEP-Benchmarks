@@ -1,0 +1,2 @@
+## Reference
+> Luttens A, Gullberg H, Abdurakhmanov E, Vo DD, Akaberi D, Talibov VO, Nekhotiaeva N, Vangeel L, De Jonghe S, Jochmans D, Krambrich J. Ultralarge virtual screening identifies SARS-CoV-2 main protease inhibitors with broad-spectrum activity against coronaviruses. Journal of the American Chemical Society. 2022 Feb 10;144(7):2905-20.

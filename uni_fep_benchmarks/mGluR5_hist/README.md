@@ -1,0 +1,2 @@
+## Reference
+> Christopher JA, Aves SJ, Bennett KA, Dore AS, Errey JC, Jazayeri A, Marshall FH, Okrasa K, Serrano-Vega MJ, Tehan BG, Wiggin GR. Fragment and structure-based drug discovery for a class C GPCR: discovery of the mGlu5 negative allosteric modulator HTL14242 (3-chloro-5-[6-(5-fluoropyridin-2-yl) pyrimidin-4-yl] benzonitrile). Journal of medicinal chemistry. 2015 Aug 27;58(16):6653-64.
