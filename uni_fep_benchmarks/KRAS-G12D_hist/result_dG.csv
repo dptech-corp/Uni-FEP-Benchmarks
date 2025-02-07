@@ -1,0 +1,11 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol)
+Cc1cccnc1CCOc1nc(N2CC3CCC(C2)N3)c2cnc(-c3cc(O)cc4ccccc34)c(F)c2n1,MRTX 6,-8.68,-8.32
+[O-][N+]12CCCC1(COc1nc(N3CC4CCC(C3)N4)c3cnc(-c4cccc5cccc(Cl)c45)c(F)c3n1)CCC2,MRTX 60,-7.88,-6.87
+COc1nc(N2CC3CCC(C2)N3)c2cnc(-c3cc(O)cc4ccccc34)c(F)c2n1,MRTX 105,-8.27,-7.1
+Oc1ccc(-c2ncc3c(N4CC5CCC(C4)N5)nc(N4CCC4)nc3c2F)c(F)c1,MRTX 119,-8.41,-7.94
+Fc1c(-c2cccc3cccc(Cl)c23)ncc2c(N3CC4CCC(C3)N4)nc(OC[C@@]34CCCN3C[C@H](F)C4)nc12,MRTX 134,-11.5,-10.83
+N=C(N)NCCCOc1nc(N2CC3CCC(C2)N3)c2cnc(-c3cccc4cccc(Cl)c34)c(F)c2n1,MRTX 177,-9.17,-8.95
+Oc1c(F)cc(F)c(-c2ncc3c(N4CC5CCC(C4)N5)nc(OCC45CCCN4CCC5)nc3c2F)c1F,MRTX 350,-7.39,-7.3
+COC1(OC)CN2CCCC2(COc2nc(N3CC4CCC(C3)N4)c3cnc(-c4cccc5cccc(Cl)c45)c(F)c3n2)C1,MRTX 404,-9.84,-10.42
+F[C@H]1CN2CCC[C@@]2(COc2nc(N3CC4CCC(C3)N4)c3cnc(-c4cccc5c4CC4CC54)c(F)c3n2)C1,MRTX 438,-10.5,-9.28
+c1cc2cc(O)cc(-c3ncc4c(N5CC6CCC(C5)N6)nc(OC[C@@]56CCC[NH+]5C[C@H](F)C6)nc4c3F)c2c(C#C)c1F,MRTX 1133,-12.81,-13.68
