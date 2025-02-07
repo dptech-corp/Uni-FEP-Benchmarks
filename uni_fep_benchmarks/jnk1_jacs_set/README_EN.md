@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -7.29 to -10.68 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the JNK1 system show that the predicted values (-7.28 to -10.75 kcal/mol) closely align with the experimental range. The overall prediction accuracy achieved an R² of 0.59 and an RMSE of 0.65 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound 18634-1 (experimental: -9.99 kcal/mol, predicted: -9.99 kcal/mol) and compound 18626-1 (experimental: -8.87 kcal/mol, predicted: -8.79 kcal/mol). Good prediction accuracy was also observed for the structurally complex compound 18652-1 (experimental: -10.68 kcal/mol, predicted: -10.55 kcal/mol). 

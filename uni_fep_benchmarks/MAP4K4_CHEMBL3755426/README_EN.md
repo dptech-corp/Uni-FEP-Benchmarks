@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 3.7 nM to 1722.0 nM,
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the MAP4K4 system demonstrate good predictive performance with an R² of 0.75 and an RMSE of 0.53 kcal/mol. The predicted binding free energies (-7.68 to -11.39 kcal/mol) show strong correlation with experimental values. Several compounds showed excellent prediction accuracy, such as CHEMBL3753424 (experimental: -10.75 kcal/mol, predicted: -10.63 kcal/mol) and CHEMBL3754515 (experimental: -11.50 kcal/mol, predicted: -11.39 kcal/mol). The most potent compound, CHEMBL3754515, with an experimental binding free energy of -11.50 kcal/mol, was particularly well predicted at -11.39 kcal/mol.
 
 ## References

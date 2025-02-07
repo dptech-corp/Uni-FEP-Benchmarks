@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 15 nM to 4860 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the CSNK1D system show moderate correlation with experimental data, achieving an R² of 0.47 and an RMSE of 1.48 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL2203554 (experimental: -9.48 kcal/mol, predicted: -9.46 kcal/mol) and CHEMBL2203557 (experimental: -9.24 kcal/mol, predicted: -9.11 kcal/mol). The predicted binding free energies ranged from -6.42 to -12.48 kcal/mol, showing some systematic overestimation for compounds with fluorinated phenoxy substituents.
 
 ## References

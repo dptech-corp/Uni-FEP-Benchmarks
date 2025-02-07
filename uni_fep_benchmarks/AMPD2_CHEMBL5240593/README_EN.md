@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 30 nM to 41 μM, spa
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the AMPD2 system show that the predicted values (-2.93 to -11.41 kcal/mol) generally align with the experimental range, though with some notable deviations. The overall prediction accuracy achieved an R² of 0.54 and an RMSE of 1.36 kcal/mol. Several compounds demonstrated good prediction results, such as CHEMBL5269095 (experimental: -10.26 kcal/mol, predicted: -10.02 kcal/mol) and CHEMBL5284646 (experimental: -8.59 kcal/mol, predicted: -8.46 kcal/mol).
 
 ## References

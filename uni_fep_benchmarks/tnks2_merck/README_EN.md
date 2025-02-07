@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -8.40 to -12.69 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the TNKS2 system show that the predicted values (-7.83 to -12.47 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.24 and an RMSE of 1.03 kcal/mol. Several compounds demonstrated good prediction results, such as compound 5a (experimental: -10.76 kcal/mol, predicted: -10.82 kcal/mol) and compound 5d (experimental: -10.89 kcal/mol, predicted: -10.94 kcal/mol). Good prediction accuracy was also observed for compound 5i (experimental: -12.08 kcal/mol, predicted: -11.96 kcal/mol). 

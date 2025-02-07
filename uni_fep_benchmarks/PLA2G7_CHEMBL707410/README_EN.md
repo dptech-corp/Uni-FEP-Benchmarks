@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.25 nM to 38 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PLA2G7 system show moderate correlation with experimental data, achieving an R² of 0.40 and an RMSE of 1.09 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL10440 (experimental: -11.32 kcal/mol, predicted: -11.90 kcal/mol) and CHEMBL10271 (experimental: -12.27 kcal/mol, predicted: -12.64 kcal/mol). The predicted binding free energies ranged from -9.40 to -14.50 kcal/mol, showing some systematic overestimation for compounds with cycloalkyl substituents.
 
 ## References

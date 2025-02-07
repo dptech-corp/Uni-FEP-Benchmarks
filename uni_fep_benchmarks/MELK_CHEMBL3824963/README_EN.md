@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.3 nM to 80 nM, spa
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the MELK system show moderate correlation with experimental data, achieving an R² of 0.57 and an RMSE of 0.91 kcal/mol. Several compounds demonstrated excellent prediction accuracy, such as CHEMBL3824328 (experimental: -12.99 kcal/mol, predicted: -13.48 kcal/mol) and CHEMBL3824074 (experimental: -10.15 kcal/mol, predicted: -10.33 kcal/mol). The predicted binding free energies ranged from -9.52 to -13.49 kcal/mol, showing good agreement with the experimental range despite some systematic overestimation for the most potent compounds.
 
 ## References

@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 1.9 nM to 1033 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the NR1H2 system show good correlation with experimental data, achieving an R² of 0.63 and an RMSE of 1.61 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL425099 (experimental: -9.50 kcal/mol, predicted: -8.28 kcal/mol) and CHEMBL214074 (experimental: -9.78 kcal/mol, predicted: -8.70 kcal/mol). The predicted binding free energies ranged from -5.95 to -12.91 kcal/mol, showing some systematic overestimation for compounds with amine linkers.
 
 ## References

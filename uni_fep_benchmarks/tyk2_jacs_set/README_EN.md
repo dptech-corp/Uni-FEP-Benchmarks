@@ -16,4 +16,6 @@ The experimentally determined binding affinities range from 0.1 nM to 100 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the TYK2 system show that the predicted values (-6.11 to -11.58 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.63 and an RMSE of 0.81 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound ejm_43 (experimental: -8.26 kcal/mol, predicted: -8.13 kcal/mol) and compound jmc_30 (experimental: -10.94 kcal/mol, predicted: -10.72 kcal/mol). 

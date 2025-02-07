@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 205 nM to 78.4 μM, 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the TRAP1 system show moderate correlation with experimental data, achieving an R² of 0.57 and an RMSE of 1.33 kcal/mol. Several compounds demonstrated reasonable prediction accuracy, such as CHEMBL3426782 (experimental: -6.61 kcal/mol, predicted: -6.94 kcal/mol) and CHEMBL3426756 (experimental: -7.01 kcal/mol, predicted: -6.50 kcal/mol). The predicted binding free energies ranged from -4.45 to -11.47 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

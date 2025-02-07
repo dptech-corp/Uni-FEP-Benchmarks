@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 70 nM to 9.4 μM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the CDK2 system show that the predicted values (-5.66 to -9.93 kcal/mol) generally align with the experimental range. The overall prediction accuracy achieved an R² of 0.37 and an RMSE of 1.21 kcal/mol. Several compounds demonstrated good prediction results, such as CHEMBL2011935 (experimental: -8.81 kcal/mol, predicted: -8.83 kcal/mol) and CHEMBL2011940 (experimental: -9.29 kcal/mol, predicted: -8.78 kcal/mol).
 
 ## References

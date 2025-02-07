@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -8.48 to -12.26 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the P38 system show that the predicted values (-7.43 to -12.83 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.42 and an RMSE of 0.92 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound 3fmk (experimental: -11.83 kcal/mol, predicted: -11.87 kcal/mol) and compound 2g (experimental: -10.66 kcal/mol, predicted: -10.62 kcal/mol). Good prediction accuracy was also observed for the structurally complex compound 2z (experimental: -10.36 kcal/mol, predicted: -10.37 kcal/mol). 

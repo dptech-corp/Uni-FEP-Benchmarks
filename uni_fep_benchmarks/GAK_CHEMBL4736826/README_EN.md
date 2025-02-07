@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 2.2 nM to 1800 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the GAK system show moderate correlation with experimental data, achieving an R² of 0.63 and an RMSE of 1.11 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL4764705 (experimental: -11.06 kcal/mol, predicted: -11.21 kcal/mol) and CHEMBL4760106 (experimental: -9.76 kcal/mol, predicted: -9.77 kcal/mol). The predicted binding free energies ranged from -5.53 to -13.68 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

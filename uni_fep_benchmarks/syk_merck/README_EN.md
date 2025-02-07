@@ -16,4 +16,6 @@ The experimentally determined binding affinities range from 0.1 nM to 100 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the SYK system show that the predicted values (-6.26 to -14.50 kcal/mol) closely align with the experimental range. The overall prediction accuracy achieved an R² of 0.26 and an RMSE of 1.56 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound CHEMBL3265017 (experimental: -11.48 kcal/mol, predicted: -11.27 kcal/mol) and compound CHEMBL3259820 (experimental: -10.57 kcal/mol, predicted: -10.80 kcal/mol). 

@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 2.0 nM to 717.0 nM, 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the IGF1R system show moderate predictive performance with an R² of 0.38 and an RMSE of 1.08 kcal/mol. The predicted binding free energies (-8.85 to -12.74 kcal/mol) show some correlation with experimental values, though with notable variations. Several compounds showed reasonable prediction accuracy, such as CHEMBL575681 (experimental: -10.75 kcal/mol, predicted: -10.86 kcal/mol) and CHEMBL575888 (experimental: -10.07 kcal/mol, predicted: -10.46 kcal/mol). The most potent compound, CHEMBL575448, with an experimental binding free energy of -11.86 kcal/mol, was predicted at -12.74 kcal/mol.
 
 ## References

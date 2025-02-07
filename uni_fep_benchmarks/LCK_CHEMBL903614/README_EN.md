@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 19 nM to 2100 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the LCK system show excellent correlation with experimental data, achieving an R² of 0.74 and an RMSE of 0.59 kcal/mol. Several compounds demonstrated outstanding prediction accuracy, such as CHEMBL239590 (experimental: -10.53 kcal/mol, predicted: -10.49 kcal/mol) and CHEMBL240430 (experimental: -10.44 kcal/mol, predicted: -10.61 kcal/mol). The predicted binding free energies ranged from -7.35 to -10.87 kcal/mol, showing excellent agreement with the experimental range.
 
 ## References

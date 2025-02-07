@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.4 nM to 1.7 μM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PDE4B system show that the predicted values (-8.60 to -12.57 kcal/mol) align well with the experimental range. The overall prediction accuracy achieved an R² of 0.79 and an RMSE of 0.62 kcal/mol, indicating good predictive performance. Several compounds demonstrated excellent prediction results, such as CHEMBL193240 (experimental: -12.81 kcal/mol, predicted: -12.73 kcal/mol) and CHEMBL3327321 (experimental: -11.92 kcal/mol, predicted: -12.14 kcal/mol).
 
 ## References

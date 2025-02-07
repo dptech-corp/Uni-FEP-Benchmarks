@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 1.0 nM to 8910 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PTGES system show good correlation with experimental data, achieving an R² of 0.69 and an RMSE of 1.09 kcal/mol. Several compounds demonstrated excellent prediction accuracy, such as CHEMBL4092750 (experimental: -10.47 kcal/mol, predicted: -10.54 kcal/mol) and CHEMBL4084995 (experimental: -10.91 kcal/mol, predicted: -11.12 kcal/mol). The predicted binding free energies ranged from -9.94 to -11.17 kcal/mol, showing good agreement with the experimental range for most compounds, though with some compression of the predicted range compared to experiment.
 
 ## References

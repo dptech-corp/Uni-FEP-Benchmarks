@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 2.5 nM to 2500 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the TTK system demonstrate strong predictive performance with an R² of 0.74 and an RMSE of 0.86 kcal/mol. The predicted binding free energies (-7.92 to -13.79 kcal/mol) show good correlation with experimental values. Several compounds showed excellent prediction accuracy, such as CHEMBL3410083 (experimental: -11.19 kcal/mol, predicted: -11.29 kcal/mol) and CHEMBL3410080 (experimental: -11.15 kcal/mol, predicted: -11.33 kcal/mol). The most potent compound, CHEMBL3410073, with an experimental binding free energy of -11.73 kcal/mol, was well predicted at -11.96 kcal/mol.
 
 ## References

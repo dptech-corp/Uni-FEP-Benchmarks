@@ -16,6 +16,8 @@ The experimental binding affinities span about three orders of magnitude, rangin
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculations for the RXRA system demonstrated good correlation with experimental data, achieving an R² of 0.64 and an RMSE of 0.99 kcal/mol. Several compounds showed excellent prediction accuracy, such as CHEMBL105979 (experimental: -9.49 kcal/mol, predicted: -9.57 kcal/mol) and CHEMBL106837 (experimental: -9.21 kcal/mol, predicted: -9.24 kcal/mol). The predictions were particularly accurate for compounds with similar linking groups between the core and the benzoic acid moiety.
 
 ## References

@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 1.2 nM to 27300 nM, 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the KLK3 system show moderate predictive performance with an R² of 0.61 and an RMSE of 1.01 kcal/mol. The predicted binding free energies (-3.86 to -11.13 kcal/mol) generally correlate with experimental values, though with some notable deviations. Several compounds showed good prediction accuracy, such as CHEMBL4847070 (experimental: -10.97 kcal/mol, predicted: -11.13 kcal/mol) and CHEMBL4868267 (experimental: -8.73 kcal/mol, predicted: -8.73 kcal/mol). The most potent compound, CHEMBL4847070, with an experimental binding free energy of -12.16 kcal/mol, was predicted at -11.09 kcal/mol.
 
 ## References

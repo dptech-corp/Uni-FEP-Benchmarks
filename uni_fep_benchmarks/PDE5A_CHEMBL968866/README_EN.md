@@ -16,6 +16,8 @@ The experimentally determined binding affinities span a range from 3.98 nM to 91
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculations for the PDE5A system demonstrate moderate predictive performance with an R² of 0.48 and an RMSE of 0.80 kcal/mol. Several compounds showed excellent prediction accuracy, such as CHEMBL456552 (experimental: -10.91 kcal/mol, predicted: -10.89 kcal/mol) and CHEMBL140493 (experimental: -9.60 kcal/mol, predicted: -9.60 kcal/mol). The predictions captured the general trend of binding affinity variations across the series, though with some notable deviations for certain compounds.
 
 ## References

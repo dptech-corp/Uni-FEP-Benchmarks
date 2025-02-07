@@ -16,6 +16,8 @@ The experimentally determined binding affinities span a wide range from 170.0 nM
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculations for the BACE1 system demonstrate excellent predictive performance with an R² of 0.89 and an RMSE of 0.96 kcal/mol. Several compounds showed remarkable prediction accuracy, such as CHEMBL2346796 (experimental: -8.35 kcal/mol, predicted: -8.32 kcal/mol) and CHEMBL2346790 (experimental: -7.56 kcal/mol, predicted: -7.44 kcal/mol). The predictions successfully captured both the general trend and specific variations in binding affinity across the series, particularly for the more potent compounds.
 
 ## References

@@ -16,4 +16,6 @@ The experimentally determined binding affinities range from 1 nM to 1 μM, spann
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PTP1B system show that the predicted values (-8.06 to -10.20 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.57 and an RMSE of 0.91 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound 23330 (experimental: -10.13 kcal/mol, predicted: -10.20 kcal/mol) and compound 23474 (experimental: -9.11 kcal/mol, predicted: -9.94 kcal/mol). 

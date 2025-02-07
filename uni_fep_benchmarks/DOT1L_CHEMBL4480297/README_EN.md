@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.36 nM to 28 μM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the DOT1L system show strong correlation with experimental data, achieving a high R² of 0.90, though with a relatively large RMSE of 2.29 kcal/mol. Several compounds demonstrated reasonable prediction accuracy, such as CHEMBL4573709 (experimental: -8.94 kcal/mol, predicted: -8.76 kcal/mol) and CHEMBL4534587 (experimental: -7.35 kcal/mol, predicted: -7.31 kcal/mol). The predicted binding free energies ranged from -0.91 to -14.80 kcal/mol, showing a wider spread than the experimental values.
 
 ## References

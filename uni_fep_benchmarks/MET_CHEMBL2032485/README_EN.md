@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 1.0 nM to 140 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the MET system show that the predicted values (-8.62 to -14.48 kcal/mol) align well with the experimental range. The overall prediction accuracy achieved an R² of 0.90 and an RMSE of 1.05 kcal/mol, indicating excellent predictive performance. Several compounds demonstrated good prediction results, such as CHEMBL518208 (experimental: -10.71 kcal/mol, predicted: -10.77 kcal/mol) and CHEMBL2032033 (experimental: -10.72 kcal/mol, predicted: -10.73 kcal/mol).
 
 ## References

@@ -16,4 +16,6 @@ The experimentally determined binding affinities range from 0.5 nM to 1 μM, spa
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the CDK2 system show that the predicted values (-7.89 to -12.35 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.54 and an RMSE of 0.81 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound lig_23 (experimental: -10.71 kcal/mol, predicted: -10.56 kcal/mol) and compound lig_40 (experimental: -11.30 kcal/mol, predicted: -11.36 kcal/mol). Good prediction accuracy was also observed for the structurally complex compound lig_38 (experimental: -12.35 kcal/mol, predicted: -12.29 kcal/mol). 

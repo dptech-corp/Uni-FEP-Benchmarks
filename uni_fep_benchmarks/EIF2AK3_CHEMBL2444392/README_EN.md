@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.4 nM to 63.8 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the EIF2AK3 system show moderate correlation with experimental data, achieving an R² of 0.65 and an RMSE of 1.17 kcal/mol. Several compounds demonstrated excellent prediction accuracy, such as CHEMBL2171124 (experimental: -12.81 kcal/mol, predicted: -12.85 kcal/mol) and CHEMBL2441341 (experimental: -12.68 kcal/mol, predicted: -12.54 kcal/mol). The predicted binding free energies ranged from -7.82 to -14.43 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

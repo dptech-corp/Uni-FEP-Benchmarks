@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -6.17 to -12.27 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the c-Met system show that the predicted values (-5.80 to -13.82 kcal/mol) closely align with the experimental range. The overall prediction accuracy achieved an R² of 0.79 and an RMSE of 1.01 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound CHEMBL3402756 (experimental: -11.68 kcal/mol, predicted: -11.61 kcal/mol) and compound CHEMBL3402757 (experimental: -11.16 kcal/mol, predicted: -11.27 kcal/mol). Good prediction accuracy was also observed for the structurally complex compound CHEMBL3402760 (experimental: -12.27 kcal/mol, predicted: -12.43 kcal/mol). 

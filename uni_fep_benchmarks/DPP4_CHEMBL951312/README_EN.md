@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 8 nM to 40 μM, span
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the DPP4 system show moderate correlation with experimental data, achieving an R² of 0.61 and an RMSE of 0.74 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL261246 (experimental: -10.85 kcal/mol, predicted: -11.06 kcal/mol) and CHEMBL256625 (experimental: -9.56 kcal/mol, predicted: -9.55 kcal/mol). The predicted binding free energies ranged from -6.82 to -11.06 kcal/mol, generally aligning with the experimental range.
 
 ## References

@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 130 nM to 50000 nM, 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the MAPK14 system show good correlation with experimental data, achieving an R² of 0.66 and an RMSE of 0.65 kcal/mol. Several compounds demonstrated excellent prediction accuracy, such as CHEMBL1078021 (experimental: -8.24 kcal/mol, predicted: -8.02 kcal/mol) and CHEMBL1078024 (experimental: -8.46 kcal/mol, predicted: -8.81 kcal/mol). The predicted binding free energies ranged from -5.44 to -9.04 kcal/mol, showing good agreement with the experimental range.
 
 ## References

@@ -16,6 +16,8 @@ The experimental binding affinities span two orders of magnitude, ranging from 0
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculations for the ROCK2 system showed moderate correlation with experimental data, achieving an R² of 0.38 and an RMSE of 1.14 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL4785041 (experimental: -12.89 kcal/mol, predicted: -12.75 kcal/mol) and CHEMBL4790421 (experimental: -12.40 kcal/mol, predicted: -12.53 kcal/mol). The predictions were particularly accurate for compounds with similar core structures and substituent patterns.
 
 ## References

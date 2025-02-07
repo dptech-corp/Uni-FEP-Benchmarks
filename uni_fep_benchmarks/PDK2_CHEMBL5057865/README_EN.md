@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 4.2 nM to 5510 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PDK2 system show excellent correlation with experimental data, achieving a high R² of 0.88 and a low RMSE of 0.45 kcal/mol. Several compounds demonstrated outstanding prediction accuracy, such as CHEMBL5087238 (experimental: -11.21 kcal/mol, predicted: -11.10 kcal/mol) and CHEMBL5071248 (experimental: -9.39 kcal/mol, predicted: -9.30 kcal/mol). The predicted binding free energies ranged from -6.51 to -11.56 kcal/mol, showing excellent agreement with the experimental range.
 
 ## References

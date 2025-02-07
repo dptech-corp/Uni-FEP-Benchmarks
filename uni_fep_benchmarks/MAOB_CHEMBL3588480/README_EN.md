@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 18 nM to 4500 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the MAOB system show moderate correlation with experimental data, achieving an R² of 0.61 and a relatively high RMSE of 1.67 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL3586583 (experimental: -10.56 kcal/mol, predicted: -10.62 kcal/mol) and CHEMBL3586582 (experimental: -8.85 kcal/mol, predicted: -8.64 kcal/mol). The predicted binding free energies ranged from -4.90 to -12.54 kcal/mol, showing some deviation from the experimental range but generally capturing the relative binding trends.
 
 ## References

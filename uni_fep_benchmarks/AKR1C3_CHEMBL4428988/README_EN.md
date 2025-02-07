@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 50 nM to 6000 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the AKR1C3 system show moderate correlation with experimental data, achieving an R² of 0.59 and an RMSE of 0.90 kcal/mol. Several compounds demonstrated excellent prediction accuracy, such as CHEMBL1105 (experimental: -8.44 kcal/mol, predicted: -8.40 kcal/mol) and CHEMBL4437071 (experimental: -9.44 kcal/mol, predicted: -9.42 kcal/mol). The predicted binding free energies ranged from -6.78 to -11.68 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

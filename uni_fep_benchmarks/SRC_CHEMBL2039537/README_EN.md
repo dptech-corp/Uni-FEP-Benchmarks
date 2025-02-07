@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.9 nM to 1000 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the SRC system show excellent correlation with experimental data, achieving a high R² of 0.90, though with a relatively large RMSE of 1.36 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL2036007 (experimental: -10.36 kcal/mol, predicted: -9.66 kcal/mol) and CHEMBL2036012 (experimental: -8.75 kcal/mol, predicted: -9.06 kcal/mol). The predicted binding free energies ranged from -5.59 to -14.31 kcal/mol, showing some systematic overestimation of binding strength but generally capturing the relative binding trends.
 
 ## References

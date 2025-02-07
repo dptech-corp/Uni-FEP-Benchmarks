@@ -16,6 +16,8 @@ The experimentally determined binding affinities span a significant range from 4
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the TNKS system demonstrate excellent predictive performance with an R² of 0.84 and an RMSE of 0.72 kcal/mol. Many compounds showed very good agreement between experimental and predicted values. For example, CHEMBL2381934 (experimental: -10.91 kcal/mol, predicted: -10.58 kcal/mol) and CHEMBL2381959 (experimental: -10.56 kcal/mol, predicted: -10.37 kcal/mol) showed particularly good correlation.
 
 The most potent compounds in the series, CHEMBL2381935 and CHEMBL2381936 (both with experimental binding free energy of -11.45 kcal/mol), were predicted with binding free energies of -12.19 and -12.79 kcal/mol respectively, showing reasonable agreement despite slight overestimation of their binding strength.

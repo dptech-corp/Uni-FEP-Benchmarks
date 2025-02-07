@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 8.9 nM to 2400 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the CMA1 system show good correlation with experimental data, achieving an R² of 0.67 and an RMSE of 0.90 kcal/mol. Several compounds demonstrated excellent prediction accuracy, such as CHEMBL4210939 (experimental: -9.96 kcal/mol, predicted: -9.91 kcal/mol) and CHEMBL4206099 (experimental: -10.98 kcal/mol, predicted: -11.92 kcal/mol). The predicted binding free energies ranged from -7.19 to -11.92 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.3 nM to 3.01 μM, 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the AURKA system show that the predicted values (-6.90 to -13.53 kcal/mol) align well with the experimental range. The overall prediction accuracy achieved an R² of 0.79 and an RMSE of 1.12 kcal/mol, indicating good predictive performance. Several compounds demonstrated excellent prediction results, such as CHEMBL2380835 (experimental: -11.12 kcal/mol, predicted: -11.97 kcal/mol) and CHEMBL2380842 (experimental: -8.16 kcal/mol, predicted: -7.64 kcal/mol).
 
 ## References

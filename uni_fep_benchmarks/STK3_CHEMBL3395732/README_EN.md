@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 22 nM to 3239 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the STK3 system show moderate correlation with experimental data, achieving an R² of 0.42 and an RMSE of 0.71 kcal/mol. Several compounds demonstrated reasonable prediction accuracy, such as CHEMBL3393444 (experimental: -9.20 kcal/mol, predicted: -8.79 kcal/mol) and CHEMBL3393445 (experimental: -8.92 kcal/mol, predicted: -8.76 kcal/mol). The predicted binding free energies ranged from -8.21 to -9.41 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

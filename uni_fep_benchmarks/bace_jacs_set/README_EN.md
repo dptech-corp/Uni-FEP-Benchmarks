@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -7.85 to -11.35 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the BACE system show that the predicted values (-7.20 to -11.43 kcal/mol) closely align with the experimental range. The overall prediction accuracy achieved an R² of 0.47 and an RMSE of 0.80 kcal/mol. Several compounds demonstrated excellent prediction results, such as CAT-13c with a predicted value (-9.37 kcal/mol) differing by only 0.05 kcal/mol from its experimental value (-9.32 kcal/mol), and CAT-17f with a predicted value (-9.41 kcal/mol) showing strong agreement with its experimental value (-9.42 kcal/mol). Additionally, good prediction accuracy was observed for compound CAT-24 (experimental: -11.35 kcal/mol, predicted: -11.10 kcal/mol), which contains special substituents. 

@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 110 nM to 130 μM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the CREBBP system demonstrate excellent agreement with experimental data, achieving an impressive R² of 0.91 and a low RMSE of 0.56 kcal/mol. Several compounds showed particularly accurate predictions, such as CHEMBL3813846 (experimental: -9.49 kcal/mol, predicted: -10.29 kcal/mol) and CHEMBL3814920 (experimental: -6.23 kcal/mol, predicted: -5.78 kcal/mol). The predicted binding free energies ranged from -4.55 to -10.29 kcal/mol, closely matching the experimental range.
 
 ## References

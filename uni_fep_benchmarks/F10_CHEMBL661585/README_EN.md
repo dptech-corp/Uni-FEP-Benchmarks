@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.4 nM to 69.0 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the F10 system show moderate predictive performance with an R² of 0.63 and an RMSE of 1.13 kcal/mol. The predicted binding free energies (-7.16 to -13.38 kcal/mol) generally correlate with experimental values, though with some notable variations. Several compounds showed good prediction accuracy, such as CHEMBL44050 (experimental: -12.68 kcal/mol, predicted: -11.68 kcal/mol) and CHEMBL45267 (experimental: -11.86 kcal/mol, predicted: -11.66 kcal/mol). The most potent compound, CHEMBL44831, with an experimental binding free energy of -12.81 kcal/mol, was predicted at -13.31 kcal/mol.
 
 ## References

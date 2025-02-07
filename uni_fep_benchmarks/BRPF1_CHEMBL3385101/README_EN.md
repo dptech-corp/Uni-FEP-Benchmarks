@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 50.12 nM to 19.95 μ
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the BRPF1 system show moderate correlation with experimental data, achieving an R² of 0.60 and an RMSE of 0.65 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL3356139 (experimental: -6.41 kcal/mol, predicted: -6.44 kcal/mol) and CHEMBL1396002 (experimental: -9.41 kcal/mol, predicted: -9.33 kcal/mol). The predicted binding free energies ranged from -6.44 to -10.46 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

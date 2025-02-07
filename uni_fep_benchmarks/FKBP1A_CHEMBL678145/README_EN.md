@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 7.0 nM to 1100 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the FKBP1A system show good correlation with experimental data, achieving an R² of 0.66 and an RMSE of 0.70 kcal/mol. Several compounds demonstrated excellent prediction accuracy, such as CHEMBL118884 (experimental: -11.12 kcal/mol, predicted: -11.11 kcal/mol) and CHEMBL119228 (experimental: -10.85 kcal/mol, predicted: -10.82 kcal/mol). The predicted binding free energies ranged from -8.05 to -11.21 kcal/mol, showing excellent agreement with the experimental range.
 
 ## References

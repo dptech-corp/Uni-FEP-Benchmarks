@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -8.38 to -11.86 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the EG5 system show that the predicted values (-7.86 to -13.40 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.54 and an RMSE of 0.84 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound CHEMBL1078691 (experimental: -10.18 kcal/mol, predicted: -10.20 kcal/mol) and compound CHEMBL1089393 (experimental: -8.38 kcal/mol, predicted: -8.14 kcal/mol). Good prediction accuracy was also observed for the structurally complex compound CHEMBL1084678 (experimental: -11.12 kcal/mol, predicted: -11.19 kcal/mol). 

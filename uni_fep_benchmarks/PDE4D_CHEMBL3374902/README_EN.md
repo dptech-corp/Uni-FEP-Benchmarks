@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 1.8 nM to 7200 nM, s
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PDE4D system show moderate predictive performance with an R² of 0.55 and an RMSE of 1.05 kcal/mol. The predicted binding free energies (-7.62 to -12.80 kcal/mol) generally correlate with experimental values, though with some notable variations. Several compounds showed good prediction accuracy, such as CHEMBL3327323 (experimental: -11.15 kcal/mol, predicted: -11.02 kcal/mol) and CHEMBL3327324 (experimental: -9.30 kcal/mol, predicted: -9.65 kcal/mol). The most potent compound, CHEMBL3327325, with an experimental binding free energy of -11.92 kcal/mol, was predicted at -12.80 kcal/mol.
 
 ## References

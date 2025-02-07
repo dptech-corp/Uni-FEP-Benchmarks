@@ -16,6 +16,8 @@ The experimentally determined binding affinities span a wide range from 160 nM t
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the NEK2 system show moderate predictive performance with an R² of 0.35 and an RMSE of 1.12 kcal/mol. While some compounds showed good agreement between experimental and predicted values, such as CHEMBL1689165 (experimental: -8.51 kcal/mol, predicted: -8.20 kcal/mol), others displayed larger deviations. The most potent compound in the series, CHEMBL1689158 (experimental: -9.27 kcal/mol), was reasonably well predicted with a calculated binding free energy of -8.67 kcal/mol.
 
 The moderate correlation suggests that additional factors may influence binding that are not fully captured by the current FEP implementation, such as complex water-mediated interactions or conformational changes upon binding.

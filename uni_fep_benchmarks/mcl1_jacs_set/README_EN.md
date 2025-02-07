@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -5.78 to -9.96 kc
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the MCL1 system show that the predicted values (-3.52 to -11.95 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.57 and an RMSE of 1.19 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound 26 (experimental: -8.24 kcal/mol, predicted: -8.35 kcal/mol) and compound 64 (experimental: -9.50 kcal/mol, predicted: -9.47 kcal/mol). Good prediction accuracy was also observed for the structurally complex compound 36 (experimental: -8.18 kcal/mol, predicted: -8.59 kcal/mol). 

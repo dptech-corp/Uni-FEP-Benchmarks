@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 3.8 nM to 4400.0 nM,
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for this GCKR system demonstrate excellent predictive performance with an R² of 0.87 and an RMSE of 0.74 kcal/mol. The predicted binding free energies (-6.66 to -12.28 kcal/mol) show strong correlation with experimental values. Several compounds showed excellent prediction accuracy, such as CHEMBL3745752 (experimental: -8.89 kcal/mol, predicted: -8.89 kcal/mol) and CHEMBL3746846 (experimental: -7.30 kcal/mol, predicted: -7.28 kcal/mol). The most potent compound, CHEMBL3746243, with an experimental binding free energy of -11.48 kcal/mol, was well predicted at -11.39 kcal/mol.
 
 ## References

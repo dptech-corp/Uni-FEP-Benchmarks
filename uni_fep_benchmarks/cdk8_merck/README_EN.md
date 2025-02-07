@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -7.64 to -11.86 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the CDK8 system show that the predicted values (-6.23 to -12.84 kcal/mol) closely align with the experimental range. The overall prediction accuracy achieved an R² of 0.84 and an RMSE of 0.87 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound 20 (experimental: -10.63 kcal/mol, predicted: -10.91 kcal/mol) and compound 17 (experimental: -8.93 kcal/mol, predicted: -8.90 kcal/mol). Good prediction accuracy was also observed for the structurally complex compound 31 (experimental: -11.86 kcal/mol, predicted: -12.18 kcal/mol). 

@@ -16,6 +16,8 @@ The experimental binding affinities span three orders of magnitude, ranging from
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculations for the PPARD system demonstrated good correlation with experimental data, achieving an R² of 0.67 and an RMSE of 1.25 kcal/mol. Notable examples of accurate predictions include CHEMBL37013 (experimental: -10.26 kcal/mol, predicted: -10.26 kcal/mol) and CHEMBL289887 (experimental: -11.62 kcal/mol, predicted: -11.53 kcal/mol). The predictions captured the general trend of higher binding affinity for compounds with thiazole cores and optimal side chain lengths.
 
 ## References

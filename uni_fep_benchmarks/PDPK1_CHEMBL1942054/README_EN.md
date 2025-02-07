@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.6 nM to 100 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PDPK1 system show moderate correlation with experimental data, achieving an R² of 0.53 and an RMSE of 1.01 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL1938415 (experimental: -12.57 kcal/mol, predicted: -12.50 kcal/mol) and CHEMBL1940244 (experimental: -10.17 kcal/mol, predicted: -10.19 kcal/mol). The predicted binding free energies ranged from -8.58 to -13.96 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

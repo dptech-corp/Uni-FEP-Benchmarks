@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 43.0 nM to 60400 nM,
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the HSP90AA1 system show moderate predictive performance with an R² of 0.62 and an RMSE of 0.99 kcal/mol. The predicted binding free energies (-4.50 to -10.30 kcal/mol) generally correlate with experimental values, though with some notable variations. Several compounds showed good prediction accuracy, such as CHEMBL200102 (experimental: -10.04 kcal/mol, predicted: -10.30 kcal/mol) and CHEMBL3426738 (experimental: -7.78 kcal/mol, predicted: -7.72 kcal/mol). The most potent compound, CHEMBL200102, with an experimental binding free energy of -10.04 kcal/mol, was well predicted at -10.30 kcal/mol.
 
 ## References

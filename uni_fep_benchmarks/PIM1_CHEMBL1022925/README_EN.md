@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 11 nM to 1800 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PIM1 system show moderate correlation with experimental data, achieving an R² of 0.47 and an RMSE of 0.95 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL522497 (experimental: -9.58 kcal/mol, predicted: -9.61 kcal/mol) and CHEMBL512095 (experimental: -8.71 kcal/mol, predicted: -8.54 kcal/mol). The predicted binding free energies ranged from -6.67 to -11.56 kcal/mol, showing some systematic overestimation for compounds with piperazine substituents.
 
 ## References

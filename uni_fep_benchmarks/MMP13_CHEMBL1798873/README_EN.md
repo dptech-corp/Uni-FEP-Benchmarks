@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 63.1 nM to 50118.72 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the MMP13 system demonstrate excellent predictive performance with an R² of 0.83 and an RMSE of 1.22 kcal/mol. The predicted binding free energies (-3.53 to -12.05 kcal/mol) generally correlate well with experimental values, though with some notable variations in the absolute values. Several compounds showed good prediction accuracy, such as CHEMBL1796279 (experimental: -6.27 kcal/mol, predicted: -6.29 kcal/mol) and CHEMBL1738748 (experimental: -9.68 kcal/mol, predicted: -10.55 kcal/mol). The most potent compound, CHEMBL1796295, with an experimental binding free energy of -9.82 kcal/mol, was predicted at -12.05 kcal/mol.
 
 ## References

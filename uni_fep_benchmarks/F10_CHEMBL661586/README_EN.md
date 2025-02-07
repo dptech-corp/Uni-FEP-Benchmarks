@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 0.4 nM to 46 nM, spa
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the F10 system show moderate correlation with experimental data, achieving an R² of 0.41 and an RMSE of 0.85 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL45307 (experimental: -11.21 kcal/mol, predicted: -11.16 kcal/mol) and CHEMBL46618 (experimental: -12.81 kcal/mol, predicted: -13.02 kcal/mol). The predicted binding free energies ranged from -10.07 to -14.00 kcal/mol, generally capturing the relative binding trends of the series.
 
 ## References

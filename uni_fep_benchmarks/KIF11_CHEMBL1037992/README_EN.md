@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 27 nM to 8100 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the KIF11 system show good correlation with experimental data, achieving an R² of 0.61 and an RMSE of 0.70 kcal/mol. Several compounds demonstrated excellent prediction accuracy, such as CHEMBL589153 (experimental: -9.29 kcal/mol, predicted: -9.12 kcal/mol) and CHEMBL589879 (experimental: -8.34 kcal/mol, predicted: -8.28 kcal/mol). The predicted binding free energies ranged from -6.80 to -10.04 kcal/mol, showing good agreement with the experimental range, particularly for compounds with halogen substituents.
 
 ## References

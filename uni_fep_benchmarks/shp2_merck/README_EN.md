@@ -16,4 +16,6 @@ The experimentally determined binding affinities range from 1 nM to 10 μM, span
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the SHP2 system show that the predicted values (-5.26 to -10.79 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.04 and an RMSE of 1.79 kcal/mol. Some compounds demonstrated good prediction results, such as Example 29 (experimental: -7.62 kcal/mol, predicted: -7.61 kcal/mol) and Example 8 (experimental: -9.71 kcal/mol, predicted: -9.87 kcal/mol). 

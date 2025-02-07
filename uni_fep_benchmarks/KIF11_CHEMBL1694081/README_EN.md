@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 16.3 nM to 41700 nM,
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the KIF11 system show moderate correlation with experimental data, achieving an R² of 0.58 and an RMSE of 1.10 kcal/mol. Several compounds demonstrated good prediction accuracy, such as CHEMBL408072 (experimental: -8.73 kcal/mol, predicted: -8.52 kcal/mol) and CHEMBL392695 (experimental: -8.92 kcal/mol, predicted: -8.40 kcal/mol). The predicted binding free energies ranged from -6.03 to -12.39 kcal/mol, showing some systematic overestimation of binding strength for the most potent compounds.
 
 ## References

@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -6.99 to -10.71 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the PFKFB3 system show that the predicted values (-6.54 to -11.40 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.39 and an RMSE of 1.06 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound 69 (experimental: -10.71 kcal/mol, predicted: -10.56 kcal/mol) and compound 70 (experimental: -10.30 kcal/mol, predicted: -10.36 kcal/mol). 

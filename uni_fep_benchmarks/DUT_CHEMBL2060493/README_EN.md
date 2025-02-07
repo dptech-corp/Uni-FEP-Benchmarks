@@ -16,6 +16,8 @@ The experimentally determined binding affinities span a wide range from 35.0 nM 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculations for the DUT system show moderate predictive performance with an R² of 0.40 and an RMSE of 1.10 kcal/mol. Some compounds showed good prediction accuracy, such as CHEMBL1234485 (experimental: -7.38 kcal/mol, predicted: -7.39 kcal/mol) and CHEMBL2057600 (experimental: -8.82 kcal/mol, predicted: -8.68 kcal/mol). While the predictions captured some trends in binding affinity variations, there were notable deviations for certain compounds, particularly those with more complex substitution patterns.
 
 ## References

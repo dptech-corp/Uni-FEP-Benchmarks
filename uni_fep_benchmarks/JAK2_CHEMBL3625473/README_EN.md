@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 1.4 nM to 570.0 nM, 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the JAK2 system show moderate predictive performance with an R² of 0.42 and an RMSE of 0.84 kcal/mol. The predicted binding free energies (-8.76 to -12.20 kcal/mol) generally correlate with experimental values, though with some variations. Several compounds showed good prediction accuracy, such as CHEMBL3622134 (experimental: -12.07 kcal/mol, predicted: -11.93 kcal/mol) and CHEMBL3622137 (experimental: -11.73 kcal/mol, predicted: -11.61 kcal/mol). The most potent compound, CHEMBL3622134, with an experimental binding free energy of -12.07 kcal/mol, was well predicted at -11.93 kcal/mol.
 
 ## References

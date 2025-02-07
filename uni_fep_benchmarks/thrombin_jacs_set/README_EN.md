@@ -16,4 +16,6 @@ The experimentally determined binding affinities range from 0.1 nM to 500 nM, sp
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the Thrombin system show that the predicted values (-6.38 to -9.73 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.66 and an RMSE of 0.78 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound 6b (experimental: -8.89 kcal/mol, predicted: -8.85 kcal/mol) and compound 1b (experimental: -8.46 kcal/mol, predicted: -8.77 kcal/mol). 

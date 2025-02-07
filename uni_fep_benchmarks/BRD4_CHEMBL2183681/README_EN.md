@@ -16,6 +16,8 @@ The experimentally determined binding affinities range from 180 nM to 39000 nM, 
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the BRD4 system demonstrate excellent predictive performance with an R² of 0.77 and an RMSE of 0.48 kcal/mol. The predicted binding free energies (-5.81 to -8.85 kcal/mol) align well with the experimental values. Several compounds showed particularly good prediction accuracy, such as CHEMBL2179388 (experimental: -8.79 kcal/mol, predicted: -8.71 kcal/mol) and CHEMBL2179389 (experimental: -8.74 kcal/mol, predicted: -8.65 kcal/mol). The most potent compound, CHEMBL2179385, with an experimental binding free energy of -9.20 kcal/mol, was well predicted at -8.80 kcal/mol.
 
 ## References

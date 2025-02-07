@@ -16,6 +16,8 @@ The experimentally determined binding affinities span a remarkably wide range fr
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the SLC5A2 system show moderate predictive performance with an R² of 0.56 and an RMSE of 1.07 kcal/mol. While some compounds showed good agreement between experimental and predicted values, such as CHEMBL1213861 (experimental: -8.99 kcal/mol, predicted: -8.82 kcal/mol), others displayed larger deviations. The most potent compound in the series, CHEMBL429910 (experimental: -12.69 kcal/mol), was predicted with a binding free energy of -11.06 kcal/mol, showing a reasonable agreement considering its exceptional potency.
 
 The moderate correlation suggests that the complexity of the glucose transport channel and potential water-mediated interactions may present challenges for accurate FEP predictions in this system. The presence of multiple hydroxyl groups and the flexible nature of the C-glycoside scaffold might contribute to the observed deviations.

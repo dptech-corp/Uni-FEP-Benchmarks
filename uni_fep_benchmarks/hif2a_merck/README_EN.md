@@ -16,4 +16,6 @@ The experimentally determined binding free energies range from -6.76 to -11.32 k
 
 ## Conclusions
 
+<p align="center"><img src="result_dG.png" width="300"></p>
+
 The FEP calculation results for the HIF-2α system show that the predicted values (-6.06 to -14.82 kcal/mol) align with the experimental range. The overall prediction accuracy achieved an R² of 0.22 and an RMSE of 1.54 kcal/mol. Several compounds demonstrated excellent prediction results, such as compound 31 (experimental: -8.84 kcal/mol, predicted: -8.73 kcal/mol) and compound 61 (experimental: -10.10 kcal/mol, predicted: -9.91 kcal/mol). Good prediction accuracy was also observed for the structurally complex compound 215 (experimental: -10.59 kcal/mol, predicted: -10.48 kcal/mol). 
