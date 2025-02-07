@@ -1,10 +1,10 @@
 # DOT1L System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 DOT1L (DOT1-like histone lysine methyltransferase) is a unique histone methyltransferase that specifically methylates lysine 79 of histone H3. It plays crucial roles in transcriptional regulation, DNA damage response, and cell cycle regulation. DOT1L has emerged as an important therapeutic target, particularly in MLL-rearranged leukemias, where its inhibition has shown promising therapeutic potential.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

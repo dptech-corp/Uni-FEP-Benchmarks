@@ -1,10 +1,10 @@
 # PLA2G7 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 PLA2G7 (Phospholipase A2 Group VII), also known as PAF-AH (Platelet-Activating Factor Acetylhydrolase), is a secreted enzyme that catalyzes the degradation of platelet-activating factor by hydrolyzing the sn-2 ester bond. It plays important roles in inflammation and oxidative stress by modifying oxidized phospholipids. PLA2G7 has emerged as an important therapeutic target for cardiovascular diseases and inflammatory conditions due to its involvement in lipid metabolism and inflammation.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

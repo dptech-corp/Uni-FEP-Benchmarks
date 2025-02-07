@@ -1,10 +1,10 @@
 # SHP2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 SHP2 (Src Homology Region 2 Domain-containing Phosphatase-2) is a non-receptor protein tyrosine phosphatase that plays a crucial role in cell signal transduction. It regulates multiple signaling pathways, including RAS-MAPK and PI3K-AKT, participating in important physiological processes such as cell proliferation, differentiation, and migration. Gain-of-function mutations in SHP2 are associated with various types of cancers, particularly in leukemia, breast cancer, and lung cancer. Additionally, SHP2 is implicated in developmental disorders such as Noonan syndrome, making it an important target for drug development.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

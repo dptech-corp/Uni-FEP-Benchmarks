@@ -1,10 +1,10 @@
 # FKBP1A System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 FKBP1A (FK506-binding protein 1A), also known as FKBP12, is a peptidyl-prolyl cis-trans isomerase that plays important roles in protein folding and cellular signaling. It is a key immunophilin that mediates the immunosuppressive effects of drugs such as FK506 (tacrolimus) and rapamycin. FKBP1A has emerged as an important therapeutic target for immunosuppression and various diseases due to its involvement in multiple cellular processes including T-cell activation and signal transduction.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

@@ -1,10 +1,10 @@
 # TNKS2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 TNKS2 (Tankyrase-2, also known as PARP5B) is a member of the poly(ADP-ribose) polymerase (PARP) family that plays important roles in various cellular processes, including Wnt signaling pathway regulation, telomere maintenance, and mitotic spindle formation. Through its catalytic PARP domain, TNKS2 modifies target proteins by poly(ADP-ribosyl)ation, leading to their ubiquitination and subsequent degradation. Research has shown that TNKS2 inhibition can suppress Wnt/β-catenin signaling, making it a promising therapeutic target for cancers dependent on this pathway, particularly colorectal cancer. The development of selective TNKS2 inhibitors has attracted significant attention in cancer drug discovery.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

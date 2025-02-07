@@ -1,10 +1,10 @@
 # KIF11 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 KIF11 (Kinesin Family Member 11), also known as Eg5 or KSP, is a motor protein that plays a crucial role in mitotic spindle assembly and maintenance during cell division. It is responsible for the separation of duplicated centrosomes and the formation of the bipolar mitotic spindle. KIF11 has emerged as an important therapeutic target in cancer treatment due to its essential role in cell division and its overexpression in various types of cancer.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

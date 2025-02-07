@@ -1,10 +1,10 @@
 # HIF-2α System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 HIF-2α (Hypoxia-Inducible Factor-2α) is a crucial transcription factor that plays a central role in cellular adaptation to hypoxic conditions. It forms a heterodimer with HIF-1β to regulate the expression of multiple genes involved in angiogenesis, erythropoiesis, glucose metabolism, and cell survival. In the tumor microenvironment, abnormal activation of HIF-2α promotes tumor angiogenesis, metabolic reprogramming, and metastasis, particularly playing a significant role in renal cell carcinoma. Recent years have seen important breakthroughs in the development of small molecule inhibitors targeting HIF-2α, with belzutifan being approved for the treatment of VHL disease-associated renal cell carcinoma, demonstrating good clinical efficacy.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

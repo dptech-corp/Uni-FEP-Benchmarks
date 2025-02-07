@@ -1,10 +1,10 @@
 # CMA1 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 CMA1 (Chymase 1) is a serine protease primarily expressed in mast cells that plays important roles in various physiological and pathological processes. It is involved in the conversion of angiotensin I to angiotensin II, extracellular matrix degradation, and tissue remodeling. CMA1 has emerged as a therapeutic target for cardiovascular diseases, fibrosis, and inflammatory conditions due to its role in tissue homeostasis and inflammation.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

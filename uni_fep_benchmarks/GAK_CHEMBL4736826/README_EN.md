@@ -1,10 +1,10 @@
 # GAK System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 GAK (Cyclin G Associated Kinase) is a serine/threonine kinase that plays important roles in cellular processes including clathrin-mediated membrane trafficking and cell cycle regulation. It is a member of the NAK (Numb-associated kinase) family and has been implicated in various diseases, including cancer and neurological disorders. GAK inhibition has emerged as a potential therapeutic strategy, particularly in the context of cancer treatment.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

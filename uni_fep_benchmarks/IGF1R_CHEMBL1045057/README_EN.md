@@ -1,10 +1,10 @@
 # IGF1R System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 IGF1R (Insulin-like Growth Factor 1 Receptor) is a transmembrane receptor tyrosine kinase that plays a crucial role in cell growth, differentiation, and survival. It is activated by insulin-like growth factors (IGFs) and mediates important signaling pathways involved in normal development and tissue growth. IGF1R has emerged as an important therapeutic target in cancer treatment, as its overexpression or hyperactivation is associated with various types of cancer. The development of selective IGF1R inhibitors represents a promising approach for cancer therapy.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

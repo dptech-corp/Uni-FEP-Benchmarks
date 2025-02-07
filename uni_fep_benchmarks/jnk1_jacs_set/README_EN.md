@@ -1,10 +1,10 @@
 # JNK1 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 JNK1 (c-Jun N-terminal Kinase 1) is a key member of the Mitogen-Activated Protein Kinase (MAPK) family, playing crucial roles in cellular stress response, inflammatory response, and apoptosis. It primarily functions by phosphorylating transcription factor c-Jun and other substrates to regulate cellular responses to environmental stress. Abnormal activation of JNK1 is closely associated with various diseases, including neurodegenerative disorders, inflammatory diseases, diabetes, and cancer. Therefore, JNK1 has become a potential therapeutic target for multiple diseases, making the development of its inhibitors clinically significant.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

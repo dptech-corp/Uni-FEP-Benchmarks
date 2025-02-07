@@ -1,10 +1,10 @@
 # AURKA System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 AURKA (Aurora Kinase A) is a serine/threonine protein kinase that plays essential roles in cell cycle regulation, particularly during mitosis. It is crucial for centrosome maturation, spindle assembly, and chromosome segregation. Overexpression of AURKA has been observed in various types of cancer, including breast, colorectal, and ovarian cancers, where it contributes to genomic instability and tumor progression. Due to its critical role in cell cycle regulation and its frequent dysregulation in cancer, AURKA has emerged as an important target for anti-cancer drug development.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

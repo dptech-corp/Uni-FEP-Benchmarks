@@ -1,10 +1,10 @@
 # TTK System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 TTK (also known as MPS1, Monopolar Spindle 1) is a dual-specificity protein kinase that plays a crucial role in cell cycle regulation, particularly during mitosis. It is essential for proper chromosome segregation and the spindle assembly checkpoint. TTK has emerged as an important therapeutic target in cancer treatment, as its overexpression has been observed in various types of cancers. Inhibition of TTK has shown promise in cancer therapy by disrupting cell division in cancer cells.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

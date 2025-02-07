@@ -1,10 +1,10 @@
 # HSP90AA1 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 HSP90AA1 (Heat Shock Protein 90 Alpha Family Class A Member 1) is a molecular chaperone that plays a crucial role in protein folding, stability, and function. It is essential for the maturation and stability of various client proteins involved in cell signaling, survival, and proliferation. HSP90AA1 has emerged as an important therapeutic target in cancer treatment, as its inhibition can simultaneously disrupt multiple oncogenic pathways. The development of selective HSP90AA1 inhibitors has shown promise in treating various types of cancer.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

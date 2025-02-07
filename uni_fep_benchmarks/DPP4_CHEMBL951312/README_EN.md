@@ -1,10 +1,10 @@
 # DPP4 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 DPP4 (Dipeptidyl Peptidase-4), also known as CD26, is a serine protease that plays a crucial role in glucose metabolism by degrading incretin hormones. It is a validated therapeutic target for type 2 diabetes treatment, with several approved inhibitors on the market. DPP4 inhibitors help maintain glucose homeostasis by prolonging the action of incretin hormones, which stimulate insulin secretion and suppress glucagon release.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

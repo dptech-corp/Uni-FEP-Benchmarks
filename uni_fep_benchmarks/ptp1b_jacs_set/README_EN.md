@@ -1,10 +1,10 @@
 # PTP1B System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 PTP1B (Protein Tyrosine Phosphatase 1B) is an important non-receptor protein tyrosine phosphatase that plays a crucial negative regulatory role in insulin and leptin signaling pathways. As the primary phosphatase for insulin and leptin receptors, PTP1B activity is closely associated with insulin resistance and obesity. Research has shown that PTP1B inhibition can enhance insulin sensitivity and improve energy metabolism, making it an ideal target for treating type 2 diabetes and obesity. Additionally, abnormal PTP1B expression is associated with certain types of cancer. Due to its significant role in metabolic diseases, the development of PTP1B inhibitors has been an important direction in drug development.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

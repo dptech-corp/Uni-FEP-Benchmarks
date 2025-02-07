@@ -1,10 +1,10 @@
 # JAK2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 JAK2 (Janus Kinase 2) is a non-receptor tyrosine kinase that plays a crucial role in various cytokine signaling pathways, particularly those involved in cell growth, development, and immune response. It is a key mediator of signal transduction for various growth factors and cytokines, including erythropoietin and thrombopoietin. JAK2 has emerged as an important therapeutic target for myeloproliferative disorders and various types of cancer, particularly due to the frequent occurrence of activating mutations in hematological malignancies.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

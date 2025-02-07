@@ -1,10 +1,10 @@
 # JAK1 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 JAK1 (Janus Kinase 1) is a non-receptor tyrosine kinase that plays a crucial role in cytokine signaling pathways, particularly in the JAK-STAT pathway. It is essential for mediating cellular responses to various inflammatory cytokines and growth factors. JAK1 has emerged as an important therapeutic target for treating autoimmune disorders, inflammatory diseases, and certain types of cancer. The development of selective JAK1 inhibitors represents a significant approach in modern medicine, as they can modulate specific inflammatory pathways while potentially minimizing off-target effects.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

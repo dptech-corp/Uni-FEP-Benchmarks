@@ -1,10 +1,10 @@
 # F10 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 F10 (Coagulation Factor X) is a vitamin K-dependent serine protease that plays a central role in the blood coagulation cascade. It is activated to form factor Xa, which converts prothrombin to thrombin, leading to blood clot formation. F10 is a well-established therapeutic target for anticoagulation therapy, with several approved drugs targeting this enzyme for the prevention and treatment of thrombotic disorders.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

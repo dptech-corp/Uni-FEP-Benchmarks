@@ -1,10 +1,10 @@
 # AKR1C3 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 AKR1C3 (Aldo-keto reductase family 1 member C3), also known as 17β-HSD5, is an NADPH-dependent oxidoreductase that plays crucial roles in steroid hormone and prostaglandin metabolism. It is involved in the conversion of androgens, estrogens, and prostaglandins, and has been implicated in hormone-dependent cancers. AKR1C3 has emerged as an important therapeutic target for hormone-dependent cancers, particularly prostate cancer, due to its role in androgen biosynthesis.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

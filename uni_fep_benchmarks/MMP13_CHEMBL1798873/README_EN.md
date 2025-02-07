@@ -1,10 +1,10 @@
 # MMP13 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 MMP13 (Matrix Metalloproteinase 13), also known as Collagenase-3, is a zinc-dependent endopeptidase that plays a crucial role in the degradation of extracellular matrix components, particularly type II collagen. It is involved in various physiological processes including tissue remodeling and wound healing. MMP13 has emerged as an important therapeutic target, particularly in osteoarthritis and various types of cancer, where its overexpression contributes to disease progression. The development of selective MMP13 inhibitors represents a significant approach in treating these conditions.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

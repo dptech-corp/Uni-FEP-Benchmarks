@@ -1,10 +1,10 @@
 # GCKR System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 GCKR (Glucokinase Regulatory Protein) is a key metabolic regulator that plays a crucial role in glucose homeostasis by modulating the activity of glucokinase (GK), the primary glucose sensor in hepatocytes. It functions as a competitive inhibitor of glucokinase in low glucose conditions and releases it when glucose levels rise. GCKR has emerged as an important therapeutic target for type 2 diabetes and related metabolic disorders, as its modulation can affect hepatic glucose metabolism and lipid homeostasis. The development of GCKR modulators represents a promising approach for treating metabolic diseases.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

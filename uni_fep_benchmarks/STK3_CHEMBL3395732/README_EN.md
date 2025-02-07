@@ -1,10 +1,10 @@
 # STK3 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 STK3 (Serine/Threonine Kinase 3), also known as MST2, is a key component of the Hippo signaling pathway, which plays crucial roles in organ size control, cell proliferation, apoptosis, and tumor suppression. It functions as a protein kinase that phosphorylates various downstream targets, including LATS1/2 kinases. STK3 has emerged as an important therapeutic target in cancer research due to its role in tumor suppression and cell death regulation.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

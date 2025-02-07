@@ -1,10 +1,10 @@
 # P38 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 P38 MAPK (P38 Mitogen-Activated Protein Kinase) is an important member of the MAPK family, functioning as a stress-activated protein kinase that plays crucial roles in multiple physiological processes including inflammatory response, cell differentiation, apoptosis, and cell cycle regulation. Abnormal activation of the P38 MAPK signaling pathway is closely associated with various diseases, including inflammatory diseases, autoimmune disorders, cardiovascular diseases, and cancer. Particularly in inflammatory diseases, P38 MAPK plays a vital role by regulating the production of pro-inflammatory cytokines. Therefore, P38 MAPK has become an important target for anti-inflammatory drug development, making the development of its inhibitors clinically significant.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

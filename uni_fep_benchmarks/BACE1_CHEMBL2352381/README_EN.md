@@ -1,10 +1,10 @@
 # BACE1 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 BACE1 (Beta-site APP Cleaving Enzyme 1), also known as β-secretase, is a transmembrane aspartic protease that plays a crucial role in the production of β-amyloid peptides. It is a key therapeutic target for Alzheimer's disease due to its involvement in the amyloidogenic processing of amyloid precursor protein (APP). BACE1 inhibition has been extensively studied as a potential treatment strategy for reducing β-amyloid accumulation in the brain, although achieving selective and brain-penetrant inhibition has proven challenging.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

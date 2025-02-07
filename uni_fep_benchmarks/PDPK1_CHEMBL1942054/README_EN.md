@@ -1,10 +1,10 @@
 # PDPK1 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 PDPK1 (3-Phosphoinositide Dependent Protein Kinase-1) is a master kinase that plays a crucial role in cell signaling by activating numerous downstream protein kinases. It is a key component of the PI3K/AKT signaling pathway and is involved in various cellular processes including cell growth, proliferation, and survival. PDPK1 has emerged as an important therapeutic target in cancer and metabolic diseases due to its central role in these signaling pathways.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

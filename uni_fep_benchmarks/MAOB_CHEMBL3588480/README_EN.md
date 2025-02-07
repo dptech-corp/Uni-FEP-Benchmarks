@@ -1,10 +1,10 @@
 # MAOB System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 MAOB (Monoamine Oxidase B) is a flavoenzyme located in the outer mitochondrial membrane that catalyzes the oxidative deamination of biogenic and xenobiotic amines. It plays crucial roles in the metabolism of neurotransmitters and is particularly important in the central nervous system. MAOB has emerged as an important therapeutic target for neurological disorders, including Parkinson's disease and depression, due to its role in neurotransmitter regulation.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

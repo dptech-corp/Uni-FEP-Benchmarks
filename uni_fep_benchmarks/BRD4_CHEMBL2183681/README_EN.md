@@ -1,10 +1,10 @@
 # BRD4 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 BRD4 (Bromodomain-containing protein 4) is a member of the BET (bromodomain and extra-terminal) family of proteins. It plays a crucial role in transcriptional regulation by reading acetylated lysine marks on histones and facilitating the recruitment of transcriptional machinery. BRD4 has emerged as an important therapeutic target in cancer and inflammatory diseases, as its inhibition can suppress the expression of oncogenes and inflammatory genes. The development of BRD4 inhibitors has shown promise in various therapeutic applications.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

@@ -1,10 +1,10 @@
 # LCK System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 LCK (Lymphocyte-specific protein tyrosine kinase) is a non-receptor tyrosine kinase that plays a crucial role in T-cell receptor signaling and T-cell development. It is primarily expressed in T lymphocytes and is essential for normal T-cell function and development. LCK has emerged as an important therapeutic target for autoimmune diseases, transplant rejection, and certain types of cancer, particularly T-cell lymphomas, due to its central role in T-cell signaling.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

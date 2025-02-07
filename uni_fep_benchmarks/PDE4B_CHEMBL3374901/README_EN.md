@@ -1,10 +1,10 @@
 # PDE4B System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 PDE4B (Phosphodiesterase 4B) is a member of the phosphodiesterase family that specifically hydrolyzes cyclic adenosine monophosphate (cAMP) to regulate intracellular cAMP levels. It plays crucial roles in various cellular processes, including inflammation, cognition, and psychiatric functions. PDE4B is particularly important in inflammatory cells and the central nervous system, where it modulates immune responses and neurotransmitter signaling. Its selective inhibition has shown therapeutic potential in treating inflammatory diseases, such as asthma and chronic obstructive pulmonary disease (COPD), as well as cognitive and psychiatric disorders.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

@@ -1,10 +1,10 @@
 # CDK2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 CDK2 (Cyclin-Dependent Kinase 2) is a crucial member of the cell cycle regulatory network, belonging to the serine/threonine protein kinase family. It primarily regulates G1/S transition and S phase progression by forming complexes with cyclins E and A. CDK2 activity is tightly regulated, and its abnormal activation is closely associated with the development of various cancers, including breast cancer, ovarian cancer, and lung cancer. Recent research has revealed that CDK2 also plays important roles in DNA damage repair and apoptosis regulation, further highlighting its significance as an anti-cancer drug target.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

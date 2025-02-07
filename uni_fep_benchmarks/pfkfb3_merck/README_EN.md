@@ -1,10 +1,10 @@
 # PFKFB3 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 PFKFB3 (6-Phosphofructo-2-Kinase/Fructose-2,6-Bisphosphatase 3) is a bifunctional enzyme that plays a crucial regulatory role in glycolysis. It regulates glycolytic flux by controlling the levels of fructose-2,6-bisphosphate (F2,6BP), with its kinase activity significantly exceeding its phosphatase activity, making it an important positive regulator of glycolysis. Research has shown that PFKFB3 is overexpressed in various cancers, and its hyperactivation leads to the "Warburg effect" in cancer cells, where glycolysis is preferred even under aerobic conditions. Particularly in rapidly proliferating tumor cells, PFKFB3 inhibition may suppress tumor growth by interfering with energy metabolism. Therefore, PFKFB3 has emerged as a novel target for anti-cancer drug development, making its inhibitors promising for clinical applications.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

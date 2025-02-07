@@ -1,10 +1,10 @@
 # RXRA System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 RXRA (Retinoid X Receptor Alpha) is a nuclear receptor that functions as a ligand-dependent transcription factor. It plays crucial roles in various biological processes, including development, cell differentiation, and metabolism. RXRA forms heterodimers with other nuclear receptors and is involved in the regulation of numerous genes. It has emerged as an important therapeutic target for various diseases, including cancer, metabolic disorders, and inflammatory conditions.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

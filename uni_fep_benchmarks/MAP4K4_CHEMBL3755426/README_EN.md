@@ -1,10 +1,10 @@
 # MAP4K4 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 MAP4K4 (Mitogen-Activated Protein Kinase Kinase Kinase Kinase 4), also known as HGK or NIK, is a serine/threonine protein kinase that belongs to the STE20/MAP4K family. It plays crucial roles in various cellular processes, including inflammation, cell migration, and metabolic regulation. MAP4K4 has emerged as an important therapeutic target, particularly in inflammatory diseases, cancer, and metabolic disorders. The enzyme's involvement in multiple signaling pathways and its association with various pathological conditions makes it an attractive target for drug development.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

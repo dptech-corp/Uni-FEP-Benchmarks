@@ -1,10 +1,10 @@
 # NEK2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 NEK2 (NIMA-related kinase 2) is a serine/threonine protein kinase that plays a crucial role in cell cycle regulation, particularly during mitosis. It is involved in centrosome separation, spindle formation, and chromosome segregation. NEK2 has emerged as an important therapeutic target in cancer treatment, as its overexpression is associated with various types of cancer, including breast cancer, colorectal cancer, and lung cancer. The development of NEK2 inhibitors represents a promising strategy for cancer therapy.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

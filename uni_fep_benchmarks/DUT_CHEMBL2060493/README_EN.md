@@ -1,10 +1,10 @@
 # DUT System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 DUT (dUTPase, dUTP pyrophosphatase) is an essential enzyme that catalyzes the hydrolysis of dUTP to dUMP and pyrophosphate. This reaction is crucial for maintaining DNA integrity by preventing the misincorporation of uracil into DNA and providing the substrate for thymidylate synthesis. DUT has emerged as an important therapeutic target, particularly in cancer treatment, due to its role in nucleotide metabolism and cell survival. The enzyme's importance in both normal cellular function and disease states makes it an attractive target for drug development.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

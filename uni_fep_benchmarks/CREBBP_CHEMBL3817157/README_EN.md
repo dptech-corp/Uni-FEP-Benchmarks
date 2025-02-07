@@ -1,10 +1,10 @@
 # CREBBP System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 CREBBP (CREB-binding protein), also known as CBP, is a crucial transcriptional coactivator that plays essential roles in various cellular processes, including transcription regulation, DNA damage response, and cell growth. It functions as a histone acetyltransferase (HAT) and helps regulate gene expression by modifying chromatin structure. CREBBP dysregulation has been implicated in various cancers and developmental disorders, making it an important therapeutic target.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

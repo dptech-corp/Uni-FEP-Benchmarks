@@ -1,10 +1,10 @@
 # TYK2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 TYK2 (Tyrosine Kinase 2) is an important member of the JAK family that plays crucial roles in multiple cytokine signaling pathways. As a key component in signal transduction for type I and II interferons, IL-12, IL-23, and other cytokine receptors, TYK2 participates in regulating immune responses, inflammatory responses, and cell growth. Research has shown that abnormal activation of TYK2 is closely associated with various autoimmune diseases, including psoriasis, inflammatory bowel disease, and systemic lupus erythematosus. Particularly in the treatment of autoimmune diseases, selective inhibition of TYK2 has shown promising therapeutic potential. Therefore, TYK2 has become an important target for drug development in treating autoimmune diseases.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

@@ -1,10 +1,10 @@
 # PTGES System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 PTGES (Prostaglandin E Synthase), also known as mPGES-1, is a membrane-associated protein that catalyzes the conversion of prostaglandin H2 to prostaglandin E2. It plays a crucial role in prostaglandin biosynthesis and inflammatory responses. PTGES has emerged as an important therapeutic target for inflammatory diseases and pain management, offering potentially better safety profiles compared to traditional NSAIDs that target upstream enzymes in the prostaglandin synthesis pathway.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

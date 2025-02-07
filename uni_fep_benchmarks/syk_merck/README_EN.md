@@ -1,10 +1,10 @@
 # SYK System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 SYK (Spleen Tyrosine Kinase) is a non-receptor tyrosine kinase that plays a crucial role in immune cell signal transduction. As an essential component of B-cell receptor (BCR) and Fc receptor signaling pathways, SYK regulates the development, activation, and function of immune cells. Research has shown that abnormal activation of SYK is closely associated with various autoimmune diseases (such as rheumatoid arthritis and systemic lupus erythematosus) and hematological malignancies. Particularly in B-cell lymphoma, SYK inhibition has demonstrated significant therapeutic effects. Therefore, SYK has become an important target for drug development in treating autoimmune diseases and hematological tumors.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

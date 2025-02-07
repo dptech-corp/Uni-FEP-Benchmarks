@@ -1,10 +1,10 @@
 # F2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 F2 (Coagulation Factor II or Prothrombin) is a key serine protease in the blood coagulation cascade that, when activated to thrombin, converts fibrinogen to fibrin and promotes platelet aggregation. It is a crucial target for anticoagulation therapy, with several direct thrombin inhibitors approved for clinical use in the prevention and treatment of thrombotic disorders.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

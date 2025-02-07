@@ -1,10 +1,10 @@
 # BRPF1 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 BRPF1 (Bromodomain and PHD Finger-containing protein 1) is a multidomain protein that functions as a scaffolding subunit of the MOZ/MORF histone acetyltransferase complex. It plays crucial roles in chromatin regulation and gene expression through its ability to recognize specific histone modifications. BRPF1 has emerged as a potential therapeutic target for various diseases, including cancer and inflammatory conditions, due to its involvement in epigenetic regulation.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

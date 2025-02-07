@@ -1,10 +1,10 @@
 # AMPD2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 AMPD2 (Adenosine Monophosphate Deaminase 2) is a key enzyme in purine nucleotide metabolism that catalyzes the deamination of AMP to IMP. It plays a crucial role in maintaining cellular energy homeostasis and nucleotide balance, particularly in tissues with high energy demands. AMPD2 deficiency has been associated with rare neurodevelopmental disorders and metabolic conditions. The enzyme's importance in cellular metabolism and its potential as a therapeutic target for various disorders has led to increased interest in developing selective AMPD2 inhibitors.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

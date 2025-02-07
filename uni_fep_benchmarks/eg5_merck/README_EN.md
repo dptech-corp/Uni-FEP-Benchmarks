@@ -1,10 +1,10 @@
 # EG5 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 EG5 (also known as KSP or KIF11) is an important member of the kinesin superfamily, functioning as a mitosis-associated motor protein. It plays a crucial role in cell division, primarily responsible for the formation and maintenance of bipolar spindles. Through ATP hydrolysis-driven mechanical motion, EG5 can slide microtubules apart to form the bipolar spindle structure. Research has shown that abnormal expression of EG5 is closely associated with the development of various cancers, with its overexpression often indicating poor prognosis. Recent years have seen significant progress in the development of EG5 inhibitors, with multiple compounds entering clinical trials and demonstrating promising anti-tumor activity and safety profiles.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

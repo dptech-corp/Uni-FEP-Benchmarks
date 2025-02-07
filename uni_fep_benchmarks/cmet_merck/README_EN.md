@@ -1,10 +1,10 @@
 # c-Met System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 c-Met (Hepatocyte Growth Factor Receptor, HGFR) is a receptor tyrosine kinase that plays crucial roles in embryonic development, tissue repair, and organ regeneration. Through binding with its ligand HGF (Hepatocyte Growth Factor), it activates multiple downstream signaling pathways to regulate cell proliferation, migration, invasion, and survival. Abnormal activation of c-Met is closely associated with the occurrence, development, and metastasis of various malignant tumors, including lung cancer, gastric cancer, liver cancer, and colorectal cancer. Particularly in certain cancers, c-Met amplification or mutation leads to its constitutive activation, becoming a key driver of tumor progression. Therefore, c-Met has become an important target for anti-cancer drug development, with its inhibitors showing significant clinical value.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

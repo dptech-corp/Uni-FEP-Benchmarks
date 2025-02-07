@@ -1,10 +1,10 @@
 # PDK2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 PDK2 (Pyruvate Dehydrogenase Kinase 2) is a mitochondrial protein kinase that regulates glucose metabolism by phosphorylating and inactivating the pyruvate dehydrogenase complex. It plays a crucial role in cellular energy metabolism and glucose homeostasis. PDK2 has emerged as an important therapeutic target for metabolic disorders, including diabetes and cancer, due to its role in regulating cellular energy metabolism.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

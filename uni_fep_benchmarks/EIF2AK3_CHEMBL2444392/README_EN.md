@@ -1,10 +1,10 @@
 # EIF2AK3 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 EIF2AK3 (Eukaryotic Translation Initiation Factor 2 Alpha Kinase 3), also known as PERK, is a key protein kinase involved in the unfolded protein response (UPR) pathway. It phosphorylates eIF2α in response to endoplasmic reticulum stress, leading to reduced protein synthesis and cell survival regulation. EIF2AK3 has emerged as an important therapeutic target for various diseases, including cancer and neurodegenerative disorders, due to its role in cellular stress response and protein homeostasis.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

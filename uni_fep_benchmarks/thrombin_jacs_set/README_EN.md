@@ -1,10 +1,10 @@
 # Thrombin System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 Thrombin is a key serine protease in the coagulation cascade, playing central roles in blood coagulation, platelet activation, and inflammatory responses. As the central regulator of the coagulation system, thrombin generates fibrin by cleaving fibrinogen while also participating in platelet activation and the activation of various coagulation factors. Research has shown that dysregulation of thrombin activity is closely associated with multiple thromboembolic diseases, including thrombosis, myocardial infarction, and stroke. Therefore, thrombin has become an important target for anticoagulant drug development, with its inhibitors having significant clinical value in preventing and treating thrombotic diseases.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

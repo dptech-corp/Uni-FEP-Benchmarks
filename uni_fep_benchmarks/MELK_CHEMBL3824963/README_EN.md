@@ -1,10 +1,10 @@
 # MELK System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 MELK (Maternal Embryonic Leucine Zipper Kinase) is a serine/threonine protein kinase that plays important roles in cell cycle regulation, cell proliferation, and stem cell self-renewal. It is highly expressed during early embryonic development and in various cancer types. MELK has emerged as an important therapeutic target in cancer treatment, particularly in aggressive cancers with poor prognosis, due to its role in cell cycle regulation and cancer cell survival.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

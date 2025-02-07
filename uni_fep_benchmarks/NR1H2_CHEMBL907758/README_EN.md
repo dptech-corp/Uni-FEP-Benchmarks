@@ -1,10 +1,10 @@
 # NR1H2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 NR1H2 (Nuclear Receptor Subfamily 1 Group H Member 2), also known as LXRβ (Liver X Receptor Beta), is a nuclear receptor that plays crucial roles in cholesterol homeostasis, lipid metabolism, and inflammation. It functions as a ligand-activated transcription factor that regulates the expression of genes involved in cholesterol efflux and lipid metabolism. NR1H2 has emerged as an important therapeutic target for metabolic disorders, atherosclerosis, and inflammatory diseases.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

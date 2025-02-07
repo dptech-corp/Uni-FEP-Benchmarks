@@ -1,10 +1,10 @@
 # TRAP1 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 TRAP1 (TNF Receptor-Associated Protein 1), also known as HSP75, is a mitochondrial molecular chaperone belonging to the HSP90 family. It plays crucial roles in maintaining mitochondrial function, regulating cellular metabolism, and protecting against oxidative stress. TRAP1 has emerged as an important therapeutic target in cancer treatment due to its involvement in tumor cell survival and drug resistance mechanisms.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

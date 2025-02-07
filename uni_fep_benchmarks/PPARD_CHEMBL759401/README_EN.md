@@ -1,10 +1,10 @@
 # PPARD System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 PPARD (Peroxisome Proliferator-Activated Receptor Delta), also known as PPARβ/δ, is a nuclear receptor that functions as a ligand-activated transcription factor. It plays crucial roles in lipid metabolism, glucose homeostasis, and inflammation. PPARD is widely expressed throughout the body and has emerged as an important therapeutic target for metabolic disorders, particularly in the treatment of dyslipidemia, obesity, and type 2 diabetes.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

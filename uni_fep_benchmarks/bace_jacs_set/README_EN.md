@@ -1,10 +1,10 @@
 # BACE System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 BACE (β-site APP cleaving enzyme) is an aspartyl protease that plays a crucial role in the pathogenesis of Alzheimer's disease (AD). It serves as the rate-limiting enzyme in the production of amyloid-β (Aβ) by cleaving the amyloid precursor protein (APP). Excessive accumulation of Aβ in the brain leads to the formation of amyloid plaques, which is one of the primary pathological features of Alzheimer's disease. Therefore, the development of BACE inhibitors is considered a significant therapeutic strategy for treating Alzheimer's disease and has attracted considerable attention in drug development efforts.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

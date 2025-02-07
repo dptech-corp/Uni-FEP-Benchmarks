@@ -1,10 +1,10 @@
 # SLC5A2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 SLC5A2 (Sodium-Glucose Cotransporter 2), also known as SGLT2, is a sodium-dependent glucose transporter primarily expressed in the proximal renal tubules. It plays a crucial role in glucose reabsorption from the glomerular filtrate back into the bloodstream. SLC5A2 has become an important therapeutic target for type 2 diabetes treatment, as its inhibition leads to increased urinary glucose excretion and reduced blood glucose levels. The development of SGLT2 inhibitors represents a significant advancement in diabetes management.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

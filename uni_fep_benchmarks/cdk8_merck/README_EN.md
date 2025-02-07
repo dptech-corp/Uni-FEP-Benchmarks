@@ -1,10 +1,10 @@
 # CDK8 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 CDK8 (Cyclin-Dependent Kinase 8) is a crucial member of the transcriptional regulatory network and a component of the Mediator complex. Unlike other CDK family members, CDK8 primarily participates in transcriptional regulation rather than cell cycle control. It regulates gene expression by phosphorylating RNA polymerase II and other transcription factors. Research has shown that abnormal activation of CDK8 is closely associated with the development of various cancers, particularly colorectal cancer and leukemia. CDK8 influences tumor growth and metastasis by regulating important signaling pathways such as Wnt/β-catenin and p53. Therefore, CDK8 has emerged as a novel target for anti-cancer drug development, making the development of its inhibitors clinically significant.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

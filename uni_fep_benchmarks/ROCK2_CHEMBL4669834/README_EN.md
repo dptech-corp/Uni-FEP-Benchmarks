@@ -1,10 +1,10 @@
 # ROCK2 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 ROCK2 (Rho-associated protein kinase 2) is a serine/threonine kinase that plays crucial roles in various cellular processes, including stress fiber formation, smooth muscle contraction, cell adhesion, and cell motility. As a key effector of the small GTPase RhoA, ROCK2 has emerged as an important therapeutic target for various diseases, including cardiovascular disorders, cancer, and fibrotic diseases.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

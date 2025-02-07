@@ -1,10 +1,10 @@
 # MET System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 MET (Mesenchymal-Epithelial Transition factor), also known as c-MET or hepatocyte growth factor receptor (HGFR), is a receptor tyrosine kinase that plays crucial roles in embryonic development, tissue repair, and organ regeneration. Through binding with its ligand HGF (Hepatocyte Growth Factor), it activates multiple downstream signaling pathways to regulate cell proliferation, migration, invasion, and survival. Abnormal activation of MET is closely associated with the occurrence, development, and metastasis of various malignant tumors, including lung cancer, gastric cancer, liver cancer, and colorectal cancer. Therefore, MET has become an important target for anti-cancer drug development.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

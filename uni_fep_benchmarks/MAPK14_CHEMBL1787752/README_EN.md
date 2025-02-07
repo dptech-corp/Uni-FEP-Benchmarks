@@ -1,10 +1,10 @@
 # MAPK14 System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 MAPK14 (Mitogen-Activated Protein Kinase 14), also known as p38α, is a serine/threonine protein kinase that plays a crucial role in cellular responses to stress, inflammation, and other environmental signals. It is a key mediator of inflammatory cytokine production and cellular responses to stress stimuli. MAPK14 has emerged as an important therapeutic target for inflammatory diseases, autoimmune disorders, and certain types of cancer.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 

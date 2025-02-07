@@ -1,10 +1,10 @@
 # TNKS System FEP Calculation Results Analysis
 
-## Target Introduction
+## Introduction
 
 TNKS (Tankyrase-1/2), also known as PARP5a/PARP5b, belongs to the poly(ADP-ribose) polymerase (PARP) family of enzymes. These proteins play crucial roles in various cellular processes, including Wnt signaling pathway regulation, telomere maintenance, and mitotic spindle formation. TNKS has emerged as an important therapeutic target, particularly in cancer treatment, as its inhibition can suppress Wnt signaling, which is frequently dysregulated in various cancers. The development of selective TNKS inhibitors represents a promising strategy for cancer therapy.
 
-## Dataset Analysis
+## Molecules
 
 ![Molecular structures of representative compounds](mol_grid.png)
 
