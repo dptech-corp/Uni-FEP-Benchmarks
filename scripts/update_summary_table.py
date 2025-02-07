@@ -31,7 +31,7 @@ def calculate_metrics(dG_expt, dG_pred):
 
 def generate_markdown_table(results):
     """Generate markdown table from results."""
-    headers = ["System", "NLigands", "RMSE (kcal/mol)", "R²", "Kendall's tau"]
+    headers = ["System", "N_Ligands", "RMSE (kcal/mol)", "R²", "Kendall's tau"]
     table = ["| " + " | ".join(headers) + " |"]
     table.append("|" + "|".join(["---"] * len(headers)) + "|")
     
