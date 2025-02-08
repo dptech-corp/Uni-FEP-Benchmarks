@@ -21,6 +21,10 @@ By compiling well-structured benchmark cases, this repository aims to:
 | System | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau |
 |---|---|---|---|---|
 | 3CLPro_hist | 5 | 0.83 | 0.69 | 0.80 |
+| A2A-Deflorian | 10 | 0.76 | 0.83 | 0.69 |
+| A2A-Lenselink | 7 | 0.54 | 0.84 | 0.62 |
+| A2A-Minetti | 9 | 0.91 | 0.50 | 0.39 |
+| A2A-Piersanti | 7 | 0.38 | 0.33 | 0.62 |
 | ACK1_hist | 6 | 1.10 | 0.71 | 0.60 |
 | AKR1C3_CHEMBL4428988 | 11 | 0.90 | 0.59 | 0.67 |
 | AMPD2_CHEMBL5240593 | 14 | 1.36 | 0.54 | 0.46 |
@@ -34,6 +38,9 @@ By compiling well-structured benchmark cases, this repository aims to:
 | CMA1_CHEMBL4182330 | 9 | 0.90 | 0.67 | 0.50 |
 | CREBBP_CHEMBL3817157 | 12 | 0.56 | 0.91 | 0.82 |
 | CSNK1D_CHEMBL2211470 | 13 | 1.48 | 0.47 | 0.50 |
+| CXCR4 | 9 | 1.11 | 0.44 | 0.25 |
+| D3 | 6 | 1.09 | 0.67 | 0.87 |
+| DOR | 11 | 0.83 | 0.59 | 0.60 |
 | DOT1L_CHEMBL4480297 | 8 | 2.29 | 0.90 | 0.79 |
 | DPP4_CHEMBL951312 | 23 | 0.74 | 0.61 | 0.50 |
 | DUT_CHEMBL2060493 | 13 | 1.10 | 0.40 | 0.49 |
@@ -73,6 +80,8 @@ By compiling well-structured benchmark cases, this repository aims to:
 | MMP13_CHEMBL1798873 | 13 | 1.22 | 0.83 | 0.58 |
 | NEK2_CHEMBL1693342 | 11 | 1.12 | 0.35 | 0.45 |
 | NR1H2_CHEMBL907758 | 8 | 1.61 | 0.63 | 0.64 |
+| OX2-set1 | 27 | 0.88 | 0.57 | 0.57 |
+| OX2-set2 | 24 | 1.07 | 0.25 | 0.35 |
 | PAK4_hist | 10 | 0.58 | 0.66 | 0.64 |
 | PDE1B_CHEMBL4011522 | 13 | 1.16 | 0.51 | 0.53 |
 | PDE4B_CHEMBL3374901 | 13 | 0.62 | 0.79 | 0.68 |
@@ -91,16 +100,19 @@ By compiling well-structured benchmark cases, this repository aims to:
 | SLC5A2_CHEMBL1217373 | 10 | 1.07 | 0.56 | 0.69 |
 | SRC_CHEMBL2039537 | 10 | 1.36 | 0.90 | 0.73 |
 | STK3_CHEMBL3395732 | 8 | 0.71 | 0.42 | 0.64 |
+| TA1 | 8 | 1.07 | 0.58 | 0.43 |
 | TNKS_CHEMBL2384487 | 9 | 0.72 | 0.84 | 0.87 |
 | TRAP1_CHEMBL3427925 | 8 | 1.33 | 0.57 | 0.21 |
 | TTK_CHEMBL3411333 | 25 | 0.86 | 0.74 | 0.73 |
 | bace_jacs_set | 36 | 0.80 | 0.47 | 0.49 |
+| beta1 | 9 | 0.91 | 0.14 | 0.22 |
 | cdk2_jacs_set | 16 | 0.81 | 0.54 | 0.53 |
 | cdk8_merck | 32 | 0.87 | 0.84 | 0.70 |
 | cmet_merck | 24 | 1.01 | 0.79 | 0.73 |
 | eg5_merck | 28 | 0.84 | 0.54 | 0.46 |
 | hif2a_merck | 41 | 1.54 | 0.22 | 0.28 |
 | jnk1_jacs_set | 21 | 0.65 | 0.59 | 0.63 |
+| mGluR5 | 12 | 1.16 | 0.73 | 0.79 |
 | mGluR5_hist | 12 | 1.16 | 0.73 | 0.78 |
 | mcl1_jacs_set | 42 | 1.19 | 0.57 | 0.57 |
 | p38_jacs_set | 34 | 0.92 | 0.42 | 0.54 |
