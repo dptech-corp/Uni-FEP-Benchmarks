@@ -78,11 +78,13 @@ By compiling well-structured benchmark cases, this repository aims to:
 | MELK_CHEMBL4006633 | 8 | 0.79 | 0.72 | 0.62 |
 | MET_CHEMBL2032485 | 8 | 1.05 | 0.90 | 0.79 |
 | MMP13_CHEMBL1798873 | 13 | 1.22 | 0.83 | 0.58 |
+| Menin_cyclic_peptide | 16 | 0.90 | 0.46 | 0.50 |
 | NEK2_CHEMBL1693342 | 11 | 1.12 | 0.35 | 0.45 |
 | NR1H2_CHEMBL907758 | 8 | 1.61 | 0.63 | 0.64 |
 | OX2-set1_GPCRFEP | 27 | 0.88 | 0.57 | 0.57 |
 | OX2-set2_GPCRFEP | 24 | 1.07 | 0.25 | 0.35 |
 | PAK4_hist | 10 | 0.58 | 0.66 | 0.64 |
+| PCSK9_cyclic_peptide | 18 | 0.77 | 0.51 | 0.47 |
 | PDE1B_CHEMBL4011522 | 13 | 1.16 | 0.51 | 0.53 |
 | PDE4B_CHEMBL3374901 | 13 | 0.62 | 0.79 | 0.68 |
 | PDE4D_CHEMBL3374902 | 12 | 1.05 | 0.55 | 0.61 |
