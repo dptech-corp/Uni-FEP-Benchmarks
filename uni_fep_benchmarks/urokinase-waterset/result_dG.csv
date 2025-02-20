@@ -1,0 +1,5 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]c1c([H])c([H])c(-c2c([H])c([H])c([H])c(-c3nc4c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c4n3[H])c2[O-])c([H])c1[H],7806 (no water pose),-8.6515,-9.4784,0.0503
+[H]c1c([H])c([H])c(-c2c([H])c([H])c([H])c(-c3c([H])c4c([H])c(C(N([H])[H])=[N+]([H])[H])c(F)c([H])c4n3[H])c2[O-])c([H])c1[H],11417 (no water pose),-10.5656,-9.8463,0.0658
+[H]c1c([H])c([H])c(-c2c([H])c([H])c([H])c(-c3c([H])c4c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c4n3[H])c2[O-])c([H])c1[H],8696 (no water pose),-9.8022,-9.7006,0.0755
+[H]c1c([H])c([H])c(-c2c([H])c([H])c([H])c(-c3c([H])c4c([H])c(C(N([H])[H])=[N+]([H])[H])c(Cl)c([H])c4n3[H])c2[O-])c([H])c1[H],10302 (1GJ7 no water pose),-10.8224,-10.8164,0.0695

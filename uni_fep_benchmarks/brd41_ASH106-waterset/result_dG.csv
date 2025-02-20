@@ -1,0 +1,9 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]/C(=C(/[H])[C@]([H])([H])n1c([H])c(-c2c([H])c([H])c([H])c(C(=O)N([C@@]([H])([H])[H])[C@@]([H])([H])[H])c2[H])c2c([H])c([H])n([H])c2c1=O)[C@@]([H])([H])[H],cmpd 4 (Crotyl),-8.64,-9.9739,0.1273
+[H]c1c([H])c(C(=O)N([C@@]([H])([H])[H])[C@@]([H])([H])[H])c([H])c(-c2c([H])n([C@@]([H])([H])[C@]([H])([H])[H])c(=O)c3c2c([H])c([H])n3[H])c1[H],cmpd 6 (ethyl),-8.59,-7.8275,0.1258
+[H]C([H])=C([H])[C@@]([H])([H])[C@]([H])([H])n1c([H])c(-c2c([H])c([H])c([H])c(C(=O)N([C@@]([H])([H])[H])[C@@]([H])([H])[H])c2[H])c2c([H])c([H])n([H])c2c1=O,cmpd 5 (1-Butenyl),-7.64,-6.9979,0.3872
+[H]c1c([H])c(C(=O)N([C@@]([H])([H])[H])[C@@]([H])([H])[H])c([H])c(-c2c([H])n([C@@]([H])([H])[C@]([H])([H])[C@]([H])([H])[C@@]([H])([H])[H])c(=O)c3c2c([H])c([H])n3[H])c1[H],cmpd 8 (n-Butyl),-7.66,-8.2359,0.1241
+[H]c1c([H])c(C(=O)N([C@@]([H])([H])[H])[C@@]([H])([H])[H])c([H])c(-c2c([H])n([C@@]([H])([H])[H])c(=O)c3c2c([H])c([H])n3[H])c1[H],cmpd 2 (methyl),-9.59,-9.1726,0.123
+[H]c1c([H])c(C(=O)N([C@@]([H])([H])[H])[C@@]([H])([H])[H])c([H])c(-c2c([H])n([C@@]([H])([H])[C@]([H])([H])O[C@@]([H])([H])[H])c(=O)c3c2c([H])c([H])n3[H])c1[H],cmpd 9 (methoxyethyl),-7.22,-7.5403,0.1241
+[H]C([H])=C([H])[C@]([H])([H])n1c([H])c(-c2c([H])c([H])c([H])c(C(=O)N([C@@]([H])([H])[H])[C@@]([H])([H])[H])c2[H])c2c([H])c([H])n([H])c2c1=O,cmpd 3 (Allyl),-7.09,-6.8824,0.127
+[H]c1c([H])c(C(=O)N([C@@]([H])([H])[H])[C@@]([H])([H])[H])c([H])c(-c2c([H])n([C@@]([H])([H])[C@]([H])([H])[C@@]([H])([H])[H])c(=O)c3c2c([H])c([H])n3[H])c1[H],cmpd 7 (n-propyl),-7.02,-6.8195,0.294
