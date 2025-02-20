@@ -108,11 +108,15 @@ By compiling well-structured benchmark cases, this repository aims to:
 | TTK_CHEMBL3411333 | 25 | 0.86 | 0.74 | 0.73 |
 | bace_jacs_set | 36 | 0.80 | 0.47 | 0.49 |
 | beta1_GPCRFEP | 9 | 0.91 | 0.14 | 0.22 |
+| brd41_ASH106-waterset | 8 | 0.66 | 0.62 | 0.79 |
 | cdk2_jacs_set | 16 | 0.81 | 0.54 | 0.53 |
 | cdk8_merck | 32 | 0.87 | 0.84 | 0.70 |
+| chk1-waterset | 13 | 1.02 | 0.53 | 0.61 |
 | cmet_merck | 24 | 1.01 | 0.79 | 0.73 |
 | eg5_merck | 28 | 0.84 | 0.54 | 0.46 |
 | hif2a_merck | 41 | 1.54 | 0.22 | 0.28 |
+| hsp90_kung-waterset | 11 | 1.20 | 0.65 | 0.56 |
+| hsp90_woodhead-waterset | 4 | 0.43 | 0.95 | 1.00 |
 | jnk1_jacs_set | 21 | 0.65 | 0.59 | 0.63 |
 | mGluR5_GPCRFEP | 12 | 1.16 | 0.73 | 0.79 |
 | mGluR5_hist | 12 | 1.16 | 0.73 | 0.78 |
@@ -120,11 +124,15 @@ By compiling well-structured benchmark cases, this repository aims to:
 | p38_jacs_set | 34 | 0.92 | 0.42 | 0.54 |
 | pfkfb3_merck | 40 | 1.06 | 0.39 | 0.44 |
 | ptp1b_jacs_set | 23 | 0.91 | 0.57 | 0.67 |
+| scytalone_dehyd-waterset | 7 | 1.35 | 0.71 | 0.62 |
 | shp2_merck | 26 | 1.79 | 0.04 | 0.12 |
 | syk_merck | 48 | 1.56 | 0.26 | 0.42 |
+| taf12-waterset | 8 | 0.46 | 0.67 | 0.36 |
+| throm-waterset | 21 | 0.79 | 0.56 | 0.58 |
 | thrombin_jacs_set | 11 | 0.78 | 0.66 | 0.64 |
 | tnks2_merck | 33 | 1.03 | 0.24 | 0.28 |
 | tyk2_jacs_set | 16 | 0.81 | 0.63 | 0.55 |
+| urokinase-waterset | 4 | 0.55 | 0.60 | 1.00 |
 ## Repository Structure
 
 Each system is organized into a separate folder, containing:
