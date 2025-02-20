@@ -128,7 +128,7 @@ By compiling well-structured benchmark cases, this repository aims to:
 | shp2_merck | 26 | 1.79 | 0.04 | 0.12 |
 | syk_merck | 48 | 1.56 | 0.26 | 0.42 |
 | taf12-waterset | 8 | 0.46 | 0.67 | 0.36 |
-| throm-waterset | 39 | 0.72 | 0.63 | 0.63 |
+| throm-waterset | 21 | 0.79 | 0.56 | 0.58 |
 | thrombin_jacs_set | 11 | 0.78 | 0.66 | 0.64 |
 | tnks2_merck | 33 | 1.03 | 0.24 | 0.28 |
 | tyk2_jacs_set | 16 | 0.81 | 0.63 | 0.55 |
