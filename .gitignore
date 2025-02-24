@@ -1,6 +1,8 @@
 prepare/
 stat.txt
 draw_mol.py
+calc_stat.py
+openai_doc_writer.py
 stat.py
 edit_doc.py
 temp/
