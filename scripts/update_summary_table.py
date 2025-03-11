@@ -31,17 +31,19 @@ def calculate_metrics(dG_expt, dG_pred):
 
 def generate_markdown_table(results):
     """Generate markdown table from results."""
-    headers = ["System", "N_Ligands", "RMSE (kcal/mol)", "R²", "Kendall's tau"]
+    headers = ["Series", "Target", "N_Ligands", "RMSE (kcal/mol)", "R²", "Kendall's tau", "Description"]
     table = ["| " + " | ".join(headers) + " |"]
     table.append("|" + "|".join(["---"] * len(headers)) + "|")
     
     for row in results[1:]:  # Skip header row
         formatted_row = [
-            row[0], 
-            str(row[1]), 
-            f"{row[2]:.2f}",
-            f"{row[3]:.2f}", 
-            f"{row[4]:.2f}"
+            str(row[0]), 
+            str(row[1]),
+            str(row[2]), 
+            f"{row[3]:.2f}",
+            f"{row[4]:.2f}", 
+            f"{row[5]:.2f}",
+            str(row[6])
         ]
         table.append("| " + " | ".join(formatted_row) + " |")
     
@@ -80,16 +82,27 @@ def main():
     for system_dir in sorted(benchmarks_dir.iterdir()):
         if system_dir.is_dir():
             try:
+                info = system_dir.name.split("|")
+                series = info[0]
+                target = info[1]
+                if len(info) > 2:
+                    description = info[2]
+                else:
+                    description = ""
+
+
                 data_file = system_dir / "result_dG.csv"
                 dG_pred, _, dG_expt = load_dG(data_file)
                 rmse, r2, tau = calculate_metrics(dG_expt, dG_pred)
                 
                 results.append([
-                    system_dir.name,
+                    series,
+                    target,
                     len(dG_pred),
                     rmse,
                     r2,
-                    tau
+                    tau,
+                    description
                 ])
             except Exception as e:
                 print(f"Error processing {system_dir}: {str(e)}")
