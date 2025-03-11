@@ -137,8 +137,8 @@ By compiling well-structured benchmark cases, this repository aims to:
 | Merck8 | c-Met | 24 | 1.01 | 0.79 | 0.73 |  |
 | WaterSet | Brd4(1)-ASH106 | 8 | 0.66 | 0.62 | 0.79 |  |
 | WaterSet | Chk1 | 13 | 1.02 | 0.53 | 0.61 |  |
-| WaterSet | HSP90 | 11 | 1.20 | 0.65 | 0.56 | kung |
-| WaterSet | HSP90 | 4 | 0.43 | 0.95 | 1.00 | woodhead |
+| WaterSet | HSP90 | 11 | 1.20 | 0.65 | 0.56 | Kung |
+| WaterSet | HSP90 | 4 | 0.43 | 0.95 | 1.00 | Woodhead |
 | WaterSet | Scytalone-Dehydratase | 7 | 1.35 | 0.71 | 0.62 |  |
 | WaterSet | Taf1(2) | 8 | 0.46 | 0.67 | 0.36 |  |
 | WaterSet | Thrombin | 21 | 0.79 | 0.56 | 0.58 |  |
