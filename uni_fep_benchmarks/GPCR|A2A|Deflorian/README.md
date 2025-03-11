@@ -1,0 +1,2 @@
+## Reference 
+> Deflorian F, Perez-Benito L, Lenselink EB, Congreve M, van Vlijmen HW, Mason JS, Graaf CD, Tresadern G. Accurate prediction of GPCR ligand binding affinity with free energy perturbation. Journal of Chemical Information and Modeling. 2020 Jun 15;60(11):5563-79.

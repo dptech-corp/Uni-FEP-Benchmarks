@@ -1,0 +1,2 @@
+## Reference
+> Lenselink EB, Louvel J, Forti AF, van Veldhoven JP, de Vries H, Mulder-Krieger T, McRobb FM, Negri A, Goose J, Abel R, van Vlijmen HW. Predicting binding affinities for GPCR ligands using free-energy perturbation. ACS omega. 2016 Aug 31;1(2):293-304.

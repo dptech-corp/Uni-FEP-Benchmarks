@@ -9,7 +9,10 @@ def load_dG(filename):
         reader = csv.DictReader(csvfile)
         items = list(reader)
         dG_pred = np.array([float(i['fep_dG (kcal/mol)']) for i in items])
-        std_dG_pred = np.array([float(i['fep_dG_std (kcal/mol)']) for i in items])
+        try:
+            std_dG_pred = np.array([float(i['fep_dG_std (kcal/mol)']) for i in items])
+        except:
+            std_dG_pred = np.zeros(len(dG_pred))
         dG_expt = np.array([float(i['exp_dG (kcal/mol)']) for i in items])
     return dG_pred, std_dG_pred, dG_expt
 
