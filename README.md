@@ -179,11 +179,10 @@ uni_fep_benchmarks/
 
 ## Data Update Guidelines
 
-When submitting new benchmark data via a **Merge Request**, please include the following information at least to ensure transparency and reproducibility:
+When submitting new benchmark data via a **Merge Request**, please provide the following:
 
-1. **Uni-FEP version** used for this dataset  
-2. **Simulation parameters** (e.g., lambda windows, simulation time, force field)  
-3. **Ensure that the benchmark summary table is updated** by running:
+1. Name all new folders using the format `Series|Target|Description`.
+2. Update the benchmark summary table by running:
    ```cmd
    python scripts/update_summary_table.py
    ```
