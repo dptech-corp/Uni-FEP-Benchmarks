@@ -154,11 +154,15 @@ scripts/
 uni_fep_benchmarks/
 │── system_1/  
 │   ├── README.md        # Brief description of the system  
+│   ├── protein.pdb      # Protein structure file in PDB format  
+│   ├── ref_ligand.sdf   # Reference ligand file in SDF format  
 │   ├── result_dG.png    # Visualization of FEP-calculated dG  
 │   ├── result_dG.csv    # Numerical results of dG comparisons  
 │  
 │── system_2/  
 │   ├── README.md  
+│   ├── protein.pdb     
+│   ├── ref_ligand.sdf  
 │   ├── result_dG.png  
 │   ├── result_dG.csv  
 │  
@@ -168,6 +172,8 @@ uni_fep_benchmarks/
 ## File Descriptions
 
 - **`README.md`**: Contains a brief summary of the system, including error statistics (e.g., RMSE of dG and ddG).
+- **`protein.pdb`**: The protein structure file in PDB format required for FEP calculations.
+- **`ref_ligand.sdf`**: The reference ligand file in SDF format used to define the ligand in the system.
 - **`result_dG.png`**: Graphical representation of **FEP-derived binding free energies (dG)** compared to experimental values.
 - **`result_dG.csv`**: A table containing RBFE-predicted binding free energies (`fep_dG`) and experimental measurements (`exp_dG`).
 
@@ -182,7 +188,8 @@ uni_fep_benchmarks/
 When submitting new benchmark data via a **Merge Request**, please provide the following:
 
 1. Name all new folders using the format `Series|Target|Description`.
-2. Update the benchmark summary table by running:
+2. Include the required files in each system folder: `protein.pdb` and `ref_ligand.sdf` along with the existing files.
+3. Update the benchmark summary table by running:
    ```cmd
    python scripts/update_summary_table.py
    ```
