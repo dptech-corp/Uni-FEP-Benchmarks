@@ -25,8 +25,8 @@ All validated test cases and their corresponding Uni-FEP calculation results—a
 If you can demonstrate that another mainstream commercial FEP tool outperforms Uni-FEP under identical conditions, please submit supporting evidence such as published articles or screenshots of software results. Upon verification, additional rewards will be granted, which may include *extra Uni-FEP credits on Hermite®️ platform* or *a $50 Amazon gift card*. We also welcome any constructive suggestions regarding the reward system.
 
 ### Project Guidelines and Considerations
-- **Openness and Fairness: All test cases and calculation results will be shared openly in the Uni-FEP-Benchmarks repository, creating a robust and high-quality FEP benchmark dataset.
+- **Openness and Fairness**: All test cases and calculation results will be shared openly in the Uni-FEP-Benchmarks repository, creating a robust and high-quality FEP benchmark dataset.
 - **Intellectual Property Protection**: We strictly respect intellectual property rights. In future publications or technical reports utilizing data from this repository, we will appropriately acknowledge and include the contributions of all participants.
 - **Low Barrier to Entry**: We welcome contributions from both academic researchers and industry professionals. However, submissions will be subject to review to maintain data quality.
 - **Privacy Protection**: Please anonymize any sensitive data before submission. If necessary, contact us to discuss alternative submission methods.
--** Long-Term Initiative**: This project is intended for ongoing participation with no fixed deadline. We encourage continuous contributions to progressively enhance the dataset.
+- **Long-Term Initiative**: This project is intended for ongoing participation with no fixed deadline. We encourage continuous contributions to progressively enhance the dataset.
