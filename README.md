@@ -17,6 +17,20 @@ By compiling well-structured benchmark cases, this repository aims to:
 3. **Reduce the cost of FEP adoption for users**  
    - This repository is designed as a long-term project. Over time, as more benchmark cases are added, users may directly request pre-constructed systems from this dataset, allowing them to focus solely on predicting new compounds without having to reconstruct the entire system.
 
+## FEP Open Challenge
+We are excited to announce the **FEP Open Challenge** – an initiative aimed at validating the accuracy and stability of Uni-FEP through community participation. Researchers are invited to submit their own test cases using publicly available or published datasets. Our team will perform the FEP calculations on the submitted data and return the results, helping to dispel any doubts about Uni-FEP's performance.
+
+Key points of the challenge include:
+
+- **Data-Driven Validation**: Submit your test case (including a protein structure, reference ligand, and dataset file), and our team will evaluate it to verify Uni-FEP’s precision.
+- **Public Benchmarking**: All validated test cases and their results will be shared openly in the Uni-FEP-Benchmarks repository under the Apache 2.0 license, contributing to a transparent and high-quality benchmark dataset.
+- **Reward Policy**: Publicly compare Uni-FEP with another commercial FEP tool under identical conditions using supporting evidence (e.g., via a preprint, blog, or journal article) to earn<sup>*</sup> **a $50 Amazon Gift Card**—with **an additional $50** awarded upon verification if the other tool is shown to significantly outperform Uni-FEP. <br>
+   <sub>**Subject to validation*</sub> <br>
+- **Participation Guidelines**: To ensure fairness, each individual may only have one active submission at a time. Also, cases sourced from ChEMBL or BindingDB may be avoided during our review process.
+
+For more details, please refer to our [FEP Open Challenge introduction](https://github.com/dptech-corp/Uni-FEP-Benchmarks/blob/main/docs/FEP_Open_Challenge.md).
+
+
 ## Summary of Benchmark Results
 | Series | Target | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau | Description |
 |---|---|---|---|---|---|---|

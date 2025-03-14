@@ -13,8 +13,8 @@ assignees: rongfengzou
 _Provide a brief description of your test case._
 > Example: This test case evaluates Uni-FEP's accuracy in predicting binding affinities for kinase inhibitors.
 
-### 📝 Source Data
-_Provide the source of your dataset (e.g., literature, in-house experimental data, etc.)._
+### 📝 Data Source
+_Provide the source of your dataset (e.g., literature, publicly available in-house experimental data, etc.)._
 > Example: DOI of the original paper or mention if it's unpublished data.
 
 
@@ -37,10 +37,13 @@ _Upload or link to the dataset file (CSV containing SMILES and experimental acti
 - **Description:** _Explain the content (e.g., ligand structures, experimental binding affinities, logIC50/IC50 values)._
 > Example: "CSV file with experimental IC50 values from published dataset (DOI: xxx)."
 
-
-### 🔢 Estimated Number of Perturbation Pairs
-_How many perturbation pairs do you expect to calculate?_
-> Example: ~20 perturbation pairs.
-
 ### 📬 Additional Comments
 _Any additional information you would like to provide?_
+
+---
+
+### Important Notes:
+- **Data Publication Consent**: By submitting this issue, you agree that your test case and calculation results will be published in the Uni-FEP-Benchmarks repository under the Apache 2.0 license.
+- **Single Active Submission Policy**: To ensure fair participation, each individual is allowed only one active submission (issue) at a time.
+- **Data Source Consideration**: Please note that submissions sourced from ChEMBL or BindingDB may not be accepted, as we are in the process of constructing our own benchmark dataset from these sources.
+- **Sensitive Data**: If your data contains proprietary or sensitive information, please contact us before submission to discuss alternative methods.
