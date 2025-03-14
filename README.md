@@ -24,7 +24,8 @@ Key points of the challenge include:
 
 - **Data-Driven Validation**: Submit your test case (including a protein structure, reference ligand, and dataset file), and our team will evaluate it to verify Uni-FEP’s precision.
 - **Public Benchmarking**: All validated test cases and their results will be shared openly in the Uni-FEP-Benchmarks repository under the Apache 2.0 license, contributing to a transparent and high-quality benchmark dataset.
-- **Reward Policy**: Publicly compare Uni-FEP with another commercial FEP tool under identical conditions using supporting evidence (e.g., via a preprint, blog, or journal article) to earn **a $50 Amazon Gift Card**—with **an additional $50** awarded upon verification if the other tool is shown to significantly outperform Uni-FEP.
+- **Reward Policy**: Publicly compare Uni-FEP with another commercial FEP tool under identical conditions using supporting evidence (e.g., via a preprint, blog, or journal article) to earn<sup>*</sup> **a $50 Amazon Gift Card**—with **an additional $50** awarded upon verification if the other tool is shown to significantly outperform Uni-FEP. <br>
+   <sub>**Subject to validation*</sub> <br>
 - **Participation Guidelines**: To ensure fairness, each individual may only have one active submission at a time. Also, cases sourced from ChEMBL or BindingDB may be avoided during our review process.
 
 For more details, please refer to our [FEP Open Challenge introduction](https://github.com/dptech-corp/Uni-FEP-Benchmarks/blob/main/docs/FEP_Open_Challenge.md).
