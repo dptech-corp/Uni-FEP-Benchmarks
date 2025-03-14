@@ -22,9 +22,8 @@ Each submitted test case will undergo both automated and manual review to ensure
 All validated test cases and their corresponding Uni-FEP calculation results—as well as comparative data—will be published in the repository under the Apache 2.0 license. By submitting your test case, you agree to have your data and results shared publicly. This continuously updated benchmark dataset will serve as an objective and transparent platform for evaluating FEP performance, contributing significantly to the advancement of drug design technologies.
 #### 4. Reward Policy
 - Basic Reward: Participants who publicly post a comparison of Uni-FEP results with those of another commercial FEP tool for the same system-whether on a blog, X (Twitter), LinkedIn, a preprint, or in a journal article-will receive<sup>*</sup> **a $50 Amazon Gift Card**.
-- Additional Reward: If the published results clearly show that the other commercial FEP tool significantly outperforms Uni-FEP, we will, upon verification, award **an additional $50 Amazon Gift Card** as a token of our appreciation.
-*Subject to verification
-
+- Additional Reward: If the published results clearly show that the other commercial FEP tool significantly outperforms Uni-FEP, we will, upon verification, award **an additional $50 Amazon Gift Card** as a token of our appreciation. <br>
+<sub>*</sub> <sub>*Subject to validation*</sub> <br>
 ### Project Guidelines and Considerations
 - **Openness and Fairness**: All test cases and calculation results will be shared openly in the Uni-FEP-Benchmarks repository under the Apache 2.0 license, creating a robust and high-quality FEP benchmark dataset. Please anonymize any sensitive data before submission.
 - **Intellectual Property Protection**: We strictly respect intellectual property rights. In future publications or technical reports utilizing data from this repository, we will appropriately acknowledge and include the contributions of all participants.
