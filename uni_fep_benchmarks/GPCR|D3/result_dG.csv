@@ -1,7 +1,7 @@
-Name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
-11a,-8.663,-8.101,0.32
-11b,-10.241,-11.651,0.142
-12a,-9.204,-8.425,0.253
-12b,-10.731,-12.249,0.133
-13a,-10.433,-9.086,0.296
-13b,-12.878,-12.639,0.184
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol)
+[CH3][CH2][c]1[cH][c]([Cl])[c]([O][CH3])[c]([N]2[CH2][CH2][NH2+][CH2][CH2]2)[cH]1,11a,-8.663,-8.101
+[CH3][CH2][c]1[cH][cH][cH][c]([N]2[CH2][CH2][NH2+][CH2][CH2]2)[c]1[Cl],11b,-10.241,-11.651
+[CH3][CH2][c]1[cH][c]([Cl])[c]([O][CH3])[c]([N]2[CH2][CH2][NH+]([CH3])[CH2][CH2]2)[cH]1,12a,-9.204,-8.425
+[CH3][CH2][c]1[cH][cH][cH][c]([N]2[CH2][CH2][NH+]([CH3])[CH2][CH2]2)[c]1[Cl],12b,-10.731,-12.249
+[CH3][CH2][CH2][CH2][NH+]1[CH2][CH2][N]([c]2[cH][c]([CH2][CH3])[cH][c]([Cl])[c]2[O][CH3])[CH2][CH2]1,13a,-10.433,-9.086
+[CH3][CH2][CH2][CH2][NH+]1[CH2][CH2][N]([c]2[cH][cH][cH][c]([CH2][CH3])[c]2[Cl])[CH2][CH2]1,13b,-12.878,-12.639
