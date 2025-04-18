@@ -1,0 +1,13 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]c1c([H])c([H])c(SC2=C([O-])C([H])([H])[C@]([H])(c3c([H])c([H])c(OC([H])([H])[H])c([H])c3[H])C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318468_13000.0_nM,-6.6624,-9.6137,2.9513
+[H]c1c([H])c([H])c(SC2=C([O-])C([H])([H])[C@@]([H])(c3c(Cl)c([H])c([H])c([H])c3Br)C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318471_490.0_nM,-8.6038,-11.2128,2.609
+[H]c1c([H])c([H])c(S[C@]2([H])C(=O)C([H])([H])[C@@]([H])(c3c(Cl)c([H])c([H])c([H])c3C(F)(F)F)C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318472_500.0_nM_3,-8.5918,-6.3882,2.2037
+[H]c1c([H])c([H])c(S[C@]2([H])C(=O)C([H])([H])[C@@]([H])(c3c([H])c([H])c([H])c([H])c3[H])C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318415_4300.0_nM_3,-7.3176,-5.3045,2.0131
+[H]c1c([H])c([H])c(S[C@]2([H])C(=O)C([H])([H])[C@@]([H])(c3c(Cl)c([H])c([H])c(Br)c3Cl)C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318476_370.0_nM_3,-8.7701,-6.8779,1.8923
+[H]c1c([H])c(Cl)c([C@@]2([H])C([H])([H])C(=O)C(Sc3c([H])c([H])c([H])c([H])c3C#N)=C([O-])C2([H])[H])c(Cl)c1[H],CHEMBL3318481_430.0_nM,-8.6811,-10.2461,1.565
+[H]c1c([H])c(Cl)c([C@@]2([H])C([H])([H])C(=O)C(Sc3c([H])c([H])c([H])c([H])c3C#N)=C([O-])C2([H])[H])c(Br)c1[H],CHEMBL3318482_240.0_nM,-9.0265,-10.4288,1.4023
+[H]c1c([H])c([H])c([C@@]2([H])C([H])([H])C(=O)C(Sc3c([H])c([H])c([H])c([H])c3C#N)=C([O-])C2([H])[H])c([H])c1[H],CHEMBL3318423_1500.0_nM,-7.9413,-9.3391,1.3978
+[H]c1c([H])c([H])c(S[C@]2([H])C(=O)C([H])([H])[C@@]([H])(c3c([H])c([H])c([H])c(Cl)c3[H])C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318466_7100.0_nM_3,-7.0206,-5.7281,1.2925
+[H]c1c([H])c([H])c(S[C@]2([H])C(=O)C([H])([H])[C@@]([H])(c3c(Cl)c([H])c([H])c([H])c3Cl)C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318469_1800.0_nM_3,-7.8333,-6.5786,1.2547
+[H]c1c([H])c([H])c(S[C@]2([H])C(=O)C([H])([H])[C@@]([H])(c3c([H])c([H])c([H])c([H])c3Cl)C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318465_8200.0_nM_3,-6.9353,-6.0922,0.8431
+[H]c1c([H])c([H])c(S[C@]2([H])C(=O)C([H])([H])[C@@]([H])(c3c([H])c([H])c(Cl)c([H])c3[H])C([H])([H])C2=O)c(Cl)c1[H],CHEMBL3318467_27000.0_nM_3,-6.2296,-5.8036,0.426

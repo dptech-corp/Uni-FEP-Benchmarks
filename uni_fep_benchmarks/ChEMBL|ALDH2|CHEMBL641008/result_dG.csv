@@ -1,0 +1,13 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])Br)c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL112437_300.0_nM,-8.8943,-10.9724,2.0781
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(O[C@]4([H])O[C@]([H])(C([H])([H])O[H])[C@@]([H])(O[H])[C@]([H])(O[H])[C@@]4([H])O[H])c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL486422_40.0_nM,-10.0875,-8.1338,1.9538
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C(=O)[O-])c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL113640_9.0_nM,-10.9709,-9.3615,1.6094
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C(=O)[O-])c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL112007_9.0_nM,-10.9709,-9.6073,1.3636
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])C([H])([H])C([H])([H])Br)c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL113617_270.0_nM,-8.9567,-10.1897,1.233
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(O[H])c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL8145_9000.0_nM,-6.8802,-7.9411,1.0609
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])=C([H])[H])c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL112165_800.0_nM,-8.3135,-9.2006,0.8871
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])[H])c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL115092_40.0_nM,-10.0875,-9.2293,0.8583
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])C([H])([H])Br)c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL115314_260.0_nM,-8.9791,-9.7369,0.7578
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])C4([H])OC([H])([H])C([H])([H])C([H])([H])O4)c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL134275_400.0_nM,-8.724,-9.3445,0.6205
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C(=O)[O-])c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL113123_3.0_nM,-11.6215,-11.1627,0.4588
+[H]Oc1c([H])c([H])c(-c2c([H])oc3c([H])c(OC([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C(=O)[O-])c([H])c([H])c3c2=O)c([H])c1[H],CHEMBL112696_4.0_nM,-11.4511,-11.0574,0.3936
