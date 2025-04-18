@@ -1,0 +1,10 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]c1c([H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c([H])c(C([H])([H])c2c(C([H])([H])[H])n(-c3c([H])c([H])c(OC([H])([H])[H])c([H])c3[H])c3c([H])c([H])c(OC(F)(F)F)c([H])c23)c1[H],CHEMBL192691_1.0_nM,-12.272,-10.4074,1.8646
+[H]c1nc(-n2c(C([H])([H])[H])c(C([H])([H])c3c([H])c([H])c([H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c3[H])c3c([H])c(OC(F)(F)F)c([H])c([H])c32)c([H])c([H])c1[H],CHEMBL373142_466.0_nM,-8.6335,-10.3643,1.7308
+[H]c1c([H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c([H])c(C([H])([H])c2c(C([H])([H])[H])n(C(=O)c3c([H])c([H])c(OC([H])([H])[H])c([H])c3[H])c3c([H])c([H])c(OC(F)(F)F)c([H])c23)c1[H],CHEMBL179330_2.0_nM,-11.8616,-10.5508,1.3107
+[H]c1c([H])c(C([H])([H])C([H])([H])C([H])([H])[H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c([H])c1Oc1c(C([H])([H])[H])n(-c2noc3c([H])c(Cl)c([H])c([H])c23)c2c([H])c([H])c(OC(F)(F)F)c([H])c12,CHEMBL365315_20.0_nM,-10.498,-11.6028,1.1048
+[H]c1nc2c([H])c([H])c(OC([H])([H])[H])c([H])c2c([H])c1-n1c(C([H])([H])[H])c(C([H])([H])c2c([H])c([H])c([H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c2[H])c2c([H])c(OC(F)(F)F)c([H])c([H])c21,CHEMBL365387_29.0_nM,-10.278,-11.3394,1.0614
+[H]c1c([H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c([H])c(Oc2c(C([H])([H])[H])n(-c3noc4c([H])c(Cl)c([H])c([H])c34)c3c([H])c([H])c(OC(F)(F)F)c([H])c23)c1Cl,CHEMBL363805_5.0_nM,-11.319,-12.073,0.754
+[H]c1c([H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c([H])c(C([H])([H])c2c(C([H])([H])[H])n(-c3nc4c([H])c([H])c(OC([H])([H])[H])c([H])c4c([H])c3[H])c3c([H])c([H])c(OC(F)(F)F)c([H])c23)c1[H],CHEMBL370747_135.0_nM,-9.3672,-8.7229,0.6443
+[H]c1c([H])c(Oc2c(C([H])([H])[H])n(-c3noc4c([H])c(Cl)c([H])c([H])c34)c3c([H])c([H])c(OC(F)(F)F)c([H])c23)c([H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c1[H],CHEMBL192646_33.0_nM,-10.2015,-9.7673,0.4341
+[H]c1c([H])c(Oc2c(C([H])([H])[H])n(-c3noc4c([H])c(Cl)c([H])c([H])c34)c3c([H])c([H])c(OC(F)(F)F)c([H])c23)c([H])c(O[C@]([H])(C(=O)[O-])C([H])([H])[H])c1Cl,CHEMBL371341_1.0_nM,-12.272,-11.8749,0.3972
