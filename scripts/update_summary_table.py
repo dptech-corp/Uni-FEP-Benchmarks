@@ -30,6 +30,7 @@ def calculate_metrics(dG_expt, dG_pred):
     return rmse, r2, tau
 
 def generate_markdown_table(results):
+    total_ligands = 0
     """Generate markdown table from results."""
     headers = ["Series", "Target", "N_Ligands", "RMSE (kcal/mol)", "R²", "Kendall's tau", "Description"]
     table = ["| " + " | ".join(headers) + " |"]
@@ -46,6 +47,8 @@ def generate_markdown_table(results):
             str(row[6])
         ]
         table.append("| " + " | ".join(formatted_row) + " |")
+        total_ligands = total_ligands + row[2]
+    print(f'total_ligands: {total_ligands}')
     
     return "\n".join(table)
 
