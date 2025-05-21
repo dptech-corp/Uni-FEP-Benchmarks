@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 from scipy import stats
 from pathlib import Path
 import csv
+import pandas as pd
+import seaborn as sns
 
 def load_dG(file_path):
     """Load free energy data from CSV file."""
@@ -49,34 +51,51 @@ def generate_markdown_table(results):
     
     return "\n".join(table)
 
-def update_readme(md_table, readme_path="README.md"):
-    """Update the README file with new results table."""
+
+def update_readme(
+    md_table,
+    num_targets,
+    total_ligands,
+    rmse_fig,
+    tau_fig,
+    readme_path="README.md",
+):
+    """Update the README file with summary information and results table."""
     start_marker = "## Summary of Benchmark Results"
     end_marker = "## "
     
     with open(readme_path, "r") as f:
-        content = f.read().split('\n')
-    
-    start_idx = next(i for i, line in enumerate(content) 
-                    if start_marker in line) + 1
-    end_idx = next(i for i, line in enumerate(content[start_idx:]) 
-                 if line.startswith(end_marker)) + start_idx
-    
-    new_content = (
-        content[:start_idx] +
-        [md_table] + 
-        content[end_idx:]
-    )
-    
+        content = f.read().split("\n")
+
+    start_idx = next(i for i, line in enumerate(content) if start_marker in line) + 1
+    try:
+        end_idx = (
+            next(i for i, line in enumerate(content[start_idx:], start_idx) if line.startswith(end_marker))
+        )
+    except StopIteration:
+        end_idx = len(content)
+
+    summary_lines = [
+        f"**Total Systems**: {num_targets}  ",
+        f"**Total Ligands**: {total_ligands}",
+        f"![RMSE Distribution]({rmse_fig})",
+        f"![Kendall's tau Distribution]({tau_fig})",
+        md_table,
+    ]
+
+    new_content = content[:start_idx] + summary_lines + content[end_idx:]
+
     with open(readme_path, "w") as f:
         f.write("\n".join(new_content))
 
+
 def main():
-    # Initialize results table
-    results = [
-        ["System", "N_Ligands", "RMSE (kcal/mol)", "R²", "Kendall's tau"]
-    ]
-    
+    # Initialize containers
+    results = [["System", "N_Ligands", "RMSE (kcal/mol)", "R²", "Kendall's tau"]]
+    rmse_list = []
+    tau_list = []
+    total_ligands = 0
+
     # Process each benchmark system
     benchmarks_dir = Path("uni_fep_benchmarks")
     for system_dir in sorted(benchmarks_dir.iterdir()):
@@ -85,32 +104,63 @@ def main():
                 info = system_dir.name.split("|")
                 series = info[0]
                 target = info[1]
-                if len(info) > 2:
-                    description = info[2]
-                else:
-                    description = ""
-
+                description = info[2] if len(info) > 2 else ""
 
                 data_file = system_dir / "result_dG.csv"
-                dG_pred, _, dG_expt = load_dG(data_file)
+                dG_pred, std_dG_pred, dG_expt = load_dG(data_file)
                 rmse, r2, tau = calculate_metrics(dG_expt, dG_pred)
-                
-                results.append([
-                    series,
-                    target,
-                    len(dG_pred),
-                    rmse,
-                    r2,
-                    tau,
-                    description
-                ])
+
+                results.append(
+                    [
+                        series,
+                        target,
+                        len(dG_pred),
+                        rmse,
+                        r2,
+                        tau,
+                        description,
+                    ]
+                )
+                rmse_list.append(rmse)
+                tau_list.append(tau)
+                total_ligands += len(dG_pred)
+
             except Exception as e:
                 print(f"Error processing {system_dir}: {str(e)}")
                 continue
     
-    # Generate and update markdown
+
+    num_targets = len(results) - 1
+
+    # Generate histogram figures
+    df = pd.DataFrame({"RMSE (kcal/mol)": rmse_list, "Kendall's tau": tau_list})
+
+    rmse_fig = "rmse_distribution.png"
+    tau_fig = "tau_distribution.png"
+
+    plt.figure(figsize=(10, 3), dpi=300)
+    sns.histplot(df["RMSE (kcal/mol)"], bins=20, kde=True)
+    plt.xlim(0, 2.5)
+    plt.xlabel("RMSE (kcal/mol)", fontdict={"fontsize": 16, "fontname": "Serif"})
+    plt.ylabel("System Count", fontdict={"fontsize": 16, "fontname": "Serif"})
+    plt.grid(False)
+    plt.tight_layout()
+    plt.savefig(rmse_fig)
+    plt.close()
+
+    plt.figure(figsize=(10, 3), dpi=300)
+    sns.histplot(df["Kendall's tau"], bins=20, kde=True)
+    plt.xlim(0, 1)
+    plt.xlabel("Kendall's tau", fontdict={"fontsize": 16, "fontname": "Serif"})
+    plt.ylabel("System Count", fontdict={"fontsize": 16, "fontname": "Serif"})
+    plt.grid(False)
+    plt.tight_layout()
+    plt.savefig(tau_fig)
+    plt.close()
+
+    # Generate markdown table and update README
     md_table = generate_markdown_table(results)
-    update_readme(md_table)
+    update_readme(md_table, num_targets, total_ligands, rmse_fig, tau_fig)
 
 if __name__ == "__main__":
     main()
