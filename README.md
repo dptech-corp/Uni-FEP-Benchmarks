@@ -32,6 +32,12 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 
 
 ## Summary of Benchmark Results
+Currently this repository contains **279** targets and a total of **4,130** ligands.
+The histograms below summarize the distribution of RMSE and Kendall's tau values across all benchmark sets.
+
+![RMSE distribution](docs/rmse_hist.svg)
+
+![Kendall's tau distribution](docs/tau_hist.svg)
 | Series | Target | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau | Description |
 |---|---|---|---|---|---|---|
 | ChEMBL | ADK | 12 | 1.59 | 0.28 | 0.36 | CHEMBL642224 |

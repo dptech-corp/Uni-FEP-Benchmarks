@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 from scipy import stats
 from pathlib import Path
 import csv
@@ -49,8 +48,59 @@ def generate_markdown_table(results):
     
     return "\n".join(table)
 
-def update_readme(md_table, readme_path="README.md"):
-    """Update the README file with new results table."""
+def create_svg_hist(data, edges, filename, width=400, height=200):
+    """Generate a simple histogram SVG using numpy."""
+    counts, _ = np.histogram(data, bins=edges)
+    max_count = counts.max() if counts.size else 0
+    bar_width = width / len(counts)
+    scale = (height - 20) / max_count if max_count > 0 else 0
+
+    lines = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">'
+    ]
+    for i, count in enumerate(counts):
+        bar_h = count * scale
+        x = i * bar_width
+        y = height - bar_h
+        lines.append(f'<rect x="{x}" y="{y}" width="{bar_width-2}" height="{bar_h}" fill="steelblue"/>')
+        lines.append(
+            f'<text x="{x + bar_width/2}" y="{height-5}" font-size="10" text-anchor="middle">{edges[i]:.1f}</text>'
+        )
+    lines.append('</svg>')
+
+    Path(filename).write_text("\n".join(lines))
+
+def build_summary_section(results):
+    """Generate the text and images for the README summary section."""
+    n_targets = len(results) - 1
+    n_ligands = sum(row[2] for row in results[1:])
+
+    rmses = [row[3] for row in results[1:]]
+    taus = [row[5] for row in results[1:]]
+
+    rmse_edges = np.arange(0, 2.5 + 0.5, 0.5)
+    tau_edges = np.arange(0, 1.0 + 0.1, 0.1)
+
+    rmse_hist = Path("docs/rmse_hist.svg")
+    tau_hist = Path("docs/tau_hist.svg")
+    create_svg_hist(rmses, rmse_edges, rmse_hist)
+    create_svg_hist(taus, tau_edges, tau_hist)
+
+    md_table = generate_markdown_table(results)
+
+    lines = [
+        f"Currently this repository contains **{n_targets}** targets and a total of **{n_ligands}** ligands.",
+        "The histograms below summarize the distribution of RMSE and Kendall's tau values across all benchmark sets.",
+        "",
+        f"![RMSE distribution]({rmse_hist})",
+        "",
+        f"![Kendall's tau distribution]({tau_hist})",
+        md_table,
+    ]
+    return "\n".join(lines)
+
+def update_readme(summary_text, readme_path="README.md"):
+    """Replace the summary section of the README with new content."""
     start_marker = "## Summary of Benchmark Results"
     end_marker = "## "
     
@@ -62,11 +112,7 @@ def update_readme(md_table, readme_path="README.md"):
     end_idx = next(i for i, line in enumerate(content[start_idx:]) 
                  if line.startswith(end_marker)) + start_idx
     
-    new_content = (
-        content[:start_idx] +
-        [md_table] + 
-        content[end_idx:]
-    )
+    new_content = content[:start_idx] + [summary_text] + content[end_idx:]
     
     with open(readme_path, "w") as f:
         f.write("\n".join(new_content))
@@ -108,9 +154,9 @@ def main():
                 print(f"Error processing {system_dir}: {str(e)}")
                 continue
     
-    # Generate and update markdown
-    md_table = generate_markdown_table(results)
-    update_readme(md_table)
+    # Generate summary section and update README
+    summary_text = build_summary_section(results)
+    update_readme(summary_text)
 
 if __name__ == "__main__":
     main()
