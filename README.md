@@ -32,6 +32,11 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 
 
 ## Summary of Benchmark Results
+**Total Systems**: 279  
+**Total Ligands**: 4130
+
+![RMSE Distribution](rmse_distribution.png)
+![Kendall's tau Distribution](tau_distribution.png)
 | Series | Target | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau | Description |
 |---|---|---|---|---|---|---|
 | ChEMBL | ADK | 12 | 1.59 | 0.28 | 0.36 | CHEMBL642224 |
