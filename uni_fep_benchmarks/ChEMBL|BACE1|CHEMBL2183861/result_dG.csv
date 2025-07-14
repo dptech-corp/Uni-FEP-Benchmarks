@@ -1,0 +1,10 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]c1sc([C@@]23[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]2([H])C([H])([H])N(c2c([H])c([H])c(F)c([H])c2[H])C3([H])[H])c([H])c1-c1c([H])c([H])c([H])c(C#N)c1[H],CHEMBL2178150_26.0_nM_3d_dock,-10.3426,-12.9851,2.64248392142313
+[H]c1c(-c2c([H])c([H])c(F)c(C#N)c2[H])sc([C@@]23[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]2([H])C([H])([H])N(c2c([H])c([H])c([H])c([H])c2[H])C3([H])[H])c1[H],CHEMBL2178148_90.0_nM_3d_dock,-9.6073,-7.6378,1.9694656440799088
+[H]c1c(-c2c([H])c([H])c(F)c(C#N)c2[H])sc([C@@]23[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]2([H])C([H])([H])N(c2c([H])c([H])c(F)c([H])c2[H])C3([H])[H])c1[H],CHEMBL2178149_132.0_nM_3d_dock,-9.3805,-8.1764,1.2041267120706476
+[H]c1nc(N2C([H])([H])[C@]3(c4sc([H])c(-c5c([H])c([H])c([H])c(C#N)c5[H])c4[H])[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]3([H])C2([H])[H])c([H])c([H])c1F,CHEMBL2178714_6.0_nM_3d_dock,-11.211,-12.1194,0.9084175031776808
+[H]c1nc(N2C([H])([H])[C@]3(c4sc([H])c(-c5c([H])c([H])c([H])c(C#N)c5[H])c4[H])[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]3([H])C2([H])[H])nc([H])c1Cl,CHEMBL2178719_7.0_nM_3d_dock,-11.1197,-11.6064,0.4867087273324941
+[H]c1nc(N2C([H])([H])[C@]3(c4sc([H])c(-c5c([H])c([H])c([H])c(C#N)c5[H])c4[H])[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]3([H])C2([H])[H])nc([H])c1[H],CHEMBL2178717_11.0_nM_3d_dock,-10.852,-10.3669,0.4851484916428258
+[H]c1nc(N2C([H])([H])[C@]3(c4sc([H])c(-c5c([H])c([H])c([H])c(C#N)c5[H])c4[H])[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]3([H])C2([H])[H])nc([H])c1C([H])([H])[H],CHEMBL2178143_9.0_nM_3d_dock,-10.9709,-10.7109,0.2599890929362829
+[H]c1nc(N2C([H])([H])[C@]3(c4sc([H])c(-c5c([H])c([H])c([H])c(C#N)c5[H])c4[H])[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]3([H])C2([H])[H])nc([H])c1F,CHEMBL2178718_4.0_nM_3d_dock,-11.4511,-11.3329,0.1181758342018582
+[H]c1nc(N2C([H])([H])[C@]3(c4sc([H])c(-c5c([H])c([H])c([H])c(C#N)c5[H])c4[H])[N+]([H])=C(N([H])[H])N(C([H])([H])[H])C(=O)[C@]3([H])C2([H])[H])c([H])c([H])c1[H],CHEMBL2178153_8.0_nM_3d_dock,-11.0406,-11.0399,0.00070437700177
