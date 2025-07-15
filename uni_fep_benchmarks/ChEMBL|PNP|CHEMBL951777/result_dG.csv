@@ -1,0 +1,4 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]OC([H])([H])C([H])([H])C([H])([H])[N+]([H])([H])C([H])([H])c1c([H])n([H])c2c(=O)n([H])c([H])nc12,CHEMBL489887_0.78_nM,-12.4192,-14.1054,1.6862264201794344
+[H]OC([H])([H])C([H])(C([H])([H])O[H])[N+]([H])([H])[C@@]([H])(c1c([H])n([H])c2c(=O)nc([H])n([H])c12)C([H])([H])O[H],CHEMBL522757_0.21_nM_2,-13.1962,-11.6411,1.5551732157641445
+[H]OC([H])([H])[C@]([H])(O[H])C([H])([H])[N+]([H])([H])C([H])([H])c1c([H])n([H])c2c(=O)nc([H])n([H])c12,CHEMBL524489_14.9_nM_2,-10.6723,-10.5413,0.1310532044152882
