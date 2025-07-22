@@ -4,6 +4,8 @@
 
 **Uni-FEP-Benchmarks** is a benchmark dataset designed to systematically evaluate **Uni-FEP**, a free energy perturbation (FEP) method for accurate and efficient binding free energy calculations. This repository provides computational results across diverse protein-ligand systems and complex chemical transformations, facilitating validation and optimization of the Uni-FEP methodology.
 
+We have summarized the background, methods, and key findings of Uni-FEP-Benchmarks in the following preprint: [Breaking Barriers in FEP Benchmarking: A Large-Scale Dataset Reflecting Real-World Drug Discovery Challenges](https://chemrxiv.org/engage/chemrxiv/article-details/687294afe1957b8c618d81e6).
+
 ## Objectives
 
 By compiling well-structured benchmark cases, this repository aims to:
@@ -465,3 +467,9 @@ When submitting new benchmark data via a **Merge Request**, please provide the f
    python scripts/update_summary_table.py
    ```
 
+## Citation
+If you use Uni-FEP-Benchmarks in your research, please cite:
+
+> Zou, R., Wang, L., Wang, X., Ding, Y. and Zheng, H., 2025.
+> *Breaking Barriers in FEP Benchmarking: A Large-Scale Dataset Reflecting Real-World Drug Discovery Challenges.*
+> ChemRxiv. [https://chemrxiv.org/engage/chemrxiv/article-details/687294afe1957b8c618d81e6](https://chemrxiv.org/engage/chemrxiv/article-details/687294afe1957b8c618d81e6)
