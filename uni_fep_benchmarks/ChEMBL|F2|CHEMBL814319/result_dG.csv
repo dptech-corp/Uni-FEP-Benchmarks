@@ -1,0 +1,13 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]Oc1c(Br)c([H])c([H])c([H])c1-c1c([H])c2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL328772_120.0_nM_3d_dock,-9.437,-7.9851,1.451874809194042
+[H]c1c([H])c([H])c(-c2c([H])c([H])c([H])c(-c3c([H])c4c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c4n3[H])c2OC([H])([H])[H])c([H])c1[H],CHEMBL318526_22000.0_nM_3d_dock,-6.3509,-7.3835,1.0326070649294985
+[H]Oc1c([H])c([H])c([N+](=O)[O-])c([H])c1-c1nc2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL92250_34000.0_nM_4_3d_dock,-6.0931,-7.1246,1.0315214080254782
+[H]Oc1c([H])c([H])c([H])c([H])c1-c1c([H])c2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL284805_13000.0_nM_3d_dock,-6.6624,-7.6044,0.942010325161266
+[H]Oc1c(-c2c([H])c([H])c([H])c([H])c2[H])c([H])c([H])c([H])c1-c1c([H])c2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL96433_320.0_nM_3d_dock,-8.8561,-7.9622,0.8939335734661705
+[H]Oc1c(-c2c([H])c([H])c([H])c([H])c2[H])c([H])c(Cl)c([H])c1-c1c([H])c2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL92883_290.0_nM_3d_dock,-8.9144,-8.063,0.8513803112686448
+[H]Oc1c(Br)c([H])c(Br)c([H])c1-c1c([H])c2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL330234_320.0_nM_3d_dock,-8.8561,-8.1465,0.7096411176654804
+[H]Oc1c([H])c([H])c([H])c(O[H])c1-c1nc2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL93269_17000.0_nM_2_3d_dock,-6.5036,-7.0629,0.5593389416580857
+[H]Oc1c(-c2c([H])c([H])c([H])c([H])c2[H])c([H])c(C([H])([H])[H])c([H])c1-c1c([H])c2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL52427_1100.0_nM_3d_dock,-8.1249,-8.4183,0.2934189947583265
+[H]Oc1c(-c2c([H])c([H])c([H])c([H])c2[H])c([H])c(Br)c([H])c1-c1c([H])c2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL91962_1400.0_nM_3d_dock,-7.9821,-7.7715,0.2105753656179762
+[H]Oc1c(-c2c([H])c([H])c([H])c([H])c2[H])c([H])c(Cl)c([H])c1-c1nc2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL92251_12000.0_nM_2_3d_dock,-6.7098,-6.9165,0.2066304946807888
+[H]Oc1c(-c2c([H])c([H])c([H])c([H])c2[H])c([H])c([H])c([H])c1-c1nc2c([H])c(C(N([H])[H])=[N+]([H])[H])c([H])c([H])c2n1[H],CHEMBL327715_15000.0_nM_2_3d_dock,-6.5777,-6.6296,0.051877947998867
