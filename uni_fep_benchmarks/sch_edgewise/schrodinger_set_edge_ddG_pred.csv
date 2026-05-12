@@ -1442,3 +1442,14 @@ scaffold_hopping,CHK1_3u9n_corehop,21,20,-0.4219,0.0417,-0.066,0.3559
 scaffold_hopping,CHK1_3u9n_corehop,17,20,0.4046,0.0325,0.508,0.1034
 scaffold_hopping,CHK1_3u9n_corehop,1,20,0.5353,0.0261,0.492,0.0433
 scaffold_hopping,CHK1_3u9n_corehop,17,21,0.5414,0.0325,0.574,0.0326
+bayer_macrocycles,ftase,lig_2__deprot,lig_51_stereo,-0.7628,0.0492,1.01,1.7728
+bayer_macrocycles,ftase,lig_68__deprot,lig_49_stereo,-0.4613,0.0367,0.51,0.9713
+bayer_macrocycles,ftase,lig_68__deprot,lig_66__deprot,-0.9661,0.0285,-0.18,0.7861
+bayer_macrocycles,ftase,lig_68__deprot,lig_2__deprot,0.2437,0.0515,-0.3,0.5437
+bayer_macrocycles,ftase,lig_66__deprot,lig_49_stereo,1.2116,0.0363,0.69,0.5216
+bayer_macrocycles,ftase,lig_66__deprot,lig_2__deprot,-0.2689,0.0503,-0.12,0.1489
+bayer_macrocycles,ftase,lig_49_stereo,lig_51_stereo,0.1845,0.0267,0.2,0.0155
+bayer_macrocycles,ftase,lig_66__deprot,lig_51_stereo,0.8979,0.0411,0.89,0.0079
+bayer_macrocycles,wagner_brd4,11,61a,-5.9257,0.0382,-3.8,2.1257
+bayer_macrocycles,wagner_brd4,25e,61a,-2.7574,0.0312,-0.7,2.0574
+bayer_macrocycles,wagner_brd4,25e,11,2.7905,0.034,3.1,0.3095
