@@ -1,0 +1,10 @@
+Type,Target,mol1,mol2,ddG_pred,std_ddG_pred,ddG_expt,ddG_diff,note
+charge_annhil,dlk,9,4neu,0.1042,0.0334,-0.6,0.7042,used in paper
+charge_annhil,dlk,9,18,-0.8115,0.0351,-1.25,0.4385,used in paper
+charge_annhil,dlk,17neu,18,0.4467,0.0292,0.46,-0.0133,used in paper
+charge_annhil,dlk,17charg,17neu,-0.7912,0.0439,0.0,-0.7912,not used in paper
+charge_annhil,dlk,17charg,18,-0.2067,0.047,0.46,-0.6667,not used in paper
+charge_annhil,dlk,17charg,8,0.0773,0.0421,-0.07,0.1473,not used in paper
+charge_annhil,dlk,4charg,4neu,-0.4291,0.043,0.0,-0.4291,not used in paper
+charge_annhil,dlk,4charg,8,-1.1661,0.0272,-1.18,0.0139,not used in paper
+charge_annhil,dlk,9,4charg,0.499,0.0492,-0.6,1.099,not used in paper
