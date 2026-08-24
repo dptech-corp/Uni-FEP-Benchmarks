@@ -1,0 +1,8 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+N#CC1(NC(=O)[C@@H]2C[C@@H](S(=O)(=O)c3ccccc3Cl)CN2C(=O)C2(c3ccc(Br)cc3)CC2)CC1,1,-10.8060,-9.5650,0.0199
+N#CC1(NC(=O)[C@@H]2C[C@@H](S(=O)(=O)c3ccccc3Cl)CN2C(=O)C2(c3ccc(C(F)(F)F)cc3)CC2)CC1,2,-9.5800,-8.7740,0.0242
+N#CC1(NC(=O)[C@@H]2C[C@@H](S(=O)(=O)c3ccccc3Cl)CN2C(=O)C2(c3ccc(Cl)cc3)CC2)CC1,3,-10.4470,-10.2670,0.0138
+N#CC1(NC(=O)[C@@H]2C[C@@H](S(=O)(=O)c3ccccc3Cl)CN2C(=O)C2(c3ccc(I)cc3)CC2)CC1,4,-11.1700,-9.0200,0.0166
+Cc1ccc(C2(C(=O)N3C[C@H](S(=O)(=O)c4ccccc4Cl)C[C@H]3C(=O)NC3(C#N)CC3)CC2)cc1,5,-9.3950,-10.0280,0.0129
+N#CC1(NC(=O)[C@@H]2C[C@@H](S(=O)(=O)c3ccccc3Cl)CN2C(=O)C2(c3ccc(F)cc3)CC2)CC1,6,-8.8250,-10.9250,0.0236
+N#CC1(NC(=O)[C@@H]2C[C@@H](S(=O)(=O)c3ccccc3Cl)CN2C(=O)C2(c3ccc(Cl)s3)CC2)CC1,7,-9.2720,-10.9180,0.0156

@@ -1,0 +1,6 @@
+dir,target,pdb,warhead,binding_mode,covalent_residue,covalent_chain,reference_ligand,n,n_edges,pearson_R,RMSE_kcal,doi
+Covalent|hCatL|Bonatto2021,hCatL,2XU1,nitrile,reversible covalent,CYS25,A,2a,8,6,0.685,0.859,10.1021/acs.jcim.1c00515
+Covalent|hCatL|Lameira2019,hCatL,2XU1,nitrile,reversible covalent,CYS25,A,Neq0570,5,4,0.901,0.397,10.1039/c9cp04820k
+Covalent|hCatL|Hardegger2011,hCatL,2YJC,nitrile,reversible covalent,CYS25,A,3,7,6,-0.592,1.433,10.1002/anie.201006781
+Covalent|CAPN1|Chatterjee1996,CAPN1,2R9C,alpha-ketoamide,reversible covalent,CYS115,A,C1,7,6,0.131,0.700,10.1021/jm950541c
+Covalent|CRUZAIN|Avelar2015,CRUZAIN,4QH6,nitrile,reversible covalent,CYS25,A,5,20,19,0.654,0.856,10.1371/journal.pntd.0003916

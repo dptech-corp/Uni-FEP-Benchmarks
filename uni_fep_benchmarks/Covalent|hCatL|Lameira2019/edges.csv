@@ -1,0 +1,5 @@
+edge,ligand_a,ligand_b,ddg_kcal,ddg_err_kcal
+Neq0570_Neq0710,Neq0570,Neq0710,-1.168,0.012
+Neq0570_Neq0802,Neq0570,Neq0802,-0.986,0.011
+Neq0570_Neq0803,Neq0570,Neq0803,-2.184,0.013
+Neq0570_Neq0804,Neq0570,Neq0804,-2.564,0.014
