@@ -1,0 +1,4 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+D94A,7.0,A,94,ASP,ALA,1,C,1.76,3.38,0.36,3,40,baseline,included
+R145A,7.0,A,145,ARG,ALA,1,C,2.11,1.00,0.80,3,40,baseline,included
+R148A,7.0,A,148,ARG,ALA,1,C,1.45,1.40,1.08,3,40,baseline,included

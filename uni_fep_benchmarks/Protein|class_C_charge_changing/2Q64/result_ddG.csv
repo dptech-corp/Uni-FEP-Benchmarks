@@ -1,0 +1,5 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+A71V/N30D,4.7,A;A,71;30,ALA;ASN,VAL;ASP,2,C,-1.15,-0.74,0.40,3,40,baseline,included
+N30D,4.7,A,30,ASN,ASP,1,C,-1.77,-0.62,0.18,3,40,baseline,included
+L90M/N30D,4.7,A;A,90;30,LEU;ASN,MET;ASP,2,C,-0.47,0.01,0.57,3,40,baseline,included
+N88D/N30D,4.7,A;A,88;30,ASN;ASN,ASP;ASP,2,C,-1.15,-1.48,1.43,3,40,baseline,included

@@ -1,0 +1,7 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+K44R,7.4,A,44,LYS,ARG,1,A,0.23,0.12,0.35,3,16,baseline,included
+L89V,7.4,A,89,LEU,VAL,1,A,0.58,-0.27,0.02,3,16,baseline,included
+L89V/L93I,7.4,A;A,89;93,LEU;LEU,VAL;ILE,2,A,1.32,-0.67,0.47,3,16,pocket-heating,included
+L89V/L93I/V136M,7.4,A;A;A,89;93;136,LEU;LEU;VAL,VAL;ILE;MET,3,A,1.63,-0.65,0.17,3,16,pocket-heating,included
+L93I,7.4,A,93,LEU,ILE,1,A,0.53,0.34,0.10,3,16,baseline,included
+V136M,7.4,A,136,VAL,MET,1,A,1.22,0.86,0.15,3,16,baseline,included

@@ -1,0 +1,3 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+S80V,5.0,A,80,SER,VAL,1,B,0.30,0.00,0.44,3,24,baseline,included
+S80T,5.0,A,80,SER,THR,1,B,-0.16,-0.32,0.17,3,24,baseline,included

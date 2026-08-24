@@ -1,0 +1,6 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+F261A,7.5,A,261,PHE,ALA,1,A,-0.63,-0.25,0.18,3,16,baseline,included
+F357A,7.5,A,357,PHE,ALA,1,A,2.57,3.71,0.32,3,16,pocket-heating,included
+N43A,7.5,A,43,ASN,ALA,1,A,-0.09,0.82,0.48,3,16,baseline,included
+R240K,7.5,A,240,ARG,LYS,1,A,3.06,4.54,1.28,3,16,baseline,included
+W245A,7.5,A,245,TRP,ALA,1,A,0.90,-2.95,1.18,3,24,pocket-heating+lambda,included
