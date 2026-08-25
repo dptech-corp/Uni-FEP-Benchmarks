@@ -1,0 +1,11 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]Oc1c([H])c(O[H])c(-c2nn([H])c(=O)n2-c2c([H])c([H])c([H])c([H])c2C([H])([H])[H])c([H])c1C(=O)N(C([H])([H])[H])C([H])([H])[C@]1([H])OC([H])([H])C([H])([H])C1([H])[H],CHEMBL3914091_283.62_nM,-8.9300,-10.9997,0.2184
+[H]Oc1c([H])c(O[H])c(S(=O)(=O)N(C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])[H])c([H])c1-c1nn([H])c(=O)n1-c1c([H])c([H])c([H])c([H])c1F,CHEMBL3943106_179.95_nM,-9.2000,-10.8673,0.4067
+[H]Oc1c([H])c(O[H])c(S(=O)(=O)N(C([H])([H])[H])C([H])(C([H])([H])[H])C([H])([H])[H])c([H])c1-c1nn([H])c(=O)n1-c1c([H])c([H])c([H])c([H])c1Cl,CHEMBL3961493_661.65_nM,-8.4300,-6.9490,0.4072
+[H]Oc1c([H])c(O[H])c(-c2nn([H])c(=O)n2-c2c([H])c([H])c([H])c([H])c2C([H])([H])[H])c([H])c1C(=O)N(C([H])([H])[H])C([H])([H])c1c([H])c([H])c([H])c([H])c1[H],CHEMBL3903964_12.14_nM,-10.8000,-9.9196,0.1814
+[H]Oc1c([H])c(O[H])c(-c2nn([H])c(=O)n2-c2c([H])c([H])c([H])c([H])c2C([H])([H])[H])c([H])c1C(=O)N(C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])[H],CHEMBL3958803_129.91_nM,-9.3900,-8.5193,0.2041
+[H]Oc1c([H])c(O[H])c(S(=O)(=O)N(C([H])([H])[H])C([H])(C([H])([H])[H])C([H])([H])[H])c([H])c1-c1nn([H])c(=O)n1-c1c([H])c([H])c([H])c([H])c1F,CHEMBL3985693_1018.06_nM,-8.1700,-7.4566,0.4071
+[H]Oc1c([H])c(O[H])c(-c2nn([H])c(=O)n2-c2c([H])c([H])c([H])c([H])c2F)c([H])c1C(=O)N(C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H],CHEMBL3945793_16.97_nM,-10.6000,-11.1901,0.2052
+[H]Oc1c([H])c(O[H])c(-c2nn([H])c(=O)n2-c2c([H])c([H])c([H])c([H])c2[H])c([H])c1C(=O)N(C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H],CHEMBL3954287_9.462_nM,-10.9500,-11.5092,0.2053
+[H]Oc1c([H])c(O[H])c(-c2nn([H])c(=O)n2-c2c([H])c([H])c([H])c([H])c2F)c([H])c1C(=O)N(C([H])([H])[H])C([H])([H])C([H])([H])C([H])([H])[H],CHEMBL3908022_72.13_nM,-9.7400,-9.2302,0.2325
+[H]Oc1c([H])c(O[H])c(-c2nn([H])c(=O)n2-c2c([H])c([H])c([H])c([H])c2C([H])([H])[H])c([H])c1C(=O)N(C([H])([H])[H])C([H])([H])c1sc([H])c([H])c1[H],CHEMBL3907641_5.53_nM,-11.2600,-10.8288,0.3375
