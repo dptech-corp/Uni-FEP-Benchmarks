@@ -1,0 +1,2 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+S90T/V108W/T110L/L29F/G52S/S53R,7.4,A;A;A;A;A;A,90;108;110;29;52;53,SER;VAL;THR;LEU;GLY;SER,THR;TRP;LEU;PHE;SER;ARG,6,C,0.30,-1.28,1.48,3,40,pocket-heating,included

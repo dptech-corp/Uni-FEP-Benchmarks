@@ -1,0 +1,41 @@
+entry,pdb,pH,ligand,structure_repair,code_commit,code_branch,conda_env
+Protein|1A4H,1A4H,7.4,GDM_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|1AMW,1AMW,7.4,ADP_A,redundant chain B removed (monomer); ASN37 amide flip,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|1DF8,1DF8,7.0,BTN_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|1GZF,1GZF,7.4,NAD_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|1PWM,1PWM,8.0,FID_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|1US0,1US0,8.0,LDT_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|1YON,1YON,7.7/4.5,APX_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2FGU,2FGU,5.0,ROC_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2II4,2II4,7.5,COA_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2IKI,2IKI,8.0,388_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2JBZ,2JBZ,8.0,COA_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2PD9,2PD9,8.0,FID_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2PDG,2PDG,8.0,47D_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2PDJ,2PDJ,8.0,393_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2PDP,2PDP,8.0,393_A,"ARG302 side chain reoriented (chi3 180 deg, chi4 260 deg)",4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2PDQ,2PDQ,8.0,47D_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2PDU,2PDU,8.0,393_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2PQL,2PQL,7.4,TSS_A,ASN8 amide flip,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2PZN,2PZN,8.0,393_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2Q64,2Q64,4.7,1UN_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2QEH,2QEH,7.4,SRO_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2VWC,2VWC,7.4,BC2_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2WDS,2WDS,8.0,COA_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2YGE,2YGE,7.4,GDM_A,redundant chain B removed (monomer),4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|2YGF,2YGF,7.4,GDM_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3AFK,3AFK,7.4,TFA_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3AQT,3AQT,7.0,RCO_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3EEB,3EEB,7.4,IHP_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3H2K,3H2K,7.5,BOG_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3LD5,3LD5,8.0,LDT_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3LEP,3LEP,8.0,388_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3LQG,3LQG,8.0,388_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3LQL,3LQL,8.0,LDT_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3LZ5,3LZ5,8.0,LDT_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3M3C,3M3C,7.4,TFA_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3M4H,3M4H,8.0,388_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3RDQ,3RDQ,7.4,DTB_A,GLN107 amide flip,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3UJ9,3UJ9,7.5,PC3_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3UJB,3UJB,7.5,SAH_A,,4262d73,add-protein-covalent-fep,unifep-covalent
+Protein|3ZY2,3ZY2,7.5,GDP_A,"ARG40 side chain reoriented (chi3 30 deg, chi4 90 deg)",4262d73,add-protein-covalent-fep,unifep-covalent

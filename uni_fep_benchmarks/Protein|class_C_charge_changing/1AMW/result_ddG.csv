@@ -1,0 +1,5 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+E88G,7.4,A,88,GLU,GLY,1,C,0.08,-0.04,0.10,3,40,baseline,included
+E88G/N92L,7.4,A;A,88;92,GLU;ASN,GLY;LEU,2,C,0.68,0.16,0.35,3,40,baseline,included
+K44R/K98N,7.4,A;A,44;98,LYS;LYS,ARG;ASN,2,C,0.71,-0.39,0.28,3,40,baseline,included
+K98N,7.4,A,98,LYS,ASN,1,C,0.65,-0.61,0.19,3,40,baseline,included

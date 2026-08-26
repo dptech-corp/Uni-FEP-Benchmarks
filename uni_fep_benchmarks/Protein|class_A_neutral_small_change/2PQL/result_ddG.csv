@@ -1,0 +1,3 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+H35L,7.4,A,35,HIS,LEU,1,A,-2.70,-2.57,0.93,3,24,baseline+lambda,included
+Y94L,7.4,A,94,TYR,LEU,1,A,2.09,3.48,1.37,3,16,baseline,included

@@ -1,0 +1,2 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+D303C,8.0,A,303,ASP,CYS,1,C,-2.47,-2.86,0.41,3,40,baseline,included

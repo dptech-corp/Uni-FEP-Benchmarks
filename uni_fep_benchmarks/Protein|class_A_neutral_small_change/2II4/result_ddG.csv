@@ -1,0 +1,2 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+L293A,7.5,A,293,LEU,ALA,1,A,1.24,0.39,0.73,3,16,baseline,included

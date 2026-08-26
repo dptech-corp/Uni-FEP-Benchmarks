@@ -1,0 +1,2 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+A45S/D128A,7.0,A;A,45;128,ALA;ASP,SER;ALA,2,C,0.00,-5.09,,1,40,baseline,excluded:unexplained

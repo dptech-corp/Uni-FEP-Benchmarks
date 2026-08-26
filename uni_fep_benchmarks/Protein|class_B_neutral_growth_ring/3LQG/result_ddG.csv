@@ -1,0 +1,2 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+A113T,8.0,A,113,ALA,THR,1,B,-0.77,3.28,,1,24,baseline,excluded:aryl-bromide-sigma-hole

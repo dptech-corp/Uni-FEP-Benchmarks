@@ -1,0 +1,6 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+N#CC1(NC(=O)[C@H](Cc2ccccc2)NC(=O)c2ccccc2)CC1,Neq0570,-10.0900,-9.5376,0.0050
+N#CC1(NC(=O)[C@H](Cc2ccccc2)NC(=O)c2cccc(Cl)c2)CC1,Neq0710,-10.9200,-10.7056,0.0106
+N#CC1(NC(=O)[C@H](Cc2ccccc2)NC(=O)c2cccc(F)c2)CC1,Neq0802,-9.8700,-10.5236,0.0099
+N#CC1(NC(=O)[C@H](Cc2ccccc2)NC(=O)c2cccc(Br)c2)CC1,Neq0803,-11.6300,-11.7216,0.0113
+N#CC1(NC(=O)[C@H](Cc2ccccc2)NC(=O)c2cccc(I)c2)CC1,Neq0804,-12.0800,-12.1016,0.0119

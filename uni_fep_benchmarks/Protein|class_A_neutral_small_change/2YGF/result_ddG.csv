@@ -1,0 +1,2 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+V89L/I93L/M136V,7.4,A;A;A,89;93;136,VAL;ILE;MET,LEU;LEU;VAL,3,A,-0.32,-0.56,0.49,3,16,baseline,included

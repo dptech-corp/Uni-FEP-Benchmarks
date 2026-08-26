@@ -1,0 +1,22 @@
+entry,mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+1A4H,N92L,7.4,A,92,ASN,LEU,1,B,0.19,0.93,0.37,3,24,baseline,included
+1AMW,N92L,7.4,A,92,ASN,LEU,1,B,0.65,-0.18,0.19,3,24,baseline,included
+2FGU,S80V,5.0,A,80,SER,VAL,1,B,0.30,0.00,0.44,3,24,baseline,included
+2FGU,S80T,5.0,A,80,SER,THR,1,B,-0.16,-0.32,0.17,3,24,baseline,included
+2IKI,T113Y,8.0,A,113,THR,TYR,1,B,2.06,5.68,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+2IKI,V47I,8.0,A,47,VAL,ILE,1,B,-0.31,-0.31,0.19,3,24,baseline,included
+2PDG,S302R/C303D,8.0,A;A,302;303,SER;CYS,ARG;ASP,2,B,2.73,2.90,1.57,3,24,baseline,included
+2PDG,T113Y,8.0,A,113,THR,TYR,1,B,2.59,5.43,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+2PDG,V47I,8.0,A,47,VAL,ILE,1,B,1.20,-0.38,0.07,3,24,baseline,included
+2PDJ,A300L,8.0,A,300,ALA,LEU,1,B,-0.46,0.93,0.28,3,24,baseline,included
+2PZN,S302R/C303D,8.0,A;A,302;303,SER;CYS,ARG;ASP,2,B,2.47,3.25,0.11,3,24,pocket-heating,included
+2PZN,T113Y,8.0,A,113,THR,TYR,1,B,2.33,7.70,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+2WDS,A110H,8.0,A,110,ALA,HIE,1,B,-0.10,-0.27,0.04,3,24,baseline,included
+3H2K,G221I,7.5,A,221,GLY,ILE,1,B,0.27,0.99,0.23,3,24,baseline,included
+3H2K,G231A,7.5,A,231,GLY,ALA,1,B,1.23,3.71,,1,24,baseline,excluded:bulky-residue-growth
+3H2K,G231F,7.5,A,231,GLY,PHE,1,B,1.95,13.32,,1,24,baseline,excluded:bulky-residue-growth
+3H2K,G231I,7.5,A,231,GLY,ILE,1,B,1.39,8.36,,1,24,baseline,excluded:bulky-residue-growth
+3H2K,N228W,7.5,A,228,ASN,TRP,1,B,0.24,5.06,,1,24,baseline,excluded:bulky-residue-growth
+3LD5,S113T,8.0,A,113,SER,THR,1,B,-0.99,1.64,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+3LQG,A113T,8.0,A,113,ALA,THR,1,B,-0.77,3.28,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+3LQL,A113T,8.0,A,113,ALA,THR,1,B,-1.20,3.10,,1,24,baseline,excluded:aryl-bromide-sigma-hole

@@ -1,0 +1,6 @@
+mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+D111L,7.4,A,111,ASP,LEU,1,C,2.85,8.89,,1,40,baseline,excluded:unexplained
+D139L,7.4,A,139,ASP,LEU,1,C,2.85,3.90,0.40,3,40,baseline,included
+E114L,7.4,A,114,GLU,LEU,1,C,4.87,5.21,0.51,3,40,baseline,included
+E7L,7.4,A,7,GLU,LEU,1,C,2.14,2.77,0.46,3,40,baseline,included
+E7L/H35L,7.4,A;A,7;35,GLU;HIE,LEU;LEU,2,C,3.02,4.12,0.59,3,40,pocket-heating,included

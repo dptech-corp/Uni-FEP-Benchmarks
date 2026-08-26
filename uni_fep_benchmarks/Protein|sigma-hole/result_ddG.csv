@@ -1,0 +1,9 @@
+entry,mutation,pH,chain,resid,wt_aa,mut_aa,n_sites,mutation_class,exp_ddG (kcal/mol),fep_ddG (kcal/mol),fep_ddG_std (kcal/mol),n_replicas,num_lambda,protocol,status
+2IKI,T113Y,8.0,A,113,THR,TYR,1,B,2.06,5.68,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+2PDG,T113Y,8.0,A,113,THR,TYR,1,B,2.59,5.43,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+2PZN,T113Y,8.0,A,113,THR,TYR,1,B,2.33,7.70,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+3LD5,S113T,8.0,A,113,SER,THR,1,B,-0.99,1.64,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+3LQG,A113T,8.0,A,113,ALA,THR,1,B,-0.77,3.28,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+3LQL,A113T,8.0,A,113,ALA,THR,1,B,-1.20,3.10,,1,24,baseline,excluded:aryl-bromide-sigma-hole
+3LZ5,V113T,8.0,A,113,VAL,THR,1,A,-0.77,3.73,,1,16,baseline,excluded:aryl-bromide-sigma-hole
+3M4H,V113T,8.0,A,113,VAL,THR,1,A,-1.54,1.73,,1,16,baseline,excluded:aryl-bromide-sigma-hole
