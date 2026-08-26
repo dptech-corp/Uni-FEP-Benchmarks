@@ -1,0 +1,14 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]Oc1c(C([H])([H])c2c([H])c([H])c([H])c3c([H])c([H])c([H])c([H])c23)c(=O)oc2c([H])c(C([H])([H])[H])c(C([H])([H])[H])c([H])c12,CHEMBL569169_7.7_nM,-11.0700,-12.4806,0.1268
+[H]Oc1c(C([H])([H])c2c([H])c([H])c3c([H])c([H])c([H])c([H])c3c2[H])c(=O)oc2c3c(c([H])c([H])c12)C([H])([H])C([H])([H])C([H])([H])C3([H])[H],CHEMBL569641_2.2_nM,-11.8100,-10.9643,0.2785
+[H]Oc1c(C([H])([H])c2c([H])c([H])c([H])c([H])c2[H])c(=O)oc2c([H])c([H])c3c(c12)C([H])([H])C([H])([H])C([H])([H])C3([H])[H],CHEMBL573922_15.0_nM,-10.6700,-9.8648,0.2155
+[H]Oc1c(C([H])([H])c2c([H])c([H])c([H])c([H])c2[H])c(=O)oc2c([H])c(C([H])([H])[H])c(C([H])([H])[H])c([H])c12,CHEMBL573693_39.0_nM,-10.1100,-10.8139,0.1799
+[H]Oc1c(C([H])([H])c2c([H])c([H])c3c([H])c([H])c([H])c([H])c3c2[H])c(=O)oc2c([H])c([H])c([H])c([H])c12,CHEMBL571283_14.0_nM,-10.7100,-10.0192,0.2335
+[H]Oc1c(C([H])([H])c2c([H])c([H])c(C([H])([H])[H])c(C([H])([H])[H])c2[H])c(=O)oc2c([H])c(C([H])([H])[H])c(C([H])([H])[H])c([H])c12,CHEMBL571272_9.9_nM,-10.9200,-11.5875,0.1455
+[H]Oc1c(C([H])([H])c2c([H])c([H])c([H])c([H])c2[H])c(=O)oc2c3c(c([H])c([H])c12)C([H])([H])C([H])([H])C([H])([H])C3([H])[H],CHEMBL576081_35.0_nM,-10.1700,-9.9225,0.1774
+[H]Oc1c(C([H])([H])c2c([H])c([H])c([H])c3c([H])c([H])c([H])c([H])c23)c(=O)oc2c([H])c([H])c3c(c12)C([H])([H])C([H])([H])C([H])([H])C3([H])[H],CHEMBL568962_6.3_nM,-11.1900,-11.0001,0.2563
+[H]Oc1c(C([H])([H])c2c([H])c([H])c([H])c3c([H])c([H])c([H])c([H])c23)c(=O)oc2c([H])c([H])c([H])c([H])c12,CHEMBL582933_24.0_nM,-10.4000,-10.3083,0.1181
+[H]Oc1c(C([H])([H])c2c([H])c([H])c3c([H])c([H])c([H])c([H])c3c2[H])c(=O)oc2c([H])c([H])c3c(c12)C([H])([H])C([H])([H])C([H])([H])C3([H])[H],CHEMBL576259_6.0_nM,-11.2200,-11.3057,0.2663
+[H]Oc1c(C([H])([H])c2c([H])c([H])c3c([H])c([H])c([H])c([H])c3c2[H])c(=O)oc2c([H])c(C([H])([H])[H])c(C([H])([H])[H])c([H])c12,CHEMBL570349_2.5_nM,-11.7400,-11.8123,0.2494
+[H]Oc1c(C([H])([H])c2c([H])c([H])c([H])c([H])c2[H])c(=O)oc2c([H])c([H])c([H])c([H])c12,CHEMBL574145_144.0_nM,-9.3300,-9.2889,0.1044
+[H]Oc1c(C([H])([H])c2c([H])c([H])c(C([H])([H])[H])c(C([H])([H])[H])c2[H])c(=O)oc2c([H])c([H])c([H])c([H])c12,CHEMBL576116_31.0_nM,-10.2400,-10.2119,0.2610

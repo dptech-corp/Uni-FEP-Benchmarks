@@ -104,7 +104,7 @@ def main():
                 info = system_dir.name.split("|")
                 series = info[0]
                 target = info[1]
-                description = info[2] if len(info) > 2 else ""
+                description = "|".join(info[2:]) if len(info) > 2 else ""
 
                 data_file = system_dir / "result_dG.csv"
                 dG_pred, std_dG_pred, dG_expt = load_dG(data_file)
