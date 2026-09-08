@@ -7,3 +7,4 @@ stat.py
 edit_doc.py
 temp/
 scripts/sync_qualified_systems.py
+scripts/__pycache__/
