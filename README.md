@@ -34,8 +34,8 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 
 
 ## Summary of Benchmark Results
-**Total Systems**: 491  
-**Total Ligands**: 9612
+**Total Systems**: 496  
+**Total Ligands**: 9659
 ![RMSE Distribution](rmse_distribution.png)
 ![Kendall's tau Distribution](tau_distribution.png)
 | Series | Target | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau | Description |
@@ -479,6 +479,11 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | USP7 | 12 | 1.22 | 0.28 | 0.00 | CHEMBL5234060 |
 | ChEMBL | WDR5 | 38 | 1.78 | 0.47 | 0.56 | CHEMBL3875502 |
 | ChEMBL | WEE1 | 10 | 1.44 | 0.48 | 0.58 | CHEMBL5230681 |
+| Covalent | CAPN1 | 7 | 0.70 | 0.02 | -0.05 | Chatterjee1996 |
+| Covalent | CRUZAIN | 20 | 0.86 | 0.43 | 0.36 | Avelar2015 |
+| Covalent | hCatL | 8 | 0.86 | 0.47 | 0.69 | Bonatto2021 |
+| Covalent | hCatL | 7 | 1.43 | 0.35 | -0.62 | Hardegger2011 |
+| Covalent | hCatL | 5 | 0.40 | 0.81 | 0.80 | Lameira2019 |
 | CyclicPeptide | Menin | 16 | 0.90 | 0.46 | 0.50 |  |
 | CyclicPeptide | PCSK9 | 18 | 0.77 | 0.51 | 0.47 |  |
 | GPCR | A2A | 10 | 0.76 | 0.83 | 0.69 | Deflorian |
