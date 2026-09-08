@@ -34,8 +34,8 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 
 
 ## Summary of Benchmark Results
-**Total Systems**: 491  
-**Total Ligands**: 9612
+**Total Systems**: 522  
+**Total Ligands**: 10124
 ![RMSE Distribution](rmse_distribution.png)
 ![Kendall's tau Distribution](tau_distribution.png)
 | Series | Target | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau | Description |
@@ -59,6 +59,7 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | BACE1 | 8 | 0.80 | 0.74 | 0.79 | CHEMBL1048416 |
 | ChEMBL | BACE1 | 42 | 1.61 | 0.27 | 0.43 | CHEMBL1109071 |
 | ChEMBL | BACE1 | 37 | 0.86 | 0.38 | 0.44 | CHEMBL1260850 |
+| ChEMBL | BACE1 | 17 | 1.35 | 0.66 | 0.58 | CHEMBL1273970|g2 |
 | ChEMBL | BACE1 | 9 | 0.79 | 0.57 | 0.83 | CHEMBL2015090 |
 | ChEMBL | BACE1 | 13 | 1.71 | 0.25 | 0.38 | CHEMBL2155063 |
 | ChEMBL | BACE1 | 10 | 0.96 | 0.66 | 0.73 | CHEMBL2182237 |
@@ -238,6 +239,7 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | HSP90AA1 | 13 | 1.59 | 0.41 | 0.50 | CHEMBL3387537 |
 | ChEMBL | HSP90AA1 | 9 | 0.99 | 0.62 | 0.67 | CHEMBL3427922 |
 | ChEMBL | HSP90AA1 | 23 | 1.60 | 0.38 | 0.44 | CHEMBL3885742 |
+| ChEMBL | HSP90AA1 | 12 | 0.69 | 0.76 | 0.56 | CHEMBL3885778 |
 | ChEMBL | HSP90AA1 | 10 | 1.11 | 0.48 | 0.42 | CHEMBL3885779 |
 | ChEMBL | HSP90AA1 | 7 | 0.74 | 0.34 | 0.59 | CHEMBL4372487 |
 | ChEMBL | HSP90AA1 | 11 | 0.67 | 0.76 | 0.56 | CHEMBL832973 |
@@ -291,6 +293,10 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | MAP2K1 | 10 | 0.86 | 0.28 | 0.18 | CHEMBL2092007 |
 | ChEMBL | MAP2K1 | 22 | 1.00 | 0.47 | 0.45 | CHEMBL3096357 |
 | ChEMBL | MAP2K1 | 22 | 1.17 | 0.24 | 0.40 | CHEMBL3266112 |
+| ChEMBL | MAP3K12 | 20 | 0.55 | 0.60 | 0.54 | CHEMBL3721107|g1 |
+| ChEMBL | MAP3K12 | 20 | 0.78 | 0.48 | 0.49 | CHEMBL3721107|g2 |
+| ChEMBL | MAP3K12 | 18 | 0.88 | 0.58 | 0.51 | CHEMBL3721107|g5 |
+| ChEMBL | MAP3K12 | 20 | 1.04 | 0.42 | 0.48 | CHEMBL3721107|g6 |
 | ChEMBL | MAP3K5 | 17 | 1.00 | 0.56 | 0.26 | CHEMBL4605628 |
 | ChEMBL | MAP4K4 | 19 | 0.85 | 0.39 | 0.49 | CHEMBL3265752 |
 | ChEMBL | MAP4K4 | 12 | 0.77 | 0.41 | 0.26 | CHEMBL3624922 |
@@ -318,6 +324,7 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | MAPK14 | 29 | 0.90 | 0.31 | 0.44 | CHEMBL2317232 |
 | ChEMBL | MAPK14 | 41 | 1.12 | 0.30 | 0.36 | CHEMBL3070436 |
 | ChEMBL | MAPK14 | 35 | 1.57 | 0.33 | 0.33 | CHEMBL3705800 |
+| ChEMBL | MAPK14 | 15 | 0.52 | 0.57 | 0.38 | CHEMBL4019402|g2 |
 | ChEMBL | MAPK14 | 17 | 1.79 | 0.39 | 0.53 | CHEMBL732094 |
 | ChEMBL | MAPK14 | 9 | 1.42 | 0.68 | 0.56 | CHEMBL734085 |
 | ChEMBL | MAPK14 | 9 | 1.65 | 0.54 | 0.56 | CHEMBL734088 |
@@ -352,6 +359,17 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | MTAP | 17 | 0.98 | 0.40 | 0.38 | CHEMBL2073357 |
 | ChEMBL | NAMPT | 39 | 1.53 | 0.25 | 0.21 | CHEMBL2395457 |
 | ChEMBL | NAMPT | 36 | 1.21 | 0.30 | 0.31 | CHEMBL2396492 |
+| ChEMBL | NAMPT | 20 | 0.98 | 0.45 | 0.34 | CHEMBL3888190|g10 |
+| ChEMBL | NAMPT | 20 | 1.22 | 0.48 | 0.43 | CHEMBL3888190|g11 |
+| ChEMBL | NAMPT | 15 | 1.37 | 0.64 | 0.68 | CHEMBL3888190|g14 |
+| ChEMBL | NAMPT | 20 | 0.73 | 0.51 | 0.44 | CHEMBL3888190|g16 |
+| ChEMBL | NAMPT | 19 | 0.84 | 0.56 | 0.49 | CHEMBL3888190|g17 |
+| ChEMBL | NAMPT | 15 | 0.59 | 0.63 | 0.49 | CHEMBL3888190|g19 |
+| ChEMBL | NAMPT | 15 | 0.55 | 0.59 | 0.60 | CHEMBL3888190|g23 |
+| ChEMBL | NAMPT | 15 | 0.84 | 0.43 | 0.50 | CHEMBL3888190|g24 |
+| ChEMBL | NAMPT | 20 | 0.53 | 0.70 | 0.62 | CHEMBL3888190|g25 |
+| ChEMBL | NAMPT | 20 | 0.65 | 0.42 | 0.35 | CHEMBL3888190|g26 |
+| ChEMBL | NAMPT | 19 | 0.70 | 0.46 | 0.52 | CHEMBL3888190|g9 |
 | ChEMBL | NAMPT | 38 | 1.01 | 0.42 | 0.53 | CHEMBL4036655 |
 | ChEMBL | NEK2 | 11 | 1.12 | 0.35 | 0.45 | CHEMBL1693342 |
 | ChEMBL | NEK2 | 19 | 1.42 | 0.42 | 0.46 | CHEMBL2044151 |
@@ -374,6 +392,9 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | PDE10A | 33 | 0.77 | 0.23 | 0.30 | CHEMBL2071880 |
 | ChEMBL | PDE10A | 17 | 1.46 | 0.37 | 0.50 | CHEMBL3297609 |
 | ChEMBL | PDE10A | 28 | 1.59 | 0.55 | 0.61 | CHEMBL3632375 |
+| ChEMBL | PDE10A | 15 | 1.22 | 0.52 | 0.44 | CHEMBL3705240|g1 |
+| ChEMBL | PDE10A | 15 | 0.79 | 0.69 | 0.66 | CHEMBL3705240|g4 |
+| ChEMBL | PDE10A | 20 | 0.62 | 0.67 | 0.68 | CHEMBL3888829|g5 |
 | ChEMBL | PDE1B | 13 | 1.16 | 0.51 | 0.53 | CHEMBL4011522 |
 | ChEMBL | PDE2A | 21 | 1.30 | 0.50 | 0.56 | CHEMBL4008514 |
 | ChEMBL | PDE2A | 16 | 1.35 | 0.38 | 0.27 | CHEMBL4181710 |
@@ -384,6 +405,7 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | PDE5A | 12 | 1.58 | 0.24 | 0.38 | CHEMBL1107382 |
 | ChEMBL | PDE5A | 22 | 1.74 | 0.50 | 0.43 | CHEMBL2184512 |
 | ChEMBL | PDE5A | 14 | 0.80 | 0.48 | 0.54 | CHEMBL968866 |
+| ChEMBL | PDK2 | 30 | 0.84 | 0.62 | 0.63 | CHEMBL4403261 |
 | ChEMBL | PDK2 | 20 | 0.45 | 0.88 | 0.82 | CHEMBL5057865 |
 | ChEMBL | PDPK1 | 43 | 1.66 | 0.51 | 0.55 | CHEMBL1768778 |
 | ChEMBL | PDPK1 | 11 | 1.01 | 0.53 | 0.20 | CHEMBL1942054 |
@@ -422,6 +444,9 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | PPARG | 28 | 1.29 | 0.70 | 0.63 | CHEMBL1004952 |
 | ChEMBL | PPARG | 26 | 1.30 | 0.31 | 0.43 | CHEMBL1947820 |
 | ChEMBL | PPARG | 44 | 1.54 | 0.58 | 0.66 | CHEMBL3706350 |
+| ChEMBL | PPARG | 20 | 1.19 | 0.62 | 0.56 | CHEMBL3706350|g1 |
+| ChEMBL | PPARG | 15 | 1.17 | 0.74 | 0.86 | CHEMBL3706350|g2 |
+| ChEMBL | PPARG | 15 | 1.16 | 0.61 | 0.55 | CHEMBL3706350|g3 |
 | ChEMBL | PPARG | 22 | 1.88 | 0.34 | 0.44 | CHEMBL827222 |
 | ChEMBL | PPARG | 9 | 1.15 | 0.23 | 0.42 | CHEMBL830853 |
 | ChEMBL | PPARG | 12 | 1.23 | 0.36 | 0.52 | CHEMBL980390 |
@@ -445,6 +470,7 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | RIPK2 | 33 | 1.37 | 0.47 | 0.47 | CHEMBL4135584 |
 | ChEMBL | RIPK2 | 12 | 1.20 | 0.46 | 0.52 | CHEMBL4269599 |
 | ChEMBL | RIPK2 | 28 | 1.77 | 0.22 | 0.44 | CHEMBL4771083 |
+| ChEMBL | ROCK1 | 15 | 0.98 | 0.56 | 0.49 | CHEMBL3887786|g2 |
 | ChEMBL | ROCK2 | 26 | 0.79 | 0.21 | 0.30 | CHEMBL2444040 |
 | ChEMBL | ROCK2 | 12 | 1.14 | 0.38 | 0.39 | CHEMBL4669834 |
 | ChEMBL | RORC | 22 | 1.38 | 0.21 | 0.31 | CHEMBL3270932 |
@@ -479,6 +505,11 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | USP7 | 12 | 1.22 | 0.28 | 0.00 | CHEMBL5234060 |
 | ChEMBL | WDR5 | 38 | 1.78 | 0.47 | 0.56 | CHEMBL3875502 |
 | ChEMBL | WEE1 | 10 | 1.44 | 0.48 | 0.58 | CHEMBL5230681 |
+| Covalent | CAPN1 | 7 | 0.70 | 0.02 | -0.05 | Chatterjee1996 |
+| Covalent | CRUZAIN | 20 | 0.86 | 0.43 | 0.36 | Avelar2015 |
+| Covalent | hCatL | 8 | 0.86 | 0.47 | 0.69 | Bonatto2021 |
+| Covalent | hCatL | 7 | 1.43 | 0.35 | -0.62 | Hardegger2011 |
+| Covalent | hCatL | 5 | 0.40 | 0.81 | 0.80 | Lameira2019 |
 | CyclicPeptide | Menin | 16 | 0.90 | 0.46 | 0.50 |  |
 | CyclicPeptide | PCSK9 | 18 | 0.77 | 0.51 | 0.47 |  |
 | GPCR | A2A | 10 | 0.76 | 0.83 | 0.69 | Deflorian |
