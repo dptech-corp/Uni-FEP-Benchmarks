@@ -34,8 +34,8 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 
 
 ## Summary of Benchmark Results
-**Total Systems**: 544  
-**Total Ligands**: 10520
+**Total Systems**: 543  
+**Total Ligands**: 10502
 ![RMSE Distribution](rmse_distribution.png)
 ![Kendall's tau Distribution](tau_distribution.png)
 | Series | Target | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau | Description |
@@ -283,7 +283,6 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | JAK2 | 17 | 0.87 | 0.67 | 0.43 | CHEMBL3707950|g5 |
 | ChEMBL | JAK2 | 20 | 0.86 | 0.65 | 0.69 | CHEMBL3707950|g6 |
 | ChEMBL | JAK2 | 20 | 1.03 | 0.67 | 0.32 | CHEMBL3707950|g7 |
-| ChEMBL | JAK2 | 18 | 1.42 | 0.79 | 0.65 | CHEMBL3707950|g9 |
 | ChEMBL | JAK2 | 9 | 1.30 | 0.77 | 0.56 | CHEMBL4031305 |
 | ChEMBL | JAK2 | 8 | 1.36 | 0.23 | 0.07 | CHEMBL4046590 |
 | ChEMBL | JAK2 | 15 | 0.83 | 0.55 | 0.44 | CHEMBL4150584 |
