@@ -34,8 +34,8 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 
 
 ## Summary of Benchmark Results
-**Total Systems**: 545  
-**Total Ligands**: 10535
+**Total Systems**: 544  
+**Total Ligands**: 10520
 ![RMSE Distribution](rmse_distribution.png)
 ![Kendall's tau Distribution](tau_distribution.png)
 | Series | Target | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau | Description |
@@ -474,7 +474,6 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | PTK2 | 23 | 1.03 | 0.41 | 0.44 | CHEMBL4832051 |
 | ChEMBL | PTK2 | 23 | 1.26 | 0.86 | 0.73 | CHEMBL962347 |
 | ChEMBL | PTPN1 | 7 | 0.91 | 0.48 | 0.52 | CHEMBL768521 |
-| ChEMBL | PTPN1 | 15 | 1.04 | 0.40 | 0.48 | CHEMBL896126|g3 |
 | ChEMBL | RAF1 | 11 | 1.47 | 0.53 | 0.44 | CHEMBL3267830 |
 | ChEMBL | RARG | 17 | 1.35 | 0.39 | 0.40 | CHEMBL798022 |
 | ChEMBL | RBP4 | 21 | 1.28 | 0.38 | 0.41 | CHEMBL3380009 |
