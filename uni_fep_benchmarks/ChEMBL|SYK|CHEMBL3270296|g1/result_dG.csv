@@ -1,0 +1,21 @@
+ligand_smiles,ligand_name,exp_dG (kcal/mol),fep_dG (kcal/mol),fep_dG_std (kcal/mol)
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c(C(=O)N([H])[H])c([H])c([H])c3C([H])([H])[H])c([H])n2c1[H],CHEMBL3265011_466.0_nM,-8.6400,-5.6542,0.2746
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c(C(=O)N([H])[H])c([H])c3C([H])([H])[H])c([H])n2c1[H],CHEMBL3265015_113.0_nM,-9.4800,-6.6199,0.1112
+[H]c1nc(-c2c([H])c([H])c(N([H])C(=O)c3c([H])c([H])c([H])c(-c4nc(N([H])c5c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c5[H])c5nc([H])c([H])n5c4[H])c3[H])c([H])c2[H])n([H])c1[H],CHEMBL3265002_16.5_nM,-10.6200,-12.7651,0.1197
+[H]c1nn([H])c([H])c1-c1c([H])c([H])c(N([H])C(=O)c2c([H])c([H])c([H])c(-c3nc(N([H])c4c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c4[H])c4nc([H])c([H])n4c3[H])c2[H])c([H])c1[H],CHEMBL3265004_11.0_nM,-10.8600,-12.6148,0.1354
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c(C(=O)N([H])[H])c(OC([H])([H])[H])c3[H])c([H])n2c1[H],CHEMBL3265014_23.8_nM,-10.4000,-8.6580,0.1768
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N([H])c4c([H])c([H])c(-c5nnn[n-]5)c([H])c4[H])c3[H])c([H])n2c1[H],CHEMBL3265001_1.5_nM,-12.0400,-13.6686,0.1848
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N([H])c4c([H])c([H])c(C([H])([H])C(=O)[O-])c([H])c4[H])c3[H])c([H])n2c1[H],CHEMBL3264998_2.6_nM,-11.7100,-13.2394,0.2014
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N([H])c4c([H])c([H])c([H])c(C(=O)[O-])c4[H])c3[H])c([H])n2c1[H],CHEMBL3264997_8.9_nM,-10.9800,-12.3274,0.1847
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N(C([H])([H])[H])C([H])([H])[H])c3[H])c([H])n2c1[H],CHEMBL3265007_112.0_nM,-9.4800,-8.3792,0.8298
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N([H])C([H])([H])[H])c3[H])c([H])n2c1[H],CHEMBL3265006_50.2_nM,-9.9600,-8.9592,0.8056
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N([H])[H])c3[H])c([H])n2c1[H],CHEMBL3265005_27.1_nM,-10.3200,-9.3809,0.2599
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N([H])c4c([H])c([H])c(C(=O)OC([H])([H])[H])c([H])c4[H])c3[H])c([H])n2c1[H],CHEMBL3264996_15.2_nM,-10.6700,-11.5846,0.1445
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c(C([H])([H])[H])c(C(=O)N([H])[H])c3[H])c([H])n2c1[H],CHEMBL3265009_28.3_nM,-10.3000,-9.4569,0.2000
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N([H])c4c([H])c([H])c(C(=O)[O-])c([H])c4[H])c3[H])c([H])n2c1[H],CHEMBL3264995_0.84_nM,-12.3800,-13.1854,0.1848
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c(C(=O)N([H])[H])c(F)c3[H])c([H])n2c1[H],CHEMBL3265012_18.6_nM,-10.5500,-11.2339,0.2828
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c(C(=O)N([H])[H])c(C([H])([H])[H])c3[H])c([H])n2c1[H],CHEMBL3265013_64.1_nM,-9.8100,-10.3891,0.2359
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c(OC([H])([H])[H])c(C(=O)N([H])[H])c3[H])c([H])n2c1[H],CHEMBL3265010_37.4_nM,-10.1300,-9.8448,0.1434
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c([H])c(C(=O)N([H])c4c([H])c([H])c(C(=O)N([H])[H])c([H])c4[H])c3[H])c([H])n2c1[H],CHEMBL3264999_4.3_nM,-11.4100,-11.6697,0.1011
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c(C(=O)N([H])[H])c([H])c3[H])c([H])n2c1[H],CHEMBL3259820_17.7_nM,-10.5800,-10.6649,0.1106
+[H]c1nc2c(N([H])c3c([H])c([H])c(OC([H])([H])[H])c(OC([H])([H])[H])c3[H])nc(-c3c([H])c([H])c(F)c(C(=O)N([H])[H])c3[H])c([H])n2c1[H],CHEMBL3265008_67.3_nM,-9.7800,-9.8042,0.1833
