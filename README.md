@@ -34,8 +34,8 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 
 
 ## Summary of Benchmark Results
-**Total Systems**: 573  
-**Total Ligands**: 10952
+**Total Systems**: 582  
+**Total Ligands**: 11112
 ![RMSE Distribution](rmse_distribution.png)
 ![Kendall's tau Distribution](tau_distribution.png)
 | Series | Target | N_Ligands | RMSE (kcal/mol) | R² | Kendall's tau | Description |
@@ -173,6 +173,7 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | DPP4 | 18 | 0.72 | 0.27 | 0.44 | CHEMBL2444439 |
 | ChEMBL | DPP4 | 15 | 1.60 | 0.39 | 0.48 | CHEMBL3620564 |
 | ChEMBL | DPP4 | 23 | 0.74 | 0.61 | 0.50 | CHEMBL951312 |
+| ChEMBL | DPP7 | 15 | 1.20 | 0.78 | 0.69 | CHEMBL666614|g2 |
 | ChEMBL | DUT | 18 | 0.83 | 0.51 | 0.45 | CHEMBL2049243 |
 | ChEMBL | DUT | 13 | 1.10 | 0.40 | 0.49 | CHEMBL2060493 |
 | ChEMBL | DUT | 20 | 0.64 | 0.62 | 0.55 | CHEMBL3705334|g6 |
@@ -217,7 +218,13 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | F10 | 28 | 1.19 | 0.50 | 0.53 | CHEMBL661794 |
 | ChEMBL | F10 | 4 | 0.56 | 0.55 | 0.33 | CHEMBL661801 |
 | ChEMBL | F10 | 15 | 0.79 | 0.34 | 0.28 | CHEMBL662878 |
+| ChEMBL | F10 | 19 | 1.40 | 0.59 | 0.65 | CHEMBL663407|g3 |
 | ChEMBL | F10 | 18 | 0.80 | 0.22 | 0.41 | CHEMBL827928 |
+| ChEMBL | F10 | 20 | 1.28 | 0.46 | 0.54 | CHEMBL875189|g1 |
+| ChEMBL | F10 | 17 | 1.17 | 0.69 | 0.53 | CHEMBL875189|g2 |
+| ChEMBL | F10 | 20 | 1.24 | 0.66 | 0.63 | CHEMBL875189|g3 |
+| ChEMBL | F10 | 20 | 1.22 | 0.54 | 0.53 | CHEMBL875189|g5 |
+| ChEMBL | F10 | 15 | 1.17 | 0.62 | 0.62 | CHEMBL875189|g6 |
 | ChEMBL | F10 | 36 | 1.11 | 0.20 | 0.28 | CHEMBL889317 |
 | ChEMBL | F10 | 36 | 1.84 | 0.37 | 0.32 | CHEMBL900663 |
 | ChEMBL | F10 | 9 | 0.75 | 0.72 | 0.56 | CHEMBL906423 |
@@ -539,6 +546,8 @@ For more details, please refer to our [FEP Open Challenge introduction](https://
 | ChEMBL | SRC | 17 | 0.88 | 0.50 | 0.46 | CHEMBL823232 |
 | ChEMBL | STK3 | 8 | 0.71 | 0.42 | 0.64 | CHEMBL3395732 |
 | ChEMBL | SYK | 21 | 1.56 | 0.29 | 0.31 | CHEMBL1838853 |
+| ChEMBL | SYK | 20 | 1.43 | 0.79 | 0.72 | CHEMBL3270296|g1 |
+| ChEMBL | SYK | 14 | 0.98 | 0.67 | 0.63 | CHEMBL3270296|g3 |
 | ChEMBL | SYK | 21 | 0.76 | 0.28 | 0.11 | CHEMBL945309 |
 | ChEMBL | TEK | 24 | 1.98 | 0.24 | 0.36 | CHEMBL908503 |
 | ChEMBL | THRB | 8 | 0.62 | 0.81 | 0.64 | CHEMBL814601 |
